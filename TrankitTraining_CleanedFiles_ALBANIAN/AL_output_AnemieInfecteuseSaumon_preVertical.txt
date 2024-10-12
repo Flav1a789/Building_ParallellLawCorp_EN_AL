@@ -1,0 +1,8683 @@
+<text id="1">
+<s id="0">
+2003/466/KE	2003/466/ke	NUM
+</s>
+<s id="1">
+:	:	PUNCT
+Vendim	vendim	NOUN
+i	i	DET
+Komisionit	Komisionit	PROPN
+i	i	DET
+13	13	NUM
+Qershorit	Qershorit	PROPN
+2003	2003	NUM
+që	që	PRON
+vendos	vendo	VERB
+kriteret	kriteret	NOUN
+për	për	ADP
+ndarjen	ndarjen	NOUN
+në	në	ADP
+zona	zona	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADP
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+pranisë	pranisë	NOUN
+së	së	DET
+Anemisë	Anemisë	PROPN
+Infektive	Infektive	PROPN
+të	të	DET
+Salmonit	Salmonit	PROPN
+(	(	PROPN
+ISA	ISA	PROPN
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="2">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+Tekst	tekst	NOUN
+kuptimi	kuptimi	NOUN
+i	i	DET
+të	të	DET
+cilit	cilit	PRON
+lidhet	lidhet	VERB
+me	I	ADP
+ZEE	ZEE	PROPN
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="3">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+shënuar	shënuar	VERB
+me	I	ADP
+numër	numër	NOUN
+.	.	PUNCT
+</s>
+<text id="4">
+<s id="0">
+dokumenti	dokumenti	NOUN
+</s>
+<s id="1">
+C	C	PROPN
+(	(	PUNCT
+2003	2003	NUM
+)	)	PUNCT
+1831	1831	NUM
+)	)	PUNCT
+</s>
+<text id="5">
+<s id="0">
+KOMISIONI	KOMISIONI	PROPN
+</s>
+<s id="1">
+I	I	DET
+KOMUNITETEVE	KOMUNITETEVE	PROPN
+EUROPIANE	EUROPIANE	PROPN
+</s>
+<text id="6">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+Traktatin	traktatin	NOUN
+Themelues	Themelues	PROPN
+të	të	DET
+Komunitetit	komunitetit	NOUN
+Europian	Europian	PROPN
+,	,	PUNCT
+Duke	Duke	PART
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+Direktivën	Direktivën	PROPN
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+91/67/KEE	91/67/kee	NUM
+të	të	DET
+28	28	NUM
+janarit	janarit	NOUN
+1991	1991	NUM
+mbi	mbi	ADP
+kushtet	kushtet	NOUN
+e	e	DET
+shëndetit	shëndetit	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+që	që	PRON
+rregullojnë	rregulloj	VERB
+hedhjen	hedhjen	NOUN
+në	në	ADP
+treg	treg	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+dhe	dhe	CCONJ
+produkteve	produkteve	NOUN
+të	të	DET
+akuakulturës	akuakultur	NOUN
+1	1	NUM
+,	,	PUNCT
+siç	siç	ADV
+është	është	VERB
+ndryshuar	ndryshuar	VERB
+së	së	CCONJ
+fundmi	fundmi	ADV
+nga	non	ADP
+Rregullorja	rregullorja	NOUN
+(	(	PUNCT
+KE	KE	PROPN
+)	)	PUNCT
+nr.	nr.	NOUN
+806/20032	806/20032	NUM
+,	,	PUNCT
+dhe	dhe	CCONJ
+në	në	ADP
+veçanti	veçanti	ADV
+neni	neni	NOUN
+15	15	NUM
+i	i	DET
+saj	saj	PRON
+,	,	PUNCT
+Duke	Duke	PART
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+Direktivën	Direktivën	PROPN
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+93/53/KE	93/53/ke	NUM
+të	të	DET
+24	24	NUM
+qershorit	qershorit	NOUN
+1993	1993	NUM
+,	,	PUNCT
+e	e	DET
+cila	cila	PRON
+vendosi	vendosi	VERB
+për	për	ADV
+herë	herë	ADV
+të	të	DET
+parë	parë	ADJ
+masat	masat	NOUN
+minimale	minimale	ADJ
+komunitare	komunitare	ADJ
+për	për	ADP
+kontrollin	kontrollin	NOUN
+e	e	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+të	të	DET
+peshqve	peshqve	NOUN
+3	3	NUM
+,	,	PUNCT
+siç	siç	ADV
+është	është	VERB
+ndryshuar	ndryshuar	VERB
+së	së	DET
+fundmi	fundmi	ADV
+nga	non	ADP
+Vendimi	vendimi	NOUN
+i	i	DET
+Komisionit	Komisionit	PROPN
+2001/288/KE4	2001/288/ke4	NUM
+,	,	PUNCT
+dhe	dhe	CCONJ
+veçanërisht	veçanërisht	ADV
+neni	neni	NOUN
+5	5	NUM
+pika	pika	NOUN
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+neni	neni	NOUN
+6	6	NUM
+i	i	DET
+tij	thij	PRON
+,	,	PUNCT
+</s>
+<text id="7">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+se	se	CCONJ
+:	:	PUNCT
+(	(	PUNCT
+1	1	NUM
+)	)	PUNCT
+Direktiva	Direktiva	PROPN
+93/53/KEE	93/53/KEE	PROPN
+përcakton	përcakton	VERB
+,	,	PUNCT
+që	që	PRON
+kampionimi	kampionimi	NOUN
+dhe	dhe	CCONJ
+testet	testet	NOUN
+laboratorike	laboratorike	ADJ
+për	për	ADJ
+praninë	praninë	NOUN
+e	e	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+listës	list	NOUN
+I	I	DET
+dhe	dhe	CCONJ
+listës	list	NOUN
+II	ii	NUM
+(	(	PUNCT
+që	që	PRON
+referohen	referohen	VERB
+në	në	ADP
+Shtojcën	shtojcën	NOUN
+A	A	PROPN
+të	të	DET
+Direktivës	Direktivës	PROPN
+91/67/KEE	91/67/kee	NUM
+)	)	PUNCT
+duhet	duhet	VERB
+të	të	DET
+kryhen	kryh	VERB
+duke	duke	PART
+përdorur	përdorur	VERB
+metodat	metodat	NOUN
+e	e	DET
+përcaktuara	përcaktuara	ADJ
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+nenin	nenin	NOUN
+15	15	NUM
+të	të	DET
+Direktivës	Direktivës	PROPN
+91/67/KEE	91/67/kee	NUM
+;	;	PUNCT
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+Planet	Planet	NOUN
+e	e	DET
+kampionimit	kampionimit	NOUN
+dhe	dhe	CCONJ
+metodat	metodat	NOUN
+diagnostike	diagnostike	ADJ
+për	për	ADP
+zbulimin	zbulimin	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+listës	list	NOUN
+II	ii	NUM
+në	në	ADP
+peshq	peshq	NOUN
+,	,	PUNCT
+septicemia	septicemia	NOUN
+hemorragjike	hemorragjike	ADJ
+virale	virale	ADJ
+(	(	DET
+VHS	VHS	PROPN
+)	)	PUNCT
+dhe	dhe	CCONJ
+nekroza	nekroza	NOUN
+hemopoietike	hemopoietike	ADJ
+invektive	invektive	ADJ
+(	(	PUNCT
+IHN	IHN	PROPN
+)	)	PUNCT
+parashtrohen	parashtrohen	VERB
+në	në	ADP
+Vendimin	vendimin	NOUN
+e	e	DET
+Komisionit	Komisionit	PROPN
+2001/183/KE5	2001/183/ke5	NUM
+;	;	PUNCT
+</s>
+<text id="8">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+3	3	NUM
+)	)	PUNCT
+Sipas	sipas	ADP
+nenit	nenit	NOUN
+5	5	NUM
+pika	pika	NOUN
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+nenit	nenit	NOUN
+6	6	NUM
+të	të	DET
+Direktivës	Direktivës	PROPN
+93/53/KEE	93/53/KEE	PROPN
+,	,	PUNCT
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+e	e	DET
+së	së	DET
+njëjtës	njëjtës	ADJ
+zonë	zonë	NOUN
+,	,	PUNCT
+që	që	PRON
+furnizohen	furnizohen	VERB
+nga	non	ADP
+të	të	DET
+njëjtat	njëjtat	ADJ
+burime	burime	NOUN
+ujore	ujore	ADJ
+,	,	PUNCT
+ose	ose	CCONJ
+në	në	ADP
+zona	zona	NOUN
+bregdetare	bregdetare	ADJ
+,	,	PUNCT
+në	në	ADP
+të	të	DET
+cilat	cilat	PRON
+një	një	NUM
+fermë	fermë	NOUN
+dyshohet	dyshohet	VERB
+ose	ose	CCONJ
+vërtetohet	vërtetohet	VERB
+e	e	DET
+infektuar	infektuar	ADJ
+nga	non	ADP
+virusi	virusi	NOUN
+i	i	DET
+anemisë	anemisë	NOUN
+infektive	infektive	NOUN
+të	të	DET
+salmonit	salmonit	NOUN
+(	(	PUNCT
+ISA	ISA	PROPN
+)	)	PUNCT
+,	,	PUNCT
+duhet	duhet	AUX
+të	të	DET
+vendoset	vendoset	VERB
+nën	nin	ADP
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+;	;	PUNCT
+</s>
+<text id="9">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+4	4	NUM
+)	)	PUNCT
+Në	në	ADP
+mënyrë	mënyrë	NOUN
+që	që	SCONJ
+të	të	DET
+përcaktohen	pprcaktohen	VERB
+planet	planet	NOUN
+e	e	DET
+kampionimit	kampionimit	NOUN
+dhe	dhe	CCONJ
+metodat	metodat	NOUN
+diagnostike	diagnostike	ADJ
+për	për	ADP
+zbulimin	zbulimin	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+dhe	dhe	CCONJ
+për	për	ADP
+të	të	DET
+vendosur	vendosur	VERB
+kriteret	kriteret	NOUN
+e	e	DET
+ndarjes	ndarje	NOUN
+në	në	ADP
+zona	zona	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjes	mbikpqyrje	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADP
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+këshillohen	kishillohen	VERB
+ekspertët	ekspertët	NOUN
+e	e	DET
+laboratorit	laboratorit	NOUN
+dhe	dhe	CCONJ
+të	të	DET
+akuakulturës	akuakultur	NOUN
+.	.	PUNCT
+</s>
+<text id="10">
+<s id="0">
+Për	për	PART
+</s>
+<s id="1">
+më	me	PART
+tepër	tepër	ADV
+jepen	jepe	VERB
+udhëzime	udhëzime	NOUN
+mbi	mbi	ADP
+diagnozën	diagnozën	NOUN
+e	e	DET
+ISA-s	isa-s	CCONJ
+në	në	ADP
+botimin	botimin	NOUN
+më	me	PART
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Manualit	manualit	NOUN
+diagnostik	diagnostik	NOUN
+të	të	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+ujore	ujore	ADJ
+të	të	DET
+OIE	OIE	PROPN
+- së	- së	DET
+;	;	PUNCT
+</s>
+<text id="11">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+5	5	NUM
+)	)	PUNCT
+Duhet	duhet	VERB
+të	të	DET
+parashikohet	parashikohet	VERB
+një	një	NUM
+kohë	kohë	NOUN
+e	e	DET
+mjaftueshme	mjaftueshme	ADJ
+për	për	ADP
+zbatimin	zbatimin	NOUN
+e	e	DET
+këtyre	këtyre	PRON
+kërkesave	kërkesave	NOUN
+të	të	DET
+reja	reja	ADJ
+;	;	PUNCT
+(	(	PUNCT
+6	6	NUM
+)	)	PUNCT
+Masat	masat	NOUN
+që	që	PRON
+parashikohen	parashikohen	VERB
+në	në	ADP
+këtë	këtë	PRON
+vendim	vendim	NOUN
+janë	janë	VERB
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+mendimin	mendimin	NOUN
+e	e	DET
+Komitetit	Komitetit	PROPN
+Veterinar	veterinar	NOUN
+Veprues	veprue	NOUN
+,	,	PUNCT
+mbi	mbi	ADP
+zinxhirin	zinxhirin	NOUN
+ushqimor	ushqimor	ADJ
+dhe	dhe	CCONJ
+shëndetin	shëndetin	NOUN
+e	e	DET
+kafshëve	kafshive	NOUN
+.	.	PUNCT
+</s>
+<text id="12">
+<s id="0">
+KA	ket	VERB
+</s>
+<s id="1">
+MIRATUAR	MIRATUAR	PROPN
+KËTË	këtë	PRON
+VENDIM	VENDIM	PROPN
+</s>
+<text id="13">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+1	1	NUM
+</s>
+<text id="14">
+<s id="0">
+Planet	Planet	NOUN
+</s>
+<s id="1">
+e	e	DET
+kampionimit	kampionimit	NOUN
+dhe	dhe	CCONJ
+metodat	metodat	NOUN
+diagnostike	diagnostike	ADJ
+për	për	NOUN
+zbulimin	zbulimin	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+anemisë	anemisë	NOUN
+infektive	infektive	NOUN
+të	të	DET
+salmonit	salmonit	NOUN
+(	(	PUNCT
+ISA	ISA	PROPN
+)	)	PUNCT
+dhe	dhe	CCONJ
+kriteret	kriteret	NOUN
+për	për	ADP
+ndarjen	ndarjen	NOUN
+në	në	ADP
+zona	zona	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADP
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+vendosen	vendose	VERB
+në	në	ADP
+shtojcën	shtojcën	NOUN
+e	e	DET
+këtij	këtij	PRON
+vendimi	vendimi	NOUN
+.	.	PUNCT
+</s>
+<text id="15">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+2	2	NUM
+</s>
+<text id="16">
+<s id="0">
+Ky	ky	PRON
+</s>
+<s id="1">
+vendim	vendim	NOUN
+do	do	PART
+të	të	DET
+zbatohet	zbatohet	VERB
+nga	non	ADP
+23	23	NUM
+tetori	tetori	NOUN
+2003	2003	NUM
+</s>
+<text id="17">
+<s id="0">
+SHTOJCË	SHTOJCË	PROPN
+</s>
+<text id="18">
+<s id="0">
+Planet	Planet	NOUN
+</s>
+<s id="1">
+e	e	DET
+kampionimit	kampionimit	NOUN
+dhe	dhe	CCONJ
+metodat	metodat	NOUN
+diagnostike	diagnostike	ADJ
+për	për	NOUN
+zbulimin	zbulimin	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+Anemisë	Anemisë	PROPN
+Infektive	Infektive	PROPN
+të	të	DET
+Salmonit	Salmonit	PROPN
+(	(	PROPN
+ISA	ISA	PROPN
+)	)	PUNCT
+dhe	dhe	CCONJ
+kriteret	kriteret	NOUN
+për	për	ADP
+ndarjen	ndarjen	NOUN
+në	në	ADP
+zona	zona	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADP
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vertetimit	vertetimit	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+</s>
+<text id="19">
+<s id="0">
+HYRJE	hyrje	NOUN
+</s>
+<s id="1">
+DHE	dhe	CCONJ
+PËRKUFIZIME	përkufizime	NOUN
+</s>
+<text id="20">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+shtojcë	shtojcë	NOUN
+:	:	PUNCT
+(	(	PUNCT
+a	a	DET
+)	)	PUNCT
+parashikon	parashikon	VERB
+udhëzime	udhëzime	NOUN
+për	për	ADP
+minimumin	minimumin	NOUN
+e	e	DET
+kërkesave	kërkesave	NOUN
+mbi	mbi	ADP
+plane	plane	NOUN
+të	të	DET
+kampionimit	kampionimit	NOUN
+dhe	dhe	CCONJ
+metodat	metodat	NOUN
+diagnostike	diagnostike	ADJ
+për	për	ADJ
+zbulimin	zbulimin	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+pranisë	pranisë	NOUN
+së	së	DET
+ISA-s	ISA-s	PROPN
+;	;	PUNCT
+(	(	PUNCT
+b	b	DET
+)	)	PUNCT
+bashkon	bashkon	VERB
+kriteret	kriteret	NOUN
+dhe	dhe	CCONJ
+përcaktimet	përcaktimet	NOUN
+e	e	DET
+parashtruara	parashtruara	ADJ
+në	në	ADP
+Direktivën	Direktivën	PROPN
+91/67/KEE	91/67/kee	NUM
+dhe	dhe	CCONJ
+Direktivën	Direktivën	PROPN
+93/53/KEE	93/53/KEE	PROPN
+;	;	PUNCT
+(	(	PUNCT
+c	c	DET
+)	)	PUNCT
+vendos	vendo	VERB
+kritere	kritere	NOUN
+me	I	ADP
+qëllim	qëllim	NOUN
+diagnozën	diagnozën	NOUN
+e	e	DET
+saktë	saktë	ADJ
+,	,	PUNCT
+kontrollin	kontrollin	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+në	në	ADP
+rast	rast	NOUN
+dyshimi	dyshimi	NOUN
+ose	ose	CCONJ
+vërtetimi	vërtetimi	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+;	;	PUNCT
+(	(	PUNCT
+d	d	DET
+)	)	PUNCT
+i	i	DET
+drejtohet	drejtohet	VERB
+autoriteteve	autoriteteve	NOUN
+përgjegjëse	përgjegjëse	ADJ
+për	për	ADJ
+kontrollin	kontrollin	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+dhe	dhe	CCONJ
+personelit	personelit	NOUN
+të	të	DET
+laboratorit	laboratorit	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+kryejë	kryejë	NOUN
+testet	testet	NOUN
+në	në	ADP
+lidhje	lidhje	NOUN
+me	I	ADP
+sëmundjen	spmundje	NOUN
+.	.	PUNCT
+</s>
+<text id="21">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+përputhje	përputhje	NOUN
+më	më	ADP
+këtë	këtë	PRON
+,	,	PUNCT
+theksi	theksi	NOUN
+vendoset	vendoset	VERB
+në	në	ADP
+procedurat	procedurat	NOUN
+e	e	DET
+kampionimit	kampionimit	NOUN
+,	,	PUNCT
+parimet	parimet	NOUN
+dhe	dhe	CCONJ
+aplikimet	aplikimet	NOUN
+e	e	DET
+testeve	testeve	NOUN
+laboratorike	laboratorike	ADJ
+dhe	dhe	CCONJ
+vlerësimi	vlerësimi	NOUN
+i	i	DET
+rezultateve	rezultateve	NOUN
+të	të	DET
+tyre	tyre	PRON
+ashtu	ashtu	ADV
+edhe	edhe	CCONJ
+në	në	ADP
+teknikat	teknikat	NOUN
+e	e	DET
+detajuara	detajuara	ADJ
+laboratorike	laboratorike	ADJ
+.	.	PUNCT
+</s>
+<text id="22">
+<s id="0">
+Megjithatë	megjithatë	CCONJ
+</s>
+<s id="1">
+,	,	CCONJ
+nëse	nëse	CCONJ
+laboratorët	laboratorët	NOUN
+zbatojnë	zbatojnë	VERB
+modifikime	modifikime	NOUN
+të	të	DET
+testeve	testeve	NOUN
+të	të	DET
+përshkruara	përshkruara	ADJ
+në	në	ADP
+këtë	këtë	PRON
+shtojcë	shtojcë	NOUN
+ose	ose	CCONJ
+përdorin	përdorin	VERB
+teste	teste	NOUN
+të	të	DET
+tjera	tjera	PRON
+,	,	PUNCT
+parashikohet	parashikohet	VERB
+që	që	SCONJ
+të	të	DET
+tregohet	tregohet	VERB
+një	një	NUM
+specifikim	specifikim	NOUN
+dhe	dhe	CCONJ
+ndjeshmëri	ndjeshmpri	NOUN
+e	e	DET
+njëjtë	njëjtë	ADJ
+.	.	PUNCT
+</s>
+<text id="23">
+<s id="0">
+Për	për	CCONJ
+</s>
+<s id="1">
+më	me	PART
+tepër	tepër	ADV
+,	,	PUNCT
+vendosen	vendose	VERB
+kriteret	kriteret	NOUN
+për	për	ADP
+vendosjen	vendosjen	NOUN
+e	e	DET
+zonave	zonave	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADV
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+.	.	PUNCT
+</s>
+<text id="24">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+qëllimin	qëllimin	NOUN
+e	e	DET
+kësaj	kësaj	PRON
+shtojce	shtojce	NOUN
+do	do	PART
+të	të	DET
+përdoren	pirdore	VERB
+përkufizimet	përkufizimet	NOUN
+e	e	DET
+mëposhtme	mëposhtme	PRON
+shtesë	shtesë	ADJ
+.	.	PUNCT
+</s>
+<text id="25">
+<s id="0">
+"	"	PUNCT
+</s>
+<s id="1">
+Basenet	basenet	NOUN
+ujëmbledhës	ujëmbledhës	ADJ
+"	"	PUNCT
+nënkupton	npnkupton	VERB
+të	të	DET
+gjithë	gjithë	PRON
+zonën	zonën	NOUN
+ujëmbledhëse	ujëmbledhëse	ADJ
+nga	non	ADP
+burimet	burimet	NOUN
+ose	ose	CCONJ
+lumenjtë	lumenjtë	NOUN
+deri	deriug	ADP
+në	në	ADP
+grykëderdhje	grykëderdhje	NOUN
+,	,	PUNCT
+ose	ose	CCONJ
+pjesë	pjesë	NOUN
+e	e	DET
+një	një	NUM
+zone	zone	NOUN
+ujëmbledhëse	ujëmbledhëse	ADJ
+nga	non	ADP
+një	një	NUM
+burim	burim	NOUN
+ose	ose	CCONJ
+lumë	lumë	NOUN
+deri	deriug	ADP
+në	në	ADP
+një	një	NUM
+barrierë	barrierë	NOUN
+natyrale	natyrale	ADJ
+ose	ose	CCONJ
+artificiale	artificiale	ADJ
+,	,	PUNCT
+e	e	DET
+cila	cila	PRON
+pengon	pend	VERB
+migrimin	migrimin	NOUN
+e	e	DET
+peshqve	peshqve	NOUN
+.	.	PUNCT
+</s>
+<text id="26">
+<s id="0">
+"	"	PUNCT
+</s>
+<s id="1">
+Zonë	Zonë	PROPN
+bregdetare	bregdetare	ADJ
+"	"	PUNCT
+nënkupton	npnkupton	VERB
+pjesë	pjesë	NOUN
+të	të	DET
+bregdetit	bregdetit	NOUN
+ose	ose	CCONJ
+të	të	DET
+një	një	NUM
+grykëderdhjeje	grykëderdhjeje	NOUN
+me	I	ADJ
+një	një	NUM
+kufizim	kufizim	ADJ
+të	të	DET
+përcaktuar	përcaktuar	ADJ
+gjeografik	gjeografik	ADJ
+,	,	PUNCT
+që	që	PRON
+konsiston	konsiston	VERB
+në	në	ADP
+një	një	NUM
+sistem	sistem	NOUN
+hidrodinamik	hidrodinamik	ADJ
+homogjen	homogjen	ADJ
+ose	ose	CCONJ
+disa	disa	PRON
+sisteme	sisteme	NOUN
+të	të	DET
+tilla	tilla	PRON
+.	.	PUNCT
+</s>
+<text id="27">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+I	I	DET
+përfshin	përfshin	VERB
+parime	parime	NOUN
+të	të	DET
+përgjithshme	përgjithshme	ADJ
+dhe	dhe	CCONJ
+kriteret	kriteret	NOUN
+për	për	ADP
+diagnozën	diagnozën	NOUN
+dhe	dhe	CCONJ
+vërtetimin	vërtetimin	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+dhe	dhe	CCONJ
+kriteret	kriteret	NOUN
+për	për	ADP
+ndarjen	ndarjen	NOUN
+në	në	ADP
+zona	zona	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	ADJ
+që	që	PRON
+duhet	duhet	VERB
+të	të	DET
+vendoset	vendoset	VERB
+pasi	pasi	CCONJ
+dyshohet	dyshohet	VERB
+ose	ose	CCONJ
+vërtetohet	vërtetohet	VERB
+ISA	ISA	PROPN
+.	.	PUNCT
+</s>
+<text id="28">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+II	ii	NUM
+përshkruan	përshkruan	VERB
+inspektime	inspektime	NOUN
+dhe	dhe	CCONJ
+kampionime	kampionime	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+kryhen	kryh	VERB
+me	I	ADP
+qëllim	qëllim	NOUN
+zbulimin	zbulimin	NOUN
+e	e	DET
+pranisë	pranisë	NOUN
+së	së	DET
+ISA-s	ISA-s	PROPN
+.	.	PUNCT
+</s>
+<text id="29">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+III	iii	NUM
+përshkruan	përshkruan	VERB
+metodat	metodat	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+përdoren	pirdore	VERB
+për	për	ADP
+ekzaminimin	ekzaminimin	NOUN
+virologjik	virologjik	ADJ
+.	.	PUNCT
+</s>
+<text id="30">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+IV	iv	NUM
+përshkruan	përshkruan	VERB
+procedurat	procedurat	NOUN
+për	për	NOUN
+ekzaminimin	ekzaminimin	NOUN
+e	e	DET
+kampioneve	kampioneve	NOUN
+me	I	ADP
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+për	për	ADP
+zbulimin	zbulimin	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+.	.	PUNCT
+</s>
+<text id="31">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+V	V	PROPN
+përshkruan	përshkruan	VERB
+protokollin	protokollin	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+përdoret	përdoret	VERB
+për	për	ADP
+ekzaminimin	ekzaminimin	NOUN
+e	e	DET
+prerjeve	prerjeve	NOUN
+nga	non	ADP
+veshkat	veshkat	NOUN
+me	I	ADP
+IFAT	IFAT	PROPN
+.	.	PUNCT
+</s>
+<text id="32">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+VI	VI	PROPN
+përfshin	përfshin	VERB
+metodat	metodat	NOUN
+histologjike	histologjike	NOUN
+.	.	PUNCT
+</s>
+<text id="33">
+<s id="0">
+Pjesa	pjesa	NOUN
+</s>
+<s id="1">
+VII	vii	NUM
+jep	jep	VERB
+një	një	NUM
+listë	listë	NOUN
+akronimesh	akronimesh	NOUN
+(	(	PUNCT
+iniciale	iniciale	ADJ
+)	)	PUNCT
+dhe	dhe	CCONJ
+shkurtimesh	shkurtimesh	NOUN
+.	.	PUNCT
+</s>
+<text id="34">
+<s id="0">
+I	I	DET
+</s>
+<s id="1">
+.	.	PUNCT
+Kriteret	kriteret	NOUN
+për	për	NOUN
+diagnozën	diagnozën	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+dhe	dhe	CCONJ
+vendosjen	vendosjen	NOUN
+e	e	DET
+zonave	zonave	NOUN
+,	,	PUNCT
+disa	disa	PRON
+masa	masa	NOUN
+kontrolli	kontrolli	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	NOUN
+.	.	PUNCT
+</s>
+<text id="35">
+<s id="0">
+I	I	DET
+</s>
+<s id="1">
+.	.	PUNCT
+1	1	NUM
+Parime	parime	NOUN
+të	të	DET
+përgjithshme	përgjithshme	ADJ
+për	për	ADP
+diagnozën	diagnozën	NOUN
+e	e	DET
+ISA-s	isa-s	CCONJ
+</s>
+<text id="36">
+<s id="0">
+Mjaft	mjaft	NOUN
+</s>
+<s id="1">
+zona	zona	NOUN
+që	që	SCONJ
+dyshohej	dyshohej	VERB
+se	se	CCONJ
+ishin	ishin	VERB
+të	të	DET
+infektuara	infektuara	ADJ
+me	I	ADJ
+ISAV	ISAV	PROPN
+përshkruhen	pershkruhen	VERB
+në	në	ADP
+Pjesën	pjesën	NOUN
+I.2	i.2	NUM
+të	të	DET
+kësaj	kësaj	PRON
+shtojce	shtojce	NOUN
+.	.	PUNCT
+</s>
+<text id="37">
+<s id="0">
+Shtetet	Shtetet	PROPN
+</s>
+<s id="1">
+Anëtare	Anëtare	PROPN
+duhet	duhet	VERB
+të	të	DET
+sigurojnë	sigurojnë	VERB
+që	që	SCONJ
+pasi	pasi	CCONJ
+dyshohet	dyshohet	VERB
+se	se	CCONJ
+një	një	NUM
+peshk	peshk	NOUN
+ose	ose	CCONJ
+një	një	NUM
+fermë	fermë	NOUN
+është	është	VERB
+e	e	DET
+infektuar	infektuar	ADJ
+me	I	ADP
+ISAV	ISAV	PROPN
+duhet	duhet	VERB
+të	të	DET
+kryhet	kryhet	VERB
+sa	sa	ADV
+më	me	PART
+shpejt	shpejt	ADV
+të	të	DET
+jetë	jetë	VERB
+e	e	DET
+mundur	mundur	ADJ
+një	një	NUM
+kontroll	kontroll	NOUN
+zyrtar	zyrtar	ADJ
+për	për	ADP
+të	të	DET
+vërtetuar	vërtetuar	VERB
+praninë	praninë	NOUN
+e	e	DET
+sëmundjes	spmundje	NOUN
+,	,	PUNCT
+kjo	kjo	PRON
+duke	duke	PART
+bërë	bërë	VERB
+inspektime	inspektime	NOUN
+dhe	dhe	CCONJ
+ekzaminimet	ekzaminimet	NOUN
+klinike	klinike	ADJ
+si	si	ADV
+dhe	dhe	CCONJ
+mbledhjen	mbledhjen	NOUN
+dhe	dhe	CCONJ
+zgjedhjen	zgjedhjen	NOUN
+e	e	DET
+kampioneve	kampioneve	NOUN
+dhe	dhe	CCONJ
+metodave	metodave	NOUN
+laboratorike	laboratorike	ADJ
+,	,	PUNCT
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+III.4	iii.4	NUM
+të	të	DET
+kësaj	kësaj	PRON
+shtojce	shtojce	NOUN
+.	.	PUNCT
+</s>
+<text id="38">
+<s id="0">
+Me	I	ADP
+</s>
+<s id="1">
+qëllim	qëllim	NOUN
+vërtetimin	vërtetimin	NOUN
+zyrtar	zyrtar	NOUN
+të	të	DET
+pranisë	pranisë	NOUN
+së	së	DET
+ISA-s	isa-s	CCONJ
+,	,	PUNCT
+duhet	duhet	AUX
+të	të	DET
+përmbushet	përmbushet	VERB
+secili	secili	PRON
+nga	non	ADP
+këto	këto	PRON
+tre	tre	NUM
+grupe	grupe	NOUN
+kriteresh	kriteresh	NOUN
+,	,	PUNCT
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+I. 3	i. 3	NUM
+</s>
+<text id="39">
+<s id="0">
+I.2	i.2	NUM
+</s>
+<text id="40">
+<s id="0">
+Dyshimi	dyshimi	NOUN
+</s>
+<s id="1">
+i	i	DET
+infeksionit	infeksionit	NOUN
+nga	non	ADP
+ISA	ISA	PROPN
+I.2	i.2	NUM
+.1	.1	NUM
+</s>
+<text id="41">
+<s id="0">
+Prania	prania	NOUN
+</s>
+<s id="1">
+e	e	DET
+ISA-s	ISA-s	PROPN
+dyshohet	dyshohet	VERB
+kur	kur	CCONJ
+plotësohet	plotësohet	VERB
+të	të	DET
+paktën	paktën	ADJ
+një	një	NUM
+nga	non	ADP
+këto	këto	PRON
+kritere	kritere	NOUN
+:	:	PUNCT
+</s>
+<text id="42">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	PRON
+)	)	PUNCT
+prania	prania	NOUN
+e	e	DET
+peshqve	peshqve	NOUN
+të	të	DET
+ngordhur	ngordhur	ADJ
+me	I	NOUN
+ISA	isa	NOUN
+,	,	PUNCT
+me	I	ADP
+ose	ose	CCONJ
+pa	pa	ADP
+shenja	shenja	NOUN
+klinike	klinike	ADJ
+të	të	DET
+sëmundjes	spmundje	NOUN
+.	.	PUNCT
+</s>
+<text id="43">
+<s id="0">
+Të	të	DET
+</s>
+<s id="1">
+dhënat	dhënat	NOUN
+post- mortem	post-imort	VERB
+dhe	dhe	CCONJ
+shenjat	shenjat	NOUN
+klinike	klinike	ADJ
+të	të	DET
+sëmundjes	spmundje	NOUN
+duhet	duhet	VERB
+të	të	DET
+përputhen	përputhen	VERB
+me	I	ADP
+ato	ato	PRON
+të	të	DET
+përshkruara	përshkruara	ADJ
+në	në	ADP
+botimin	botimin	NOUN
+më	më	ADJ
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Manualit	manualit	NOUN
+diagnostik	diagnostik	ADJ
+të	të	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+ujore	ujore	ADJ
+të	të	DET
+OIE	OIE	PROPN
+;	;	PUNCT
+(	(	PUNCT
+b	b	DET
+)	)	PUNCT
+izolimi	izolimi	NOUN
+dhe	dhe	CCONJ
+identifikimi	identifikimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+në	në	ADP
+kultura	kultura	NOUN
+qelizore	qelizore	ADJ
+nga	non	ADP
+një	një	NUM
+kampion	kampion	NOUN
+i	i	DET
+vetëm	vetëm	ADJ
+i	i	DET
+çdo	çdo	PRON
+peshku	peshku	NOUN
+në	në	ADP
+fermë	fermë	NOUN
+,	,	PUNCT
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+III	iii	NUM
+;	;	PUNCT
+(	(	PUNCT
+c	c	DET
+)	)	PUNCT
+të	të	DET
+dhëna	dhëna	ADJ
+të	të	DET
+arsyeshme	arsyeshme	ADJ
+për	për	ADP
+praninë	praninë	NOUN
+e	e	DET
+ISAV	ISAV	PROPN
+të	të	DET
+marra	marra	ADJ
+nga	non	ADP
+dy	dy	NUM
+teste	teste	NOUN
+laboratorike	laboratorike	ADJ
+të	të	DET
+pavarur	pavarur	ADJ
+të	të	DET
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+(	(	PUNCT
+Pjesa	pjesa	NOUN
+IV	iv	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+IFAT	IFAT	PROPN
+(	(	PUNCT
+pjesa	pjesa	NOUN
+V	V	PROPN
+)	)	PUNCT
+;	;	PUNCT
+(	(	PUNCT
+d	d	DET
+)	)	PUNCT
+futja	futja	NOUN
+e	e	DET
+peshqve	peshqve	NOUN
+të	të	DET
+rinj	rinj	ADJ
+në	në	ADP
+një	një	NUM
+fermë	fermë	NOUN
+ku	ku	CCONJ
+dyshohet	dyshohet	VERB
+se	se	CCONJ
+ISA	isa	VERB
+ishte	ishte	VERB
+e	e	DET
+pranishme	pranishme	ADJ
+në	në	ADP
+kohën	kohën	NOUN
+e	e	DET
+transferimit	transferimit	NOUN
+;	;	PUNCT
+(	(	PUNCT
+e	e	DET
+)	)	PUNCT
+kur	kur	CCONJ
+kërkimi	kërkimi	NOUN
+na	to	PRON
+jep	jep	VERB
+edhe	edhe	CCONJ
+të	të	DET
+dhëna	dhëna	ADJ
+epidemiologjike	epidemiologjike	ADJ
+shtesë	shtesë	ADJ
+të	të	DET
+lidhura	lidhura	ADJ
+me	I	ADJ
+ISA-n	isa-n	NOUN
+e	e	DET
+dyshuar	dyshuar	ADJ
+ose	ose	CCONJ
+ferma	ferma	NOUN
+të	të	DET
+përcaktuar	përcaktuar	ADJ
+.	.	PUNCT
+</s>
+<text id="44">
+<s id="0">
+I.2.2	I.2.2	PROPN
+</s>
+<s id="1">
+Dyshimi	dyshimi	NOUN
+mund	mund	VERB
+të	të	DET
+eliminohet	eliminohet	VERB
+nëse	nëse	CCONJ
+kërkimet	kërkimet	NOUN
+e	e	DET
+vazhdueshme	vazhdueshme	ADJ
+,	,	PUNCT
+që	që	PRON
+përfshijnë	perfshijn	VERB
+të	të	DET
+paktën	paktën	ADJ
+një	një	NUM
+inspektim	inspektim	NOUN
+klinik	klinik	ADJ
+në	në	ADP
+muaj	muaj	NOUN
+,	,	PUNCT
+për	për	ADP
+një	një	NUM
+periudhë	periudhë	NOUN
+gjashtë	gjashtë	NUM
+mujore	mujore	ADJ
+,	,	PUNCT
+nuk	nuk	PART
+japin	japin	VERB
+të	të	DET
+dhëna	dhëna	ADJ
+për	për	ADP
+praninë	praninë	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+.	.	PUNCT
+</s>
+<text id="45">
+<s id="0">
+I.3	i.3	NUM
+</s>
+<s id="1">
+Vërtetimi	vërtetimi	NOUN
+i	i	DET
+ISA-s	ISA-s	PROPN
+</s>
+<text id="46">
+<s id="0">
+Prania	prania	NOUN
+</s>
+<s id="1">
+e	e	DET
+ISA-s	ISA-s	PROPN
+vërtetohet	vërtetohet	VERB
+nëse	nëse	CCONJ
+plotësohen	plotesohen	VERB
+kriteret	kriteret	NOUN
+e	e	DET
+pikave	pikave	NOUN
+(	(	PUNCT
+a	a	DET
+)	)	DET
+ose	ose	CCONJ
+(	(	DET
+b	b	DET
+)	)	PUNCT
+ose	ose	CCONJ
+të	të	DET
+(	(	DET
+c	c	DET
+)	)	PUNCT
+:	:	PUNCT
+</s>
+<text id="47">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	PRON
+)	)	PUNCT
+</s>
+<text id="48">
+<s id="0">
+I.4	i.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+vihen	vihen	VERB
+re	be	NOUN
+shenjat	shenjat	NOUN
+klinike	klinike	ADJ
+dhe	dhe	CCONJ
+të	të	NOUN
+dhënat	dhënat	NOUN
+post-mortem	post-mortem	NOUN
+që	që	PRON
+i	i	DET
+përkasin	përkasin	VERB
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+botimin	botimin	NOUN
+më	më	PRON
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Manualit	manualit	NOUN
+diagnostik	diagnostik	NOUN
+të	të	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+ujore	ujore	ADJ
+të	të	DET
+OIE	OIE	PROPN
+,	,	PUNCT
+përfshi	perfshi	VERB
+ngordhje	ngordhje	NOUN
+,	,	PUNCT
+dobësi	dobësi	NOUN
+ose	ose	CCONJ
+sjellje	sjellje	NOUN
+jonormale	jonormale	ADJ
+,	,	PUNCT
+shenja	shenja	NOUN
+të	të	DET
+anemisë	anemisë	NOUN
+,	,	PUNCT
+ndryshime	ndryshime	NOUN
+të	të	DET
+tjera	tjera	PRON
+patologjike	patologjike	NOUN
+dhe	dhe	CCONJ
+post-mortem	post-mortem	NOUN
+dhe	dhe	CCONJ
+zbulohet	zbulohet	VERB
+virusi	virusi	NOUN
+i	i	DET
+ISA-s	ISA-s	PROPN
+me	I	ADP
+një	një	NUM
+ose	ose	CCONJ
+më	më	PRON
+shumë	shumë	ADV
+nga	non	ADP
+metodat	metodat	NOUN
+e	e	DET
+mëposhtme	mëposhtme	ADJ
+:	:	PUNCT
+</s>
+<text id="49">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+i	i	DET
+)	)	PUNCT
+izolimi	izolimi	NOUN
+dhe	dhe	CCONJ
+identifikimi	identifikimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+në	në	ADP
+kultura	kultura	NOUN
+qelizore	qelizore	ADJ
+nga	non	ADP
+të	të	DET
+paktën	paktën	ADJ
+një	një	NUM
+kampion	kampion	NOUN
+prej	prej	ADP
+çdo	çdo	PRON
+peshku	peshku	NOUN
+në	në	ADP
+fermë	fermë	NOUN
+,	,	PUNCT
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+III	iii	NUM
+,	,	PUNCT
+(	(	PUNCT
+ii	ii	DET
+)	)	PUNCT
+zbulimi	zbulimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+me	I	ADP
+anë	anë	NOUN
+të	të	DET
+metodave	metodave	NOUN
+të	të	DET
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+siç	siç	CCONJ
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+Pjesën	pjesën	NOUN
+IV	iv	NUM
+,	,	PUNCT
+(	(	PUNCT
+iii	iii	DET
+)	)	PUNCT
+zbulimi	zbulimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+në	në	ADP
+inde	inde	NOUN
+ose	ose	CCONJ
+përgatitjet	përgatitjet	NOUN
+nga	non	ADP
+indet	indet	NOUN
+me	I	ADP
+anë	anë	NOUN
+të	të	DET
+antitrupave	antitrupave	NOUN
+të	të	DET
+veçantë	veçantë	ADJ
+kundër	kundër	ADJ
+ISAV	ISAV	PROPN
+(	(	PUNCT
+si	si	ADV
+IFAT	IFAT	PROPN
+në	në	ADP
+prerjet	prerjet	NOUN
+nga	non	ADP
+veshkat	veshkat	NOUN
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+V	V	PROPN
+)	)	PUNCT
+;	;	PUNCT
+(	(	PUNCT
+b	b	DET
+)	)	PUNCT
+izolimi	izolimi	NOUN
+dhe	dhe	CCONJ
+identifikimi	identifikimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+në	në	ADP
+dy	dy	NUM
+kampione	kampione	NOUN
+nga	non	ADP
+një	një	NUM
+ose	ose	CCONJ
+më	më	PRON
+shumë	shumë	ADV
+peshq	peshq	NOUN
+në	në	ADP
+fermën	fermën	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+testohet	testohet	VERB
+,	,	PUNCT
+të	të	DET
+kontrolluara	kontrolluara	ADJ
+në	në	ADP
+raste	raste	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+,	,	PUNCT
+duke	duke	PART
+përdorur	përdorur	ADJ
+metodat	metodat	NOUN
+e	e	DET
+përshkruara	përshkruara	ADJ
+në	në	ADP
+Pjesën	pjesën	NOUN
+III	iii	NUM
+;	;	PUNCT
+(	(	PUNCT
+c	c	DET
+)	)	PUNCT
+izolimi	izolimi	NOUN
+dhe	dhe	CCONJ
+identifikimi	identifikimi	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+nga	non	ADP
+të	të	DET
+paktën	paktën	ADJ
+një	një	NUM
+kampion	kampion	NOUN
+nga	non	ADP
+çdo	çdo	ADV
+peshk	peshk	NOUN
+në	në	ADP
+fermë	fermë	NOUN
+,	,	PUNCT
+duke	duke	PART
+përdorur	përdorur	ADJ
+metodat	metodat	NOUN
+e	e	DET
+përshkruara	përshkruara	ADJ
+në	në	ADP
+pjesën	pjesën	NOUN
+III	iii	NUM
+,	,	PUNCT
+me	I	ADP
+të	të	DET
+dhëna	dhëna	ADJ
+të	të	DET
+ngjashme	ngjashme	ADJ
+të	të	DET
+ISAV	ISAV	PROPN
+në	në	ADP
+prerjet	prerjet	NOUN
+e	e	DET
+indeve	indeve	NOUN
+nga	non	ADP
+çdo	çdo	PRON
+peshk	peshk	NOUN
+në	në	ADP
+fermë	fermë	NOUN
+,	,	PUNCT
+duke	duke	PART
+përdorur	përdorur	ADJ
+si	si	ADV
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+(	(	PUNCT
+pjesa	pjesa	NOUN
+IV	iv	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+ashtu	ashtu	ADV
+edhe	edhe	CCONJ
+IFAT	IFAT	PROPN
+(	(	PUNCT
+pjesa	pjesa	NOUN
+V	V	PROPN
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="50">
+<s id="0">
+Kriteret	kriteret	NOUN
+</s>
+<s id="1">
+për	për	NOUN
+vendosjen	vendosjen	NOUN
+dhe	dhe	CCONJ
+shfuqizimin	shfuqizimin	NOUN
+e	e	DET
+zonave	zonave	NOUN
+për	për	NOUN
+kontrollin	kontrollin	NOUN
+dhe	dhe	CCONJ
+mbikëqyrjen	mbikpqyrjen	NOUN
+zyrtare	zyrtare	NOUN
+pas	pas	ADV
+dyshimit	dyshimit	NOUN
+dhe	dhe	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+ISA	isa	PUNCT
+-s	's	CCONJ
+.	.	PUNCT
+</s>
+<text id="51">
+<s id="0">
+I.4.1	i.4.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Me	I	ADP
+qëllim	qëllim	NOUN
+vendosjen	vendosjen	NOUN
+e	e	DET
+një	një	NUM
+programi	programi	NOUN
+zyrtar	zyrtar	ADJ
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+,	,	PUNCT
+të	të	DET
+bazuar	bazuar	VERB
+në	në	ADP
+risk	risk	NOUN
+,	,	PUNCT
+Shtetet	Shtetet	PROPN
+Anëtare	Anëtare	PROPN
+duhet	duhet	AUX
+,	,	PUNCT
+në	në	ADP
+afërsi	afërsi	NOUN
+të	të	DET
+një	një	NUM
+ferme	ferme	NOUN
+ku	ku	CCONJ
+zyrtarisht	zyrtarisht	ADV
+dyshohet	dyshohet	VERB
+ose	ose	CCONJ
+vërtetohet	vërtetohet	VERB
+e	e	DET
+infektuar	infektuar	VERB
+me	I	ADJ
+ISA	isa	VERB
+,	,	PUNCT
+të	të	DET
+vendosin	vendosin	VERB
+kontrollin	kontrollin	NOUN
+e	e	DET
+duhur	duhur	ADJ
+dhe	dhe	CCONJ
+zonën	zonën	NOUN
+e	e	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+.	.	PUNCT
+</s>
+<text id="52">
+<s id="0">
+I.4.2	i.4.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Vendosja	vendosja	NOUN
+e	e	DET
+zonës	zone	NOUN
+duhet	duhet	VERB
+të	të	DET
+përcaktohet	përcaktohet	VERB
+me	I	ADP
+anë	anë	NOUN
+të	të	DET
+analizave	analizave	NOUN
+rast	rast	NOUN
+pas	pas	ADV
+rasti	rasti	NOUN
+të	të	DET
+rrezikut	rrezikut	NOUN
+për	për	ADJ
+përhapjen	pprhapjen	NOUN
+e	e	DET
+mëtejshme	mëtejshme	ADJ
+të	të	DET
+sëmundjes	spmundje	NOUN
+.	.	PUNCT
+</s>
+<text id="53">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+përputhje	përputhje	NOUN
+me	I	ADP
+situatë	situatë	NOUN
+n	and	DET
+epizootologjike	epizootologjike	NOUN
+,	,	PUNCT
+baseni	baseni	NOUN
+ujëmbledhës	ujpmbledh	NOUN
+ose	ose	CCONJ
+zona	zona	NOUN
+bregdetare	bregdetare	ADJ
+:	:	PUNCT
+-	-	PUNCT
+duhet	duhet	VERB
+të	të	DET
+përcaktohet	përcaktohet	VERB
+si	si	ADV
+zonë	zonë	NOUN
+kontrolli	kontrolli	NOUN
+,	,	PUNCT
+ose	ose	CCONJ
+-	-	PUNCT
+mundet	mundet	VERB
+,	,	PUNCT
+që	që	PRON
+basenet	basenet	NOUN
+e	e	DET
+mëdha	mëdha	ADJ
+ose	ose	CCONJ
+zonat	zonat	NOUN
+bregdetare	bregdetare	ADJ
+,	,	PUNCT
+të	të	DET
+ndahen	ndahen	VERB
+në	në	ADP
+një	një	NUM
+zonë	zonë	NOUN
+kontrolli	kontrolli	NOUN
+dhe	dhe	CCONJ
+në	në	ADP
+një	një	NUM
+zonë	zonë	NOUN
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+,	,	PUNCT
+nëse	nëse	CCONJ
+nuk	nuk	VERB
+cënohet	cënohet	VERB
+parandalimi	parandalimi	NOUN
+i	i	DET
+përhapjes	pprhapje	NOUN
+së	së	DET
+ISA	isa	VERB
+.	.	PUNCT
+</s>
+<text id="54">
+<s id="0">
+Për	për	CCONJ
+</s>
+<s id="1">
+më	me	PART
+tepër	tepër	ADV
+,	,	PUNCT
+mund	mund	VERB
+të	të	DET
+vendoset	vendoset	VERB
+një	një	NUM
+zonë	zonë	NOUN
+shtesë	shtesë	NOUN
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+,	,	PUNCT
+nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+nevojshme	nevojshme	ADJ
+,	,	PUNCT
+jashtë	jashtë	ADP
+basenit	basenit	NOUN
+ujëmbledhës	ujëmbledhës	ADJ
+ose	ose	CCONJ
+zonës	zone	NOUN
+bregdetare	bregdetare	ADJ
+.	.	PUNCT
+</s>
+<text id="55">
+<s id="0">
+I.4.3	i.4.3	NUM
+</s>
+<s id="1">
+Faktorët	faktorët	NOUN
+kryesorë	kryesorë	ADJ
+që	që	PRON
+duhen	duh	VERB
+marrë	marrë	VERB
+parasysh	parasysh	VERB
+për	për	ADP
+vendosjen	vendosjen	NOUN
+e	e	DET
+zonave	zonave	NOUN
+të	të	DET
+mësipërme	mësipërme	ADJ
+,	,	PUNCT
+janë	janë	VERB
+ato	ato	PRON
+që	që	PRON
+ndikojnë	ndikojnë	VERB
+në	në	ADP
+rrezikun	rrezikun	NOUN
+e	e	DET
+përhapjes	pprhapje	NOUN
+së	së	DET
+sëmundjes	spmundje	NOUN
+në	në	ADP
+peshqit	peshqit	NOUN
+e	e	DET
+rezervateve	rezervateve	NOUN
+dhe	dhe	CCONJ
+ata	ata	PRON
+të	të	DET
+egër	egër	ADJ
+,	,	PUNCT
+të	të	DET
+tillë	tillë	PRON
+si	si	PRON
+:	:	PUNCT
+numri	numri	NOUN
+,	,	PUNCT
+shkalla	shkalla	NOUN
+e	e	DET
+vdekshmërisë	vdekshmërisë	NOUN
+në	në	ADP
+peshqit	peshqit	NOUN
+e	e	DET
+fermës	ferm	NOUN
+që	që	PRON
+dyshohet	dyshohet	VERB
+ose	ose	CCONJ
+vërtetohet	vërtetohet	VERB
+e	e	DET
+infektuar	infektuar	ADJ
+nga	nga	ADJ
+ISAV	ISAV	PROPN
+;	;	PUNCT
+shkaku	shkaku	NOUN
+i	i	DET
+vdekshmërisë	vdekshmërisë	NOUN
+në	në	ADP
+fermën	fermën	NOUN
+në	në	ADP
+fjalë	fjalë	NOUN
+;	;	PUNCT
+fermat	fermat	NOUN
+në	në	ADP
+kontakt	kontakt	NOUN
+;	;	PUNCT
+speciet	speciet	NOUN
+e	e	DET
+pranishme	pranishme	ADJ
+në	në	ADP
+fermë	fermë	NOUN
+;	;	PUNCT
+menaxhimi	menaxhimi	NOUN
+që	që	PRON
+zbatohet	zbatohet	VERB
+në	në	ADP
+fermën	fermën	NOUN
+e	e	DET
+prekur	prekur	ADJ
+apo	apo	CCONJ
+në	në	ADP
+fermat	fermat	NOUN
+fqinje	fqinje	ADJ
+;	;	PUNCT
+kushtet	kushtet	NOUN
+hidrodinamike	hidrodinamike	ADJ
+dhe	dhe	CCONJ
+faktorë	faktorë	NOUN
+të	të	DET
+tjerë	tjerë	ADJ
+me	I	ADJ
+rëndësi	rëndësi	NOUN
+epidemiologjike	epidemiologjike	ADJ
+të	të	DET
+identifikuar	identifikuar	ADJ
+brenda	brenda	ADV
+fermës	ferm	NOUN
+pas	pas	ADP
+një	një	NUM
+kontrolli	kontrolli	NOUN
+epizootik	epizootik	ADJ
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+nenet	nenet	NOUN
+5	5	NUM
+pika	pika	NOUN
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+8	8	NUM
+të	të	DET
+Direktivës	Direktivës	PROPN
+93/53/KEE.	93/53/kee.	NUM
+</s>
+<text id="56">
+<s id="0">
+I.4.4	i.4.4	NUM
+</s>
+<s id="1">
+Për	për	ADP
+vendosjen	vendosjen	NOUN
+e	e	DET
+zonës	zone	NOUN
+duhet	duhet	VERB
+të	të	DET
+zbatohen	zbatohen	VERB
+këto	këto	PRON
+kritere	kritere	NOUN
+minimale	minimale	ADJ
+.	.	PUNCT
+</s>
+<text id="57">
+<s id="0">
+I.4.4.1	i.4.4.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nga	nga	ADP
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+duhet	duhet	AUX
+të	të	DET
+vendoset	vendoset	VERB
+një	një	NUM
+"	"	PUNCT
+zonë	zonë	NOUN
+kontrolli	kontrolli	NOUN
+"	"	PUNCT
+në	në	ADP
+afërsi	afërsi	NOUN
+të	të	DET
+fermës	ferm	NOUN
+,	,	PUNCT
+që	që	PRON
+vërtetohet	vërtetohet	VERB
+e	e	DET
+infektuar	infektuar	ADJ
+me	I	ADP
+ISA	isa	VERB
+si	si	ADV
+më	më	ADP
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="58">
+<s id="0">
+-	-	PUNCT
+</s>
+<s id="1">
+në	në	ADP
+zonat	zonat	NOUN
+bregdetare	bregdetare	ADJ
+,	,	PUNCT
+zona	zona	NOUN
+përfshihet	përfshihet	VERB
+në	në	ADP
+një	një	NUM
+rreth	rreth	ADP
+me	I	ADP
+rreze	rreze	NOUN
+të	të	DET
+paktën	paktën	ADJ
+gjurmën	gjurmën	NOUN
+e	e	DET
+një	një	NUM
+batice	batice	NOUN
+ose	ose	CCONJ
+të	të	DET
+paktën	paktën	ADJ
+5	5	NUM
+km	km	NOUN
+,	,	PUNCT
+me	I	ADP
+qendër	qendër	NOUN
+fermën	fermën	NOUN
+që	që	PRON
+vërtetohet	vërtetohet	VERB
+e	e	DET
+infektuar	infektuar	ADJ
+nga	non	ADP
+ISAV	ISAV	PROPN
+,	,	PUNCT
+ose	ose	CCONJ
+një	një	NUM
+zonë	zonë	NOUN
+e	e	DET
+njëjtë	njëjtë	ADJ
+,	,	PUNCT
+përcaktuar	percaktuar	VERB
+në	në	ADP
+bazë	bazë	NOUN
+të	të	DET
+të	të	DET
+dhënave	dhënave	NOUN
+hidrodinamike	hidrodinamike	ADJ
+dhe	dhe	CCONJ
+epizootologjike	epizootologjike	ADJ
+,	,	PUNCT
+ose	ose	CCONJ
+-	-	PUNCT
+në	në	ADP
+zonat	zonat	NOUN
+e	e	DET
+brendshme	brendshme	ADJ
+(	(	PUNCT
+larg	larg	ADV
+bregdetit	bregdetit	NOUN
+)	)	PUNCT
+,	,	PUNCT
+i	i	DET
+gjithë	gjithë	PRON
+baseni	baseni	NOUN
+ujëmbledhës	ujpmbledh	NOUN
+që	që	PRON
+vërtetohet	vërtetohet	VERB
+i	i	DET
+infektuar	infektuar	ADJ
+nga	non	ADP
+ISAV	ISAV	PROPN
+;	;	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+mund	mund	AUX
+,	,	PUNCT
+në	në	ADP
+basenet	basenet	NOUN
+ekstensive	ekstensive	NOUN
+,	,	PUNCT
+të	të	DET
+kufizojnë	kufizojn	VERB
+përhapjen	pprhapjen	NOUN
+e	e	DET
+zonës	zone	NOUN
+në	në	ADP
+zona	zona	NOUN
+ose	ose	CCONJ
+basene	basene	NOUN
+ku	ku	CCONJ
+mendohet	mendohet	VERB
+se	se	CCONJ
+nuk	nuk	PART
+komprometohet	komprometohet	NOUN
+parandalimi	parandalimi	NOUN
+dhe	dhe	CCONJ
+përhapja	përhapja	NOUN
+e	e	DET
+ISA	ISA	PROPN
+-s	's	SYM
+.	.	PUNCT
+</s>
+<text id="59">
+<s id="0">
+I.4.4.2	i.4.4.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Në	në	ADP
+rast	rast	NOUN
+dyshimi	dyshimi	NOUN
+për	për	ADP
+praninë	praninë	NOUN
+e	e	DET
+ISA	isa	VERB
+-	-	PUNCT
+s	's	PART
+duhet	duhet	AUX
+të	të	DET
+vendoset	vendoset	VERB
+një	një	NUM
+"	"	NUM
+zonë	zonë	NOUN
+e	e	DET
+përkohshme	përkohshme	ADJ
+kontrolli	kontrolli	NOUN
+"	"	PUNCT
+,	,	PUNCT
+bazuar	bazuar	ADJ
+në	në	ADP
+të	të	DET
+njëjta	njëjta	ADJ
+t	t	DET
+kritere	kritere	ADJ
+si	si	ADV
+për	për	ADP
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+.	.	PUNCT
+</s>
+<text id="60">
+<s id="0">
+I.4.4.3	i.4.4.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+nevojshme	nevojshme	ADJ
+,	,	PUNCT
+Shtetet	Shtetet	PROPN
+Anëtare	Anëtare	PROPN
+duhet	duhet	VERB
+të	të	DET
+vendosin	vendosin	VERB
+një	një	NUM
+"	"	PUNCT
+zonë	zonë	NOUN
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+"	"	PUNCT
+jashtë	jashtë	ADP
+zonës	zone	NOUN
+së	së	DET
+kontrollit	kontrollit	NOUN
+,	,	PUNCT
+në	në	ADP
+zona	zona	NOUN
+ku	ku	CCONJ
+mbikëqyrja	mbikëqyrja	NOUN
+është	është	VERB
+më	me	PART
+e	e	DET
+pakët	pakët	ADJ
+dhe	dhe	CCONJ
+e	e	DET
+pamjaftueshme	pamjaftueshme	ADJ
+,	,	PUNCT
+që	që	PRON
+korrespondojnë	korrespondojn	VERB
+me	I	ADP
+:	:	PUNCT
+</s>
+<text id="61">
+<s id="0">
+I.5	i.5	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+-	-	PUNCT
+në	në	ADP
+zona	zona	NOUN
+bregdetare	bregdetare	ADJ
+,	,	PUNCT
+një	një	NUM
+zonë	zonë	NOUN
+që	që	PRON
+rrethon	rrethon	VERB
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+dhe	dhe	CCONJ
+përputhet	përputhet	VERB
+me	I	ADP
+gjurmën	gjurmën	NOUN
+e	e	DET
+baticës	batic	NOUN
+,	,	PUNCT
+një	një	NUM
+zonë	zonë	NOUN
+që	që	PRON
+rrethon	rrethon	VERB
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+dhe	dhe	CCONJ
+përfshin	përfshin	VERB
+një	një	NUM
+rreth	rreth	ADP
+me	I	ADP
+rreze	rreze	NOUN
+10	10	NUM
+km	km	NOUN
+,	,	PUNCT
+ku	ku	CCONJ
+si	si	ADV
+qendër	qendër	NOUN
+është	është	VERB
+zona	zona	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+,	,	PUNCT
+ose	ose	CCONJ
+një	një	NUM
+zonë	zonë	NOUN
+e	e	DET
+ngjashme	ngjashme	ADJ
+në	në	ADP
+varësi	varësi	NOUN
+të	të	DET
+të	të	DET
+dhënave	dhënave	NOUN
+hidrodinamike	hidrodinamike	ADJ
+dhe	dhe	CCONJ
+epidemiologjike	epidemiologjike	ADJ
+,	,	PUNCT
+-	-	PUNCT
+në	në	ADP
+brendësi	brendësi	NOUN
+,	,	PUNCT
+nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+nevojshme	nevojshme	ADJ
+një	një	NUM
+hapësirë	hapësirë	NOUN
+që	që	SCONJ
+shtrihet	shtrihet	VERB
+jashtë	jashtë	ADP
+zonës	zone	NOUN
+së	së	DET
+vendosur	vendosur	VERB
+të	të	DET
+kontrollit	kontrollit	NOUN
+.	.	PUNCT
+</s>
+<text id="62">
+<s id="0">
+Kontrolli	kontrolli	NOUN
+</s>
+<s id="1">
+dhe	dhe	CCONJ
+shfuqizimi	shfuqizimi	NOUN
+i	i	DET
+zonave	zonave	NOUN
+të	të	DET
+vendosura	vendosura	ADJ
+</s>
+<text id="63">
+<s id="0">
+I.5.1	I.5.1	PROPN
+</s>
+<s id="1">
+.	.	PUNCT
+Autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+nga	nga	ADJ
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+sigurojnë	sigurojnë	VERB
+që	që	SCONJ
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+brenda	brenda	ADV
+zonës	zone	NOUN
+së	së	DET
+kontrollit	kontrollit	NOUN
+janë	janë	VERB
+subjekt	subjekt	NOUN
+i	i	DET
+një	një	NUM
+periudhe	periudhe	ADJ
+kontrolli	kontrolli	ADJ
+pasi	pasi	CCONJ
+janë	janë	VERB
+boshatisur	boshatisur	VERB
+nga	non	ADP
+peshqit	peshqit	NOUN
+dhe	dhe	CCONJ
+dezinfektuar	dezinfektuar	ADJ
+.	.	PUNCT
+</s>
+<text id="64">
+<s id="0">
+Zgjatja	Zgjatja	NOUN
+</s>
+<s id="1">
+e	e	DET
+kësaj	kësaj	PRON
+periudhe	periudhe	NOUN
+në	në	ADP
+fermat	fermat	NOUN
+që	që	SCONJ
+vërtetohen	vertetohen	VERB
+të	të	DET
+infektuara	infektuara	ADJ
+nga	nga	ADJ
+ISA	isa	VERB
+,	,	PUNCT
+duhet	duhet	AUX
+të	të	DET
+jetë	jetë	VERB
+jo	jo	PART
+më	me	PART
+pak	pak	ADV
+se	se	PART
+gjashtë	gjashtë	NUM
+muaj	muaj	NOUN
+.	.	PUNCT
+</s>
+<text id="65">
+<s id="0">
+Gjatësia	gjatësia	NOUN
+</s>
+<s id="1">
+e	e	DET
+kësaj	kësaj	PRON
+periudhe	periudhe	NOUN
+për	për	ADP
+fermat	fermat	NOUN
+e	e	DET
+tjera	tjera	PRON
+në	në	ADP
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+duhet	duhet	VERB
+të	të	DET
+përcaktohet	përcaktohet	VERB
+nga	non	ADP
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+në	në	ADP
+bazë	bazë	NOUN
+të	të	DET
+vlerësimit	vlerësimit	NOUN
+të	të	DET
+rrezikut	rrezikut	NOUN
+rast	rast	NOUN
+pas	pas	ADV
+rasti	rasti	NOUN
+.	.	PUNCT
+</s>
+<text id="66">
+<s id="0">
+Kur	kur	CCONJ
+</s>
+<s id="1">
+të	të	DET
+boshatisen	boshatise	VERB
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+në	në	ADP
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+,	,	PUNCT
+duhet	duhet	VERB
+që	që	SCONJ
+të	të	DET
+zbatohen	zbatohen	VERB
+sinkron	sinkron	VERB
+një	një	NUM
+periudhë	periudhë	NOUN
+pushimi	pushimi	NOUN
+prej	prej	ADP
+gjashtë	gjashtë	NUM
+javësh	javësh	NOUN
+.	.	PUNCT
+</s>
+<text id="67">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+më	me	PART
+tepër	tepër	ADV
+,	,	PUNCT
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+mund	mund	VERB
+të	të	DET
+vendosin	vendosin	VERB
+mbi	mbi	VERB
+vendosjen	vendosjen	NOUN
+e	e	DET
+periudhës	periudh	NOUN
+së	së	DET
+pushimit	pushimit	NOUN
+në	në	ADP
+zonat	zonat	NOUN
+e	e	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+.	.	PUNCT
+</s>
+<text id="68">
+<s id="0">
+I.5.2	i.5.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Zonat	Zonat	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+mund	mund	VERB
+të	të	DET
+mos	mo	PART
+shfuqizohen	shfuqizohen	VERB
+dhe	dhe	CCONJ
+ripopullohen	ripopullohen	VERB
+derisa	derisa	CCONJ
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+të	të	DET
+boshatisen	boshatise	VERB
+nga	nga	VERB
+peshqit	peshqit	NOUN
+,	,	PUNCT
+dezinfektohen	dezinfektohen	VERB
+nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+nevojshme	nevojshme	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+vazhdohet	vazhdohet	VERB
+si	si	ADV
+tek	tek	ADP
+</s>
+<text id="69">
+<s id="0">
+I.5.1	i.5.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kur	kur	CCONJ
+bëhet	bëhet	VERB
+ripopullimi	ripopullimi	NOUN
+i	i	DET
+zonës	zone	NOUN
+,	,	PUNCT
+ajo	ajo	PRON
+konvertohet	konvertohet	VERB
+në	në	ADP
+një	një	NUM
+zonë	zonë	NOUN
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+si	si	ADV
+tek	tek	ADP
+I.4.4.3	i.4.4.3	NUM
+.	.	PUNCT
+</s>
+<text id="70">
+<s id="0">
+I.5.3	i.5.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Zona	zona	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+të	të	DET
+përkohshëm	përkohshëm	ADJ
+mund	mund	VERB
+të	të	DET
+shfuqizohet	shfuqizohet	VERB
+nëse	nëse	CCONJ
+vërtetohet	vërtetohet	VERB
+dyshimi	dyshimi	NOUN
+për	për	NOUN
+ISA-n	ISA-n	PROPN
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+pjesën	pjesën	NOUN
+</s>
+<text id="71">
+<s id="0">
+I.2.2	i.2.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Në	në	ADP
+rast	rast	NOUN
+vërtetimi	vërtetimi	NOUN
+për	për	NOUN
+ISA-n	ISA-n	PROPN
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+pjesën	pjesën	NOUN
+I.3	i.3	NUM
+,	,	PUNCT
+zona	zona	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+të	të	DET
+përkohshëm	përkohshëm	ADJ
+duhet	duhet	VERB
+të	të	DET
+shndërrohet	shndërrohet	VERB
+në	në	ADP
+zonë	zonë	NOUN
+kontrolli	kontrolli	NOUN
+.	.	PUNCT
+</s>
+<text id="72">
+<s id="0">
+I.5.4	i.5.4	NUM
+</s>
+<s id="1">
+Zonat	Zonat	NOUN
+e	e	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+nuk	nuk	VERB
+mund	mund	VERB
+të	të	DET
+shfuqizohen	shfuqizohen	VERB
+pa	pa	ADP
+kaluar	kaluar	VERB
+dy	dy	NUM
+vjet	vjet	NOUN
+nga	non	ADP
+shfuqizimi	shfuqizimi	NOUN
+i	i	DET
+zonës	zone	NOUN
+së	së	DET
+kontrollit	kontrollit	NOUN
+.	.	PUNCT
+</s>
+<text id="73">
+<s id="0">
+I.6	i.6	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Mbikëqyrja	mbikëqyrja	NOUN
+zyrtare	zyrtare	ADJ
+pas	pas	ADP
+dyshimit	dyshimit	NOUN
+ose	ose	CCONJ
+vërtetimit	vërtetimit	NOUN
+të	të	DET
+ISA-s	isa-s	CCONJ
+</s>
+<text id="74">
+<s id="0">
+I.6.1	I.6.1	PROPN
+</s>
+<s id="1">
+.	.	PUNCT
+Duke	Duke	PART
+ju	ju	PRON
+referuar	referuar	VERB
+neneve	neneve	NOUN
+5	5	NUM
+pika	pika	NOUN
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+6	6	NUM
+të	të	DET
+Direktivës	Direktivës	PROPN
+93/53/KEE	93/53/KEE	PROPN
+dhe	dhe	CCONJ
+në	në	ADP
+mënyrë	mënyrë	NOUN
+që	që	SCONJ
+të	të	DET
+përcaktohet	përcaktohet	VERB
+përhapja	përhapja	NOUN
+dhe	dhe	CCONJ
+evoluimi	evoluimi	NOUN
+i	i	DET
+sëmundjes	spmundje	NOUN
+pas	pas	ADP
+një	një	NUM
+dyshimi	dyshimi	NOUN
+ose	ose	CCONJ
+vërtetimi	vërtetimi	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+në	në	ADP
+një	një	NUM
+fermë	fermë	NOUN
+,	,	PUNCT
+programi	programi	NOUN
+i	i	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+zyrtare	zyrtare	ADJ
+mbi	mbi	ADP
+bazën	bazën	NOUN
+e	e	DET
+riskut	riskut	NOUN
+,	,	PUNCT
+kryhet	kryhet	VERB
+nga	non	ADP
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+,	,	PUNCT
+shërbimi	shërbimi	NOUN
+i	i	DET
+kualifikuar	kualifikuar	ADJ
+i	i	DET
+peshkimit	peshkimit	NOUN
+nën	nin	ADP
+këshillimin	këshillimin	NOUN
+ose	ose	CCONJ
+me	I	ADP
+bashkëpunimin	bashkëpunimin	NOUN
+e	e	DET
+autoriteteve	autoriteteve	NOUN
+kompetente	kompetente	ADJ
+,	,	PUNCT
+në	në	ADP
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+e	e	DET
+zonës	zone	NOUN
+së	së	DET
+përcaktuar	përcaktuar	ADJ
+.	.	PUNCT
+</s>
+<text id="75">
+<s id="0">
+I.6.2	i.6.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Me	I	ADP
+qëllim	qëllim	NOUN
+zbatimin	zbatimin	NOUN
+e	e	DET
+këtij	këtij	PRON
+programi	programi	NOUN
+mbikëqyrjeje	mbikëqyrjeje	NOUN
+,	,	PUNCT
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+duhet	duhet	AUX
+,	,	PUNCT
+pas	pas	ADP
+inspektimit	inspektimit	NOUN
+në	në	ADP
+vatër	vatër	NOUN
+,	,	PUNCT
+të	të	DET
+identifikojnë	identifikojne	VERB
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+në	në	ADP
+zonën	zonën	NOUN
+e	e	DET
+përcaktuar	percaktuar	VERB
+dhe	dhe	CCONJ
+të	të	DET
+bëjnë	bëjnë	VERB
+një	një	NUM
+regjistrim	regjistrim	NOUN
+zyrtar	zyrtar	ADJ
+të	të	DET
+specieve	specieve	NOUN
+,	,	PUNCT
+kategorive	kategorive	NOUN
+dhe	dhe	CCONJ
+numri	numri	NOUN
+t	t	DET
+të	të	DET
+peshqve	peshqve	NOUN
+që	që	PRON
+rriten	rrite	VERB
+në	në	ADP
+ferma	ferma	NOUN
+,	,	PUNCT
+përfshi	perfshi	VERB
+edhe	edhe	CCONJ
+rastet	rastet	NOUN
+e	e	DET
+vdekshmërisë	vdekshmërisë	NOUN
+.	.	PUNCT
+</s>
+<text id="76">
+<s id="0">
+I.6.3	i.6.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Pas	pas	ADP
+regjistrimit	regjistrimit	NOUN
+,	,	PUNCT
+fermat	fermat	NOUN
+brenda	brenda	ADV
+zonës	zone	NOUN
+së	së	DET
+kontrollit	kontrollit	NOUN
+të	të	DET
+përkohshëm	përkohshëm	ADJ
+që	që	VERB
+rrisin	rrisin	VERB
+salmonin	salmonin	NOUN
+Atlantik	Atlantik	PROPN
+(	(	PUNCT
+Salmo	Salmo	PROPN
+salar	salar	PROPN
+)	)	PUNCT
+ose	ose	CCONJ
+çdo	çdo	PRON
+specie	specie	NOUN
+tjetër	tjetër	PRON
+që	që	PRON
+i	i	DET
+referohet	referohet	VERB
+botimit	botimit	NOUN
+më	më	PRON
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Kodit	Kodit	PROPN
+të	të	DET
+shëndetit	shëndetit	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+ujore	ujore	ADJ
+,	,	PUNCT
+që	që	PRON
+është	është	VERB
+e	e	DET
+ndjeshme	ndjeshme	ADJ
+ose	ose	CCONJ
+bartës	barty	NOUN
+i	i	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+raportojnë	raportojn	VERB
+për	për	ADP
+të	të	NOUN
+dhënat	dhënat	NOUN
+e	e	DET
+vdekshmërisë	vdekshmërisë	NOUN
+çdo	çdo	ADV
+14	14	NUM
+ditë	ditë	NOUN
+tek	tek	ADP
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+.	.	PUNCT
+</s>
+<text id="77">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+rast	rast	NOUN
+se	se	CCONJ
+kemi	kemi	VERB
+rritje	rritje	NOUN
+të	të	DET
+vdekshmërisë	vdekshmërisë	NOUN
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+raportojmë	raportojmë	VERB
+çdo	çdo	ADV
+ditë	ditë	NOUN
+.	.	PUNCT
+</s>
+<text id="78">
+<s id="0">
+Këto	këto	PRON
+</s>
+<s id="1">
+do	do	PART
+të	të	DET
+kontrollojnë	kontrolloj	VERB
+mbi	mbi	VERB
+këtë	këtë	PRON
+rritje	rritje	NOUN
+.	.	PUNCT
+</s>
+<text id="79">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+vërtetohet	vërtetohet	VERB
+dyshimi	dyshimi	NOUN
+,	,	PUNCT
+të	të	DET
+gjitha	gjitha	PRON
+fermat	fermat	NOUN
+e	e	DET
+vendosura	vendosura	ADJ
+në	në	ADJ
+zonën	zonën	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+duhet	duhet	VERB
+të	të	DET
+raportojnë	raportojn	VERB
+çdo	çdo	ADV
+javë	javë	NOUN
+mbi	mbi	ADP
+vdekshmërinë	vdekshmërinë	NOUN
+,	,	PUNCT
+madje	madje	CCONJ
+edhe	edhe	CCONJ
+çdo	çdo	ADV
+ditë	ditë	NOUN
+tek	tek	ADP
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+.	.	PUNCT
+</s>
+<text id="80">
+<s id="0">
+Fermat	fermat	NOUN
+</s>
+<s id="1">
+në	në	ADP
+zonën	zonën	NOUN
+e	e	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+duhet	duhet	VERB
+të	të	DET
+raportojnë	raportojn	VERB
+për	për	ADP
+vdekshmërinë	vdekshmërinë	NOUN
+çdo	çdo	ADV
+14	14	NUM
+ditë	ditë	NOUN
+tek	tek	ADP
+autoritetet	autoritetet	NOUN
+kompetente	kompetente	ADJ
+.	.	PUNCT
+</s>
+<text id="81">
+<s id="0">
+Për	për	CCONJ
+</s>
+<s id="1">
+më	me	PART
+tepër	tepër	ADV
+,	,	PUNCT
+gjatë	gjatë	ADP
+vitit	vitit	NOUN
+duhet	duhet	VERB
+të	të	DET
+kryhen	kryh	VERB
+rregullisht	rregullisht	ADV
+inspektimet	inspektimet	NOUN
+në	në	ADP
+zonat	zonat	NOUN
+e	e	DET
+përcaktuara	përcaktuara	ADJ
+me	I	ADJ
+një	një	NUM
+frekuencë	frekuencë	NOUN
+siç	siç	ADV
+tregohet	tregohet	VERB
+në	në	ADP
+tabelën	tabelën	NOUN
+1	1	NUM
+.	.	PUNCT
+</s>
+<text id="82">
+<s id="0">
+Megjithatë	megjithatë	CCONJ
+</s>
+<s id="1">
+,	,	PUNCT
+kur	kur	CCONJ
+kushtet	kushtet	NOUN
+klimatike	klimatike	ADJ
+e	e	DET
+bëjnë	bëjnë	VERB
+të	të	DET
+pamundur	pamundur	ADJ
+inspektimin	inspektimin	NOUN
+për	për	ADJ
+periudha	periudha	NOUN
+të	të	DET
+caktuara	caktuara	ADJ
+të	të	DET
+vitit	vitit	NOUN
+,	,	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+duhet	duhet	VERB
+të	të	DET
+përcaktojnë	percaktojn	VERB
+shpeshtësi	shpeshtësi	ADJ
+të	të	DET
+tjera	tjera	PRON
+inspektimi	inspektimi	NOUN
+në	në	ADP
+planin	planin	NOUN
+e	e	DET
+kontigjencës	kontigjency	NOUN
+.	.	PUNCT
+</s>
+<text id="83">
+<s id="0">
+II	ii	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Inspektimet	inspektimet	NOUN
+,	,	PUNCT
+si	si	ADV
+përzgjedhja	përzgjedhja	NOUN
+,	,	PUNCT
+mbledhja	mbledhja	NOUN
+,	,	PUNCT
+përgatitja	përgatitja	NOUN
+dhe	dhe	CCONJ
+transporti	transporti	NOUN
+i	i	DET
+kampioneve	kampioneve	NOUN
+përcaktohen	pprcaktohen	VERB
+në	në	ADP
+Pjesët	pjesët	NOUN
+II.1	ii.1	NUM
+deri	deriug	ADP
+tek	tek	ADP
+II	ii	NUM
+.	.	PUNCT
+</s>
+<text id="84">
+<s id="0">
+4	4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Ekzaminimi	ekzaminimi	NOUN
+i	i	DET
+kampioneve	kampioneve	NOUN
+duhet	duhet	VERB
+të	të	DET
+bëhet	bëhet	VERB
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+Pjesët	pjesët	NOUN
+III	iii	NUM
+dhe	dhe	CCONJ
+IV	IV	PROPN
+.	.	PUNCT
+</s>
+<text id="85">
+<s id="0">
+Inspektimi	inspektimi	NOUN
+</s>
+<s id="1">
+dhe	dhe	CCONJ
+kampionimi	kampionimi	NOUN
+</s>
+<text id="86">
+<s id="0">
+II.1	ii.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Inspektimi	inspektimi	NOUN
+,	,	PUNCT
+përzgjedhja	përzgjedhja	NOUN
+dhe	dhe	CCONJ
+mbledhja	mbledhja	NOUN
+e	e	DET
+kampioneve	kampioneve	NOUN
+në	në	ADP
+një	një	NUM
+fermë	fermë	NOUN
+ku	ku	CCONJ
+dyshohet	dyshohet	VERB
+për	për	ADP
+praninë	praninë	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+</s>
+<text id="87">
+<s id="0">
+II.1.1	ii.1.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Gjatë	gjatë	ADP
+inspektimeve	inspektimeve	NOUN
+të	të	DET
+rregullta	rregullta	ADJ
+brenda	brenda	ADP
+programit	programit	NOUN
+zyrtar	zyrtar	NOUN
+të	të	DET
+mbikëqyrjes	mbikpqyrje	NOUN
+,	,	PUNCT
+që	që	PRON
+shënohet	shënohet	VERB
+në	në	ADP
+pjesën	pjesën	NOUN
+I.6	i.6	NUM
+dhe	dhe	CCONJ
+në	në	ADP
+fermat	fermat	NOUN
+që	që	PRON
+dyshohet	dyshohet	VERB
+se	se	CCONJ
+janë	janë	VERB
+infektuar	infektuar	ADJ
+me	I	ADP
+ISA	isa	ADP
+,	,	PUNCT
+kontrollohen	kontrollohen	VERB
+të	të	DET
+gjitha	gjitha	PRON
+pajisjet	pajisjet	NOUN
+(	(	PUNCT
+kafaze	kafaze	NOUN
+,	,	PUNCT
+tanke	tanke	NOUN
+,	,	PUNCT
+rezervate	rezervate	ADJ
+)	)	PUNCT
+për	për	ADP
+praninë	praninë	NOUN
+e	e	DET
+peshqve	peshqve	NOUN
+të	të	DET
+ngordhur	ngordhur	ADJ
+,	,	PUNCT
+të	të	DET
+dobët	dobët	ADJ
+apo	apo	CCONJ
+me	I	ADJ
+sjellje	sjellje	NOUN
+anormale	anormale	ADJ
+.	.	PUNCT
+</s>
+<text id="88">
+<s id="0">
+Ku	ku	CCONJ
+</s>
+<s id="1">
+është	është	VERB
+e	e	DET
+mundur	mundur	ADJ
+,	,	PUNCT
+në	në	ADP
+ngordhjet	ngordhjet	NOUN
+e	e	DET
+vona	vona	ADJ
+(	(	PUNCT
+jo	jo	ADJ
+të	të	DET
+dekompozuara	dekompozuara	ADJ
+)	)	PUNCT
+dhe	dhe	CCONJ
+në	në	ADP
+peshqit	peshqit	NOUN
+e	e	DET
+dobët	dobët	ADJ
+ose	ose	CCONJ
+me	I	ADJ
+sjellje	sjellje	NOUN
+anormale	anormale	ADJ
+,	,	PUNCT
+bëhen	bihen	VERB
+ekzaminime	ekzaminime	NOUN
+klinike	klinike	ADJ
+dhe	dhe	CCONJ
+post-mortem	post-mortem	ADJ
+për	për	ADP
+ISA-n	ISA-n	PROPN
+siç	siç	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+botimin	botimin	NOUN
+më	më	PRON
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Manualit	manualit	NOUN
+diagnostik	diagnostik	NOUN
+për	për	NOUN
+kafshët	kafshët	NOUN
+e	e	DET
+ujit	ujit	NOUN
+të	të	DET
+OIE	OIE	PROPN
+.	.	PUNCT
+</s>
+<text id="89">
+<s id="0">
+II.1.2	ii.1.2	NUM
+</s>
+<s id="1">
+Nëse	nëse	CCONJ
+vihen	vihen	VERB
+re	be	ADJ
+shenja	shenja	NOUN
+klinike	klinike	ADJ
+për	për	ADJ
+ISA-n	ISA-n	PROPN
+,	,	PUNCT
+ose	ose	CCONJ
+një	një	NUM
+inspektor	inspektor	NOUN
+apo	apo	CCONJ
+veteriner	veteriner	NOUN
+ka	ka	VERB
+ndonjë	ndonjë	PRON
+arsye	arsye	NOUN
+për	për	ADP
+të	të	DET
+dyshuar	dyshuar	ADJ
+që	që	PRON
+peshku	peshku	NOUN
+mund	mund	VERB
+të	të	DET
+jetë	jetë	VERB
+i	i	DET
+infektuar	infektuar	ADJ
+,	,	PUNCT
+mblidhet	mblidhet	VERB
+një	një	NUM
+kampion	kampion	NOUN
+prej	prej	ADP
+10	10	NUM
+peshqish	peshqish	NOUN
+.	.	PUNCT
+</s>
+<text id="90">
+<s id="0">
+Kampioni	kampioni	NOUN
+</s>
+<s id="1">
+përbëhet	përbëhet	VERB
+nga	non	ADP
+peshq	peshq	NOUN
+të	të	DET
+ngordhur	ngordhur	ADJ
+,	,	PUNCT
+të	të	DET
+dobët	dobët	ADJ
+apo	apo	CCONJ
+me	I	ADJ
+sjellje	sjellje	NOUN
+anormale	anormale	ADJ
+,	,	PUNCT
+nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+mundur	mundur	ADJ
+.	.	PUNCT
+</s>
+<text id="91">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+numri	numri	NOUN
+i	i	DET
+peshqve	peshqve	NOUN
+me	I	ADJ
+shenja	shenja	NOUN
+klinike	klinike	ADJ
+nuk	nuk	PART
+është	është	VERB
+i	i	DET
+mjaftueshëm	mjaftueshëm	ADJ
+,	,	PUNCT
+ai	be	PRON
+plotësohet	plotësohet	VERB
+më	me	PART
+peshq	peshq	NOUN
+të	të	DET
+shëndetshëm	shëndetshëm	ADJ
+,	,	PUNCT
+të	të	DET
+marrë	marrë	ADJ
+nga	non	ADP
+kafazet	kafazet	NOUN
+,	,	PUNCT
+tanket	tanket	NOUN
+apo	apo	CCONJ
+rezervatet	rezervatet	ADJ
+me	I	ADP
+numri	numri	NOUN
+n	and	NOUN
+më	më	PRON
+të	të	DET
+madh	madh	ADJ
+të	të	DET
+ngordhjeve	ngordhjeve	NOUN
+ose	ose	CCONJ
+të	të	DET
+peshqve	peshqve	NOUN
+që	që	PRON
+shfaqin	shfaqin	VERB
+shenja	shenja	NOUN
+klinike	klinike	ADJ
+të	të	DET
+sëmundjes	spmundje	NOUN
+.	.	PUNCT
+</s>
+<text id="92">
+<s id="0">
+II.1.3	ii.1.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nëse	nëse	CCONJ
+vihet	vihet	VERB
+re	be	ADJ
+vdekshmëri	vdekshmeri	NOUN
+,	,	PUNCT
+peshk	peshk	NOUN
+i	i	DET
+dobët	dobët	ADJ
+apo	apo	CCONJ
+me	I	ADJ
+sjellje	sjellje	NOUN
+jonormale	jonormale	ADJ
+,	,	PUNCT
+por	por	CCONJ
+shenjat	shenjat	NOUN
+klinike	klinike	ADJ
+dhe	dhe	CCONJ
+të	të	NOUN
+dhënat	dhënat	NOUN
+post-mortem	post-mortem	NOUN
+nuk	nuk	PART
+përputhen	përputhen	VERB
+me	I	ADP
+ato	ato	PRON
+të	të	DET
+ISA-s	ISA-s	PROPN
+,	,	PUNCT
+kampionimi	kampionimi	NOUN
+nuk	nuk	PART
+është	është	VERB
+i	i	DET
+detyrueshëm	detyrueshëm	ADJ
+,	,	PUNCT
+megjithëse	megjithëse	SCONJ
+këto	këto	PRON
+kampione	kampione	NOUN
+mund	mund	VERB
+të	të	DET
+kërkohen	kprkoh	VERB
+për	për	ADP
+të	të	DET
+bërë	bërë	VERB
+diagnozën	diagnozën	NOUN
+diferenciale	diferenciale	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+merren	merren	VERB
+nga	nga	VERB
+inspektorët	inspektorët	NOUN
+apo	apo	CCONJ
+veterinerët	veterinerët	NOUN
+.	.	PUNCT
+</s>
+<text id="93">
+<s id="0">
+II.1.4	ii.1.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kur	kur	CCONJ
+dyshohet	dyshohet	VERB
+se	se	CCONJ
+peshqit	peshqit	NOUN
+e	e	DET
+egër	egër	ADJ
+janë	janë	VERB
+të	të	DET
+infektuar	infektuar	ADJ
+me	I	ADJ
+ISA	isa	VERB
+,	,	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+duhet	duhet	VERB
+të	të	DET
+sigurojnë	sigurojnë	VERB
+që	që	PRON
+janë	janë	VERB
+marrë	marrë	ADJ
+kampionet	kampionet	NOUN
+e	e	DET
+duhura	duhura	ADJ
+dhe	dhe	CCONJ
+janë	janë	VERB
+ekzaminuar	ekzaminuar	ADJ
+me	I	ADP
+metodat	metodat	NOUN
+e	e	DET
+duhura	duhura	ADJ
+klinike	klinike	ADJ
+dhe	dhe	CCONJ
+laboratorike	laboratorike	ADJ
+si	si	ADV
+në	në	ADP
+pjesët	pjesët	NOUN
+II	ii	NUM
+dhe	dhe	CCONJ
+IV	iv	NUM
+,	,	PUNCT
+në	në	ADP
+mënyrë	mënyrë	NOUN
+që	që	SCONJ
+të	të	DET
+vërtetohet	vërtetohet	VERB
+prania	prania	NOUN
+e	e	DET
+ISA-s	ISA-s	PROPN
+dhe	dhe	CCONJ
+të	të	DET
+vlerësohet	vlerësohet	VERB
+roli	roli	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+ketë	ketë	VERB
+për	për	ADP
+peshqit	peshqit	NOUN
+e	e	DET
+fermave	fermave	NOUN
+.	.	PUNCT
+</s>
+<text id="94">
+<s id="0">
+II.2	ii.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Përgatitja	përgatitja	NOUN
+e	e	DET
+kampioneve	kampioneve	NOUN
+nga	non	ADP
+peshqit	peshqit	NOUN
+</s>
+<text id="95">
+<s id="0">
+II.2.1	ii.2.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kampionet	kampionet	NOUN
+për	për	ADJ
+ekzaminim	ekzaminim	NOUN
+histologjik	histologjik	ADJ
+duhet	duhet	VERB
+të	të	DET
+merren	merren	VERB
+nga	nga	VERB
+peshqit	peshqit	NOUN
+,	,	PUNCT
+që	që	PRON
+shfaqin	shfaqin	VERB
+shenja	shenja	NOUN
+klinike	klinike	ADJ
+ose	ose	CCONJ
+post-mortem	post-mortem	NOUN
+,	,	PUNCT
+të	të	DET
+hapur	hapur	ADJ
+në	në	ADP
+moment	moment	NOUN
+.	.	PUNCT
+</s>
+<text id="96">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+plagë	plagë	NOUN
+e	e	DET
+jashtme	jashtme	ADJ
+ose	ose	CCONJ
+e	e	DET
+brendshme	brendshme	ADJ
+duhet	duhet	VERB
+të	të	DET
+kampionohet	kampionohet	VERB
+dhe	dhe	CCONJ
+,	,	PUNCT
+në	në	ADP
+çdo	çdo	ADV
+rast	rast	NOUN
+,	,	PUNCT
+merren	merren	VERB
+kampione	kampione	NOUN
+nga	non	ADP
+mëlçia	mëlçia	NOUN
+,	,	PUNCT
+medula	medula	NOUN
+e	e	DET
+veshkave	veshkave	NOUN
+,	,	PUNCT
+zemra	zemra	NOUN
+dhe	dhe	CCONJ
+shpretka	shpretka	NOUN
+,	,	PUNCT
+nga	non	ADP
+çdo	çdo	PRON
+peshk	peshk	NOUN
+dhe	dhe	CCONJ
+të	të	DET
+futen	fute	VERB
+në	në	ADP
+8	8	NUM
+-	-	SYM
+10	10	NUM
+%	%	SYM
+(	(	SYM
+vol	vol	NOUN
+/	/	SYM
+vol	vol	ADV
+)	)	PUNCT
+tretësirë	tretësirë	NOUN
+e	e	DET
+zbutur	zbutur	ADJ
+formoli	formoli	NOUN
+.	.	PUNCT
+</s>
+<text id="97">
+<s id="0">
+Raporti	raporti	NOUN
+</s>
+<s id="1">
+i	i	DET
+fiksuesit	fiksuesit	NOUN
+me	I	NOUN
+indin	indin	VERB
+duhet	duhet	AUX
+të	të	DET
+jetë	jetë	VERB
+20	20	NUM
+:1	:1	NUM
+për	për	ADP
+të	të	DET
+siguruar	siguruar	VERB
+një	një	NUM
+ruajtje	ruajtje	NOUN
+të	të	DET
+kënaqshme	kënaqshme	ADJ
+të	të	DET
+indit	indit	NOUN
+.	.	PUNCT
+</s>
+<text id="98">
+<s id="0">
+II.2.2	ii.2.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Indet	indet	VERB
+për	për	ADJ
+ekzaminim	ekzaminim	NOUN
+virologjik	virologjik	ADJ
+duhet	duhet	VERB
+të	të	DET
+merren	merren	VERB
+nga	non	ADP
+të	të	DET
+gjithë	gjithë	PRON
+peshqit	peshqit	NOUN
+e	e	DET
+kampionuar	kampionuar	ADJ
+.	.	PUNCT
+</s>
+<text id="99">
+<s id="0">
+Duhet	duhet	VERB
+</s>
+<s id="1">
+të	të	DET
+merren	merren	VERB
+dy	dy	NUM
+kampione	kampione	ADJ
+identike	identike	ADJ
+për	për	ADJ
+teste	teste	ADJ
+krahasuese	krahasuese	ADJ
+.	.	PUNCT
+</s>
+<text id="100">
+<s id="0">
+Copëza	Copëza	PROPN
+</s>
+<s id="1">
+mëlçie	mëlçie	NOUN
+,	,	PUNCT
+veshkash	veshkash	NOUN
+,	,	SYM
+zemre	zemre	NOUN
+dhe	dhe	CCONJ
+shpretke	shpretke	NOUN
+kalohen	kalohen	VERB
+në	në	ADP
+tuba	tuba	NOUN
+plastike	plastike	NOUN
+,	,	PUNCT
+që	që	PRON
+përmbajnë	permbajn	VERB
+9	9	NUM
+ml	ml	NOUN
+terren	terren	NOUN
+transportues	transportue	NOUN
+,	,	PUNCT
+si	si	ADV
+terren	terren	NOUN
+kulturash	kulturash	NOUN
+indore	indore	NOUN
+me	I	ADP
+antibiotikë	antibiotikë	NOUN
+.	.	PUNCT
+</s>
+<text id="101">
+<s id="0">
+Një	një	NUM
+</s>
+<s id="1">
+kombinim	kombinim	NOUN
+12.5	12.5	NUM
+μg	μg	NOUN
+/	/	SYM
+ml	ml	NOUN
+fungizone	fungizone	NOUN
+,	,	PUNCT
+200	200	NUM
+IU.	iu.	CCONJ
+ml	ml	NOUN
+polimixin	polimixin	NOUN
+dhe	dhe	CCONJ
+200	200	NUM
+μg	μg	NOUN
+/	/	SYM
+ml	ml	NOUN
+kanamicin	kanamicin	NOUN
+është	është	VERB
+e	e	DET
+mjaftueshëm	mjaftueshëm	ADJ
+,	,	PUNCT
+por	por	CCONJ
+mund	mund	VERB
+të	të	DET
+përdoren	pirdore	VERB
+edhe	edhe	CCONJ
+kombinime	kombinime	NOUN
+të	të	DET
+tjera	tjera	PRON
+.	.	PUNCT
+</s>
+<text id="102">
+<s id="0">
+Inde	Inde	PROPN
+</s>
+<s id="1">
+nga	non	ADP
+më	me	PART
+shumë	shumë	ADV
+se	se	CCONJ
+pesë	pesë	NUM
+peshq	peshq	NOUN
+mund	mund	VERB
+të	të	DET
+mblidhen	mblidh	VERB
+në	në	ADP
+një	një	NUM
+tub	tub	NOUN
+,	,	PUNCT
+me	I	ADP
+terren	terren	NOUN
+transportues	transportue	NOUN
+duke	duke	PART
+formuar	formuar	VERB
+një	një	NUM
+kampion	kampion	NOUN
+të	të	DET
+bashkuar	bashkuar	ADJ
+.	.	PUNCT
+</s>
+<text id="103">
+<s id="0">
+Pesha	pesha	NOUN
+</s>
+<s id="1">
+e	e	DET
+indit	indit	NOUN
+në	në	ADP
+një	një	NUM
+kampion	kampion	NOUN
+duhet	duhet	AUX
+të	të	DET
+jetë	jetë	VERB
+1.0	1.0	NUM
+±	±	SYM
+0.5	0.5	NUM
+g	go	PART
+.	.	PUNCT
+</s>
+<text id="104">
+<s id="0">
+II.2.3	ii.2.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nga	nga	ADP
+peshqit	peshqit	NOUN
+e	e	DET
+sapo	sapo	ADV
+hapur	hapur	ADJ
+bëhen	bihen	VERB
+prerje	prerje	NOUN
+nga	non	ADP
+veshkat	veshkat	NOUN
+dhe	dhe	CCONJ
+kontrollohen	kontrollohen	VERB
+me	I	ADP
+IFAT	IFAT	PROPN
+,	,	PUNCT
+brenda	brenda	ADV
+dy	dy	NUM
+orëve	orëve	NOUN
+nga	non	ADP
+hapja	hapja	NOUN
+.	.	PUNCT
+</s>
+<text id="105">
+<s id="0">
+Realizohet	realizohet	VERB
+</s>
+<s id="1">
+duke	duke	PART
+shkëputur	shkëputur	VERB
+një	një	NUM
+pjesë	pjesë	NOUN
+nga	non	ADP
+medula	medula	NOUN
+e	e	DET
+veshkës	veshk	NOUN
+me	I	ADP
+pinca	pinca	NOUN
+sterile	sterile	ADJ
+.	.	PUNCT
+</s>
+<text id="106">
+<s id="0">
+Indet	indet	NOUN
+</s>
+<s id="1">
+vendosen	vendose	VERB
+në	në	ADP
+letra	letra	NOUN
+thithëse	thithëse	ADJ
+për	për	ADJ
+të	të	DET
+larguar	larguar	VERB
+gjakun	gjakun	NOUN
+e	e	DET
+tepërt	tepërt	ADJ
+dhe	dhe	CCONJ
+vendosen	vendose	VERB
+mbi	mbi	ADP
+lama	lama	NOUN
+.	.	PUNCT
+</s>
+<text id="107">
+<s id="0">
+Ushtrohet	ushtrohet	VERB
+</s>
+<s id="1">
+një	një	NUM
+shtypje	shtypje	NOUN
+mbi	mbi	ADP
+secilën	secilën	NOUN
+pjesë	pjesë	NOUN
+,	,	PUNCT
+por	por	CCONJ
+nuk	nuk	PART
+mbulohen	mbulohen	VERB
+,	,	PUNCT
+me	I	ADP
+qëllim	qëllim	NOUN
+marrjen	marrjen	NOUN
+e	e	DET
+një	një	NUM
+shtrese	shtrese	NOUN
+të	të	DET
+vetme	vetme	ADJ
+qelizash	qelizash	NOUN
+.	.	PUNCT
+</s>
+<text id="108">
+<s id="0">
+Gjatë	gjatë	ADP
+</s>
+<s id="1">
+lënies	liny	NOUN
+së	së	DET
+indit	indit	NOUN
+mbi	mbi	ADP
+letrën	letrën	NOUN
+thithëse	thithëse	ADJ
+duhet	duhet	AUX
+të	të	DET
+mënjanohet	mënjanohet	VERB
+që	që	SCONJ
+largimi	largimi	NOUN
+i	i	DET
+gjakut	gjakut	NOUN
+të	të	DET
+shtojë	shtojë	VERB
+depozitimin	depozitimin	NOUN
+e	e	DET
+proteinave	proteinave	NOUN
+të	të	DET
+serumit	serumit	NOUN
+mbi	mbi	ADP
+ind	ind	NOUN
+.	.	PUNCT
+</s>
+<text id="109">
+<s id="0">
+Prerjet	prerjet	NOUN
+</s>
+<s id="1">
+duhet	duhet	VERB
+të	të	DET
+vendosen	vendose	VERB
+në	në	ADP
+vend	vend	NOUN
+të	të	DET
+thatë	thatë	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+freskët	freskët	ADJ
+nëse	nëse	CCONJ
+nuk	nuk	PART
+fiksohen	fiksohen	VERB
+menjëherë	menjëherë	ADV
+.	.	PUNCT
+</s>
+<text id="110">
+<s id="0">
+Fiksimi	fiksimi	NOUN
+</s>
+<s id="1">
+duhet	duhet	AUX
+të	të	DET
+bëhet	bëhet	VERB
+brenda	brenda	ADV
+72	72	NUM
+orëve	orëve	NOUN
+nga	non	ADP
+kampionimi	kampionimi	NOUN
+.	.	PUNCT
+</s>
+<text id="111">
+<s id="0">
+Përndryshe	përndryshe	ADV
+</s>
+<s id="1">
+,	,	PUNCT
+prerjet	prerjet	NOUN
+mund	mund	VERB
+të	të	DET
+ruhen	ruhen	VERB
+të	të	DET
+ngrira	ngrira	ADJ
+për	për	ADP
+më	më	ADP
+shumë	shumë	ADJ
+se	se	CCONJ
+një	një	NUM
+muaj	muaj	NOUN
+në	në	ADP
+-	-	PUNCT
+200	200	NUM
+para	para	ADP
+fiksimit	fiksimit	NOUN
+.	.	PUNCT
+</s>
+<text id="112">
+<s id="0">
+II.2.4	ii.2.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Peshqit	peshqit	NOUN
+me	I	ADJ
+shenja	shenja	NOUN
+anemie	anemie	NOUN
+mund	mund	VERB
+të	të	DET
+paralizohen	paralizohen	ADJ
+dhe	dhe	CCONJ
+kampione	kampione	NOUN
+gjaku	gjaku	NOUN
+të	të	DET
+heparinizuara	heparinizuara	ADJ
+dërgohen	dergoh	VERB
+për	për	ADP
+ekzaminime	ekzaminime	NOUN
+hematologjike	hematologjike	NOUN
+,	,	PUNCT
+si	si	ADV
+matja	matja	NOUN
+e	e	DET
+hematokritit	hematokritit	NOUN
+.	.	PUNCT
+</s>
+<text id="113">
+<s id="0">
+II.2.5	ii.2.5	NUM
+</s>
+<s id="1">
+Indet	indet	NOUN
+për	për	ADP
+analizën	analizën	NOUN
+me	I	ADP
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+merren	merren	VERB
+nga	non	ADP
+të	të	DET
+gjithë	gjithë	PRON
+peshqit	peshqit	NOUN
+e	e	DET
+kampionuar	kampionuar	ADJ
+.	.	PUNCT
+</s>
+<text id="114">
+<s id="0">
+Një	një	NUM
+</s>
+<s id="1">
+copëz	copëz	NOUN
+nga	non	ADP
+medula	medula	NOUN
+e	e	DET
+veshkave	veshkave	NOUN
+,	,	PUNCT
+shkëputet	shkëputet	VERB
+me	I	ADP
+instrumente	instrumente	NOUN
+sterile	sterile	ADJ
+dhe	dhe	CCONJ
+vendoset	vendoset	VERB
+në	në	ADP
+një	një	NUM
+tub	tub	NOUN
+mikrofuge	mikrofuge	ADJ
+që	që	PRON
+përmban	përmban	VERB
+1	1	NUM
+ml	ml	NOUN
+solucion	solucion	NOUN
+mbrojtës	mbrojtës	ADJ
+ARN	ARN	PROPN
+.	.	PUNCT
+Indet	indet	NOUN
+nga	non	ADP
+më	me	PART
+shumë	shumë	ADV
+se	se	PART
+pesë	pesë	NUM
+peshq	peshq	NOUN
+mund	mund	VERB
+të	të	DET
+grumbullohen	grumbullohen	VERB
+në	në	ADP
+një	një	NUM
+tub	tub	NOUN
+duke	duke	PART
+formuar	formuar	VERB
+kampionim	kampionim	NOUN
+global	global	ADJ
+.	.	PUNCT
+</s>
+<text id="115">
+<s id="0">
+Pesha	pesha	NOUN
+</s>
+<s id="1">
+e	e	DET
+çdo	çdo	PRON
+kampioni	kampioni	NOUN
+duhet	duhet	AUX
+të	të	DET
+jetë	jetë	VERB
+afërsisht	afërsisht	ADV
+0.5	0.5	NUM
+g	go	PART
+.	.	PUNCT
+</s>
+<text id="116">
+<s id="0">
+Kur	kur	CCONJ
+</s>
+<s id="1">
+peshqit	peshqit	NOUN
+janë	janë	VERB
+më	me	PART
+të	të	DET
+vegjël	vegjël	NOUN
+,	,	PUNCT
+për	për	ADP
+të	të	DET
+formuar	formuar	VERB
+kampionin	kampionin	NOUN
+bëhet	bëhet	VERB
+bashkimi	bashkimi	NOUN
+i	i	DET
+organeve	organeve	NOUN
+si	si	ADV
+pjesë	pjesë	NOUN
+veshkash	veshkash	NOUN
+,	,	PUNCT
+zemra	zemra	NOUN
+,	,	PUNCT
+mëlçia	mëlçia	NOUN
+,	,	PUNCT
+shpretka	shpretka	NOUN
+ose	ose	CCONJ
+qeska	qeska	NOUN
+pilorike	pilorike	ADJ
+për	për	ADP
+të	të	DET
+formuar	formuar	VERB
+0.5	0.5	NUM
+g	g	NOUN
+.	.	PUNCT
+</s>
+<text id="117">
+<s id="0">
+II.3	ii.3	NUM
+</s>
+<s id="1">
+Transportimi	transportimi	NOUN
+i	i	DET
+kampioneve	kampioneve	NOUN
+nga	non	ADP
+peshqit	peshqit	NOUN
+</s>
+<text id="118">
+<s id="0">
+II.3.1	ii.3.1	NUM
+</s>
+<text id="119">
+<s id="0">
+Kampionet	kampionet	NOUN
+</s>
+<s id="1">
+e	e	DET
+gjakut	gjakut	PROPN
+dhe	dhe	CCONJ
+tuba	tuba	NOUN
+me	I	ADP
+material	material	NOUN
+indor	indor	ADJ
+që	që	PRON
+do	do	PART
+të	të	DET
+ekzaminohen	ekzaminohen	NOUN
+me	I	ADP
+metoda	metoda	NOUN
+virologjike	virologjike	NOUN
+ose	ose	CCONJ
+analizën	analizën	NOUN
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+vendosen	vendose	VERB
+në	në	ADP
+kontejnerë	kontejnerë	NOUN
+bashkë	bashkë	ADV
+me	I	ADP
+një	një	NUM
+sasi	sasi	NOUN
+akulli	akulli	NOUN
+ose	ose	CCONJ
+"	"	NUM
+blloqe	blloqe	NOUN
+akulli	akulli	NOUN
+"	"	PUNCT
+për	për	ADP
+të	të	DET
+ruajtur	ruajtur	VERB
+të	të	DET
+freskët	freskët	ADJ
+kampionin	kampionin	NOUN
+gjatë	gjatë	ADP
+transportit	transportit	NOUN
+.	.	PUNCT
+</s>
+<text id="120">
+<s id="0">
+Duhet	duhet	VERB
+</s>
+<s id="1">
+të	të	DET
+mënjanohet	mënjanohet	VERB
+ngrirja	ngrirja	NOUN
+dhe	dhe	CCONJ
+akulli	akulli	NOUN
+duhet	duhet	VERB
+të	të	DET
+jetë	jetë	VERB
+i	i	DET
+pranishëm	pranishëm	ADJ
+në	në	ADP
+mbërritje	mbërritje	NOUN
+dhe	dhe	CCONJ
+një	një	NUM
+ose	ose	CCONJ
+më	me	PART
+shumë	shumë	ADV
+kuti	kuti	NOUN
+akulli	akulli	NOUN
+të	të	DET
+jenë	jenë	VERB
+pjesërisht	pjesërisht	ADV
+ose	ose	CCONJ
+plotësisht	plotësisht	ADV
+të	të	DET
+ngrira	ngrira	ADJ
+.	.	PUNCT
+</s>
+<text id="121">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+rrethana	rrethana	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+kampionet	kampionet	NOUN
+e	e	DET
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+dhe	dhe	CCONJ
+për	për	ADP
+ekzaminim	ekzaminim	NOUN
+virologjik	virologjik	ADJ
+duhet	duhet	AUX
+të	të	DET
+ngrihen	ngrihen	VERB
+dhe	dhe	CCONJ
+të	të	DET
+transportohen	transporto	VERB
+në	në	ADP
+laborator	laborator	NOUN
+në	në	ADP
+temperaturë	temperaturë	NOUN
+-	-	PUNCT
+200	200	NUM
+C	C	PROPN
+ose	ose	CCONJ
+më	me	PART
+të	të	DET
+ulët	ulët	ADJ
+.	.	PUNCT
+</s>
+<text id="122">
+<s id="0">
+II.3.2	ii.3.2	NUM
+</s>
+<s id="1">
+Prerjet	prerjet	NOUN
+për	për	ADP
+IFAT	IFAT	PROPN
+duhet	duhet	VERB
+të	të	DET
+transportohen	transporto	VERB
+në	në	ADP
+mbajtëse	mbajtëse	ADJ
+lamash	lamash	NOUN
+me	I	ADJ
+sasi	sasi	NOUN
+të	të	DET
+mjaftueshme	mjaftueshme	ADJ
+desikanti	desikanti	NOUN
+për	për	ADP
+t’i	t’i	DET
+mbajtur	mbajtur	ADJ
+lamat	lamat	NOUN
+të	të	DET
+thata	thata	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+ngrira	ngrira	ADJ
+si	si	ADV
+më	me	PART
+lart	lart	ADV
+.	.	PUNCT
+</s>
+<text id="123">
+<s id="0">
+II.3.3	ii.3.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nëse	nëse	CCONJ
+indet	indet	VERB
+transportohen	transporto	VERB
+në	në	ADP
+solucion	solucion	NOUN
+fiksues	fiksues	ADJ
+,	,	PUNCT
+për	për	ADP
+ekzaminim	ekzaminim	NOUN
+histologjik	histologjik	ADJ
+,	,	PUNCT
+duhet	duhet	AUX
+të	të	DET
+mbahen	mbahen	VERB
+në	në	ADP
+tuba	tuba	NOUN
+të	të	DET
+mbyllur	mbyllur	ADJ
+hermetikisht	hermetikisht	ADV
+në	në	ADP
+kontejnerë	kontejnerë	NOUN
+rezistentë	rezistentë	ADJ
+ndaj	ndaj	ADJ
+goditjeve	goditjeve	NOUN
+si	si	ADV
+per	per	ADV
+shembull	shembull	ADV
+kuti	kuti	NOUN
+polistireni	polistireni	NOUN
+me	I	ADP
+mure	mure	NOUN
+të	të	DET
+brendshëm	brendshëm	ADJ
+të	të	DET
+trashë	trashë	ADJ
+.	.	PUNCT
+</s>
+<text id="124">
+<s id="0">
+II.3.4	ii.3.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Edhe	edhe	CCONJ
+pse	pse	CCONJ
+kampionet	kampionet	NOUN
+janë	janë	VERB
+të	të	DET
+ngrira	ngrira	ADJ
+,	,	PUNCT
+ekzaminimi	ekzaminimi	NOUN
+virologjik	virologjik	ADJ
+duhet	duhet	VERB
+të	të	DET
+fillojë	fillojë	VERB
+sa	sa	ADV
+më	me	PART
+shpejt	shpejt	ADV
+të	të	DET
+jetë	jetë	VERB
+e	e	DET
+mundur	mundur	ADJ
+dhe	dhe	CCONJ
+jo	jo	PART
+më	me	PART
+vonë	vonë	ADV
+se	se	CCONJ
+72	72	NUM
+orë	orë	NOUN
+pas	pas	ADV
+mbledhjes	mbledhje	NOUN
+.	.	PUNCT
+</s>
+<text id="125">
+<s id="0">
+Kampionet	kampionet	NOUN
+</s>
+<s id="1">
+për	për	ADP
+analiza	analiza	NOUN
+krahasuese	krahasuese	ADJ
+duhet	duhet	AUX
+të	të	DET
+ruhen	ruhen	VERB
+në	në	ADP
+-	-	SYM
+200	200	NUM
+C	C	PROPN
+ose	ose	CCONJ
+më	me	PART
+ulët	ulët	ADJ
+pas	pas	ADP
+mbërritjes	mbprritje	NOUN
+në	në	ADP
+laborator	laborator	NOUN
+.	.	PUNCT
+</s>
+<text id="126">
+<s id="0">
+II.3.5	ii.3.5	NUM
+</s>
+<s id="1">
+Në	në	ADP
+laborator	laborator	NOUN
+mund	mund	VERB
+të	të	DET
+sillet	sillet	VERB
+peshku	peshku	NOUN
+i	i	DET
+plotë	plotë	ADJ
+nëse	nëse	CCONJ
+sigurohet	sigurohet	VERB
+temperatura	temperatura	NOUN
+gjatë	gjatë	ADP
+transportit	transportit	NOUN
+,	,	PUNCT
+si	si	ADV
+përshkruhet	përshkruhet	VERB
+në	në	ADP
+Pjesën	pjesën	NOUN
+II.3.1	ii.3.1	NUM
+.	.	PUNCT
+Peshku	peshku	NOUN
+mbështillet	mbështillet	VERB
+me	I	ADP
+letër	letër	NOUN
+thithëse	thithëse	ADJ
+dhe	dhe	CCONJ
+më	me	PART
+pas	pas	ADV
+me	I	ADP
+qese	qese	CCONJ
+plastike	plastike	ADJ
+.	.	PUNCT
+</s>
+<text id="127">
+<s id="0">
+II.3.6	ii.3.6	NUM
+</s>
+<s id="1">
+Mund	mund	AUX
+të	të	DET
+transportohen	transporto	VERB
+edhe	edhe	CCONJ
+peshq	peshq	NOUN
+të	të	DET
+gjallë	gjallë	ADJ
+,	,	PUNCT
+por	por	CCONJ
+nën	nin	ADP
+mbikëqyrjen	mbikpqyrjen	NOUN
+e	e	DET
+shërbimit	shërbimit	NOUN
+veterinar	veterinar	NOUN
+shtetëror	shtetëror	ADJ
+.	.	PUNCT
+</s>
+<text id="128">
+<s id="0">
+II.3.7	ii.3.7	NUM
+</s>
+<text id="129">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+analizën	analizën	NOUN
+e	e	DET
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+,	,	PUNCT
+indet	indet	VERB
+ruhen	ruhen	VERB
+në	në	ADP
+ARNlater	ARNlater	PROPN
+dhe	dhe	CCONJ
+nxjerrja	nxjerrja	NOUN
+e	e	DET
+ARN	ARN	PROPN
+bëhet	bëhet	VERB
+pas	pas	ADP
+një	një	NUM
+kohe	kohe	NOUN
+të	të	DET
+përcaktuar	përcaktuar	ADJ
+ruajtje	ruajtje	NOUN
+të	të	DET
+kampionit	kampionit	NOUN
+në	në	ADP
+temperatura	temperatura	NOUN
+të	të	DET
+ndryshme	ndryshme	ADJ
+,	,	PUNCT
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="130">
+<s id="0">
+II.3.8	ii.3.8	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Paketimi	paketimi	NOUN
+dhe	dhe	CCONJ
+emërtimi	emërtimi	NOUN
+kryhet	kryhet	VERB
+sipas	sipas	ADP
+rregullave	rregullave	NOUN
+të	të	DET
+transportit	transportit	NOUN
+kombëtar	kombëtar	ADJ
+dhe	dhe	CCONJ
+ndërkombëtar	ndërkombëtar	ADJ
+.	.	PUNCT
+</s>
+<text id="131">
+<s id="0">
+II.4	ii.4	NUM
+</s>
+<s id="1">
+Mbledhja	mbledhja	NOUN
+e	e	DET
+materialit	materialit	NOUN
+diagnostik	diagnostik	ADJ
+suplementar	suplementar	ADJ
+</s>
+<text id="132">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+marrëveshje	marrëveshje	NOUN
+me	I	NOUN
+laboratorin	laboratorin	NOUN
+diagnostik	diagnostik	NOUN
+,	,	PUNCT
+mund	mund	VERB
+të	të	DET
+merren	merren	VERB
+edhe	edhe	CCONJ
+inde	inde	NOUN
+të	të	DET
+tjera	tjera	PRON
+,	,	PUNCT
+të	të	DET
+përgatiten	pbrgatite	VERB
+për	për	ADP
+ekzaminime	ekzaminime	NOUN
+shtesë	shtesë	NOUN
+.	.	PUNCT
+</s>
+<text id="133">
+<s id="0">
+III	III	PROPN
+</s>
+<s id="1">
+.	.	PUNCT
+Ekzaminimi	ekzaminimi	NOUN
+virologjik	virologjik	NOUN
+</s>
+<text id="134">
+<s id="0">
+III.1	iii.1	NUM
+</s>
+<s id="1">
+Përgatitja	përgatitja	NOUN
+e	e	DET
+kampionit	kampionit	NOUN
+</s>
+<text id="135">
+<s id="0">
+III.1.1	iii.1.1	NUM
+</s>
+<s id="1">
+Kur	kur	CCONJ
+paraqiten	paraqiten	VERB
+vështirësi	vështirësi	NOUN
+çka	çka	PRON
+e	e	DET
+bëjnë	bëjnë	VERB
+të	të	DET
+pamundur	pamundur	ADJ
+injektimin	injektimin	NOUN
+në	në	ADP
+qeliza	qeliza	NOUN
+brenda	brenda	ADV
+72	72	NUM
+orësh	orësh	NOUN
+pas	pas	ADP
+mbledhjes	mbledhje	NOUN
+së	së	DET
+kampionit	kampionit	NOUN
+të	të	DET
+indeve	indeve	NOUN
+,	,	PUNCT
+pranohet	pranohet	VERB
+të	të	DET
+mbahen	mbahen	VERB
+në	në	ADP
+ngrirje	ngrirje	NOUN
+-	-	PUNCT
+800	800	NUM
+C	C	PROPN
+për	për	ADP
+28	28	NUM
+ditë	ditë	NOUN
+.	.	PUNCT
+</s>
+<text id="136">
+<s id="0">
+Indi	indi	NOUN
+</s>
+<s id="1">
+duhet	duhet	VERB
+të	të	DET
+ngrihet	ngrihet	VERB
+dhe	dhe	CCONJ
+shkrihet	shkrihet	VERB
+vetëm	vetëm	ADV
+një	një	NUM
+herë	herë	NOUN
+para	para	ADP
+ekzaminimit	ekzaminimit	NOUN
+.	.	PUNCT
+</s>
+<text id="137">
+<s id="0">
+III.1.2	iii.1.2	NUM
+</s>
+<s id="1">
+Çdo	Çdo	PRON
+kampion	kampion	NOUN
+(	(	PUNCT
+pool	pool	NOUN
+indi	indi	NOUN
+në	në	ADP
+solucion	solucion	NOUN
+transportues	transportue	NOUN
+)	)	PUNCT
+duhet	duhet	VERB
+të	të	DET
+homogjenizohet	homogjenizohet	ADJ
+plotësisht	plotësisht	ADV
+në	në	ADP
+havan	havan	NOUN
+,	,	PUNCT
+të	të	DET
+centrifugohet	centrifugohet	ADJ
+në	në	ADP
+2000	2000	NUM
+-	-	SYM
+4000	4000	NUM
+rrot	rrot	NOUN
+/	/	SYM
+15	15	NUM
+minuat	minuat	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+60	60	NUM
+C	C	PROPN
+dhe	dhe	CCONJ
+supernatanti	supernatanti	NOUN
+filtrohet	fildroh	VERB
+(	(	PUNCT
+0.45	0.45	NUM
+μm	μm	NOUN
+)	)	PUNCT
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+,	,	PUNCT
+i	i	DET
+përzier	përzier	ADJ
+me	I	ADP
+një	një	NUM
+sasi	sasi	NOUN
+të	të	DET
+barabartë	barabartë	ADJ
+serumi	serumi	NOUN
+pozitiv	pozitiv	ADJ
+për	për	ADP
+serotipet	serotipet	NOUN
+indigjene	indigjene	ADJ
+të	të	DET
+IPNV	IPNV	PROPN
+.	.	PUNCT
+</s>
+<text id="138">
+<s id="0">
+Titri	titri	NOUN
+</s>
+<s id="1">
+i	i	DET
+serumit	serumit	NOUN
+pozitiv	pozitiv	ADJ
+duhet	duhet	AUX
+të	të	DET
+jetë	jetë	VERB
+të	të	DET
+paktën	paktën	ADJ
+1	1	NUM
+: 2000	: 2000	NUM
+në	në	ADP
+një	një	NUM
+test	test	NOUN
+pllakë	pllakë	NOUN
+-	-	PUNCT
+neutralizimi	neutralizimi	NOUN
+50	50	NUM
+%	%	SYM
+.	.	PUNCT
+</s>
+<text id="139">
+<s id="0">
+Përzierja	përzierja	NOUN
+</s>
+<s id="1">
+ngrohet	ngrohet	VERB
+për	për	ADP
+një	një	NUM
+orë	orë	NOUN
+në	në	ADP
+150	150	NUM
+C	C	PROPN
+.	.	CCONJ
+</s>
+<text id="140">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+përbën	përbën	VERB
+vaksinën	vaksinën	NOUN
+.	.	PUNCT
+</s>
+<text id="141">
+<s id="0">
+Trajtimi	trajtimi	NOUN
+</s>
+<s id="1">
+i	i	DET
+të	të	DET
+gjithë	gjithë	PRON
+vaksinës	vaksinm	NOUN
+me	I	ADP
+serum	serum	NOUN
+pozitiv	pozitiv	ADJ
+për	për	ADP
+IPNV	IPNV	PROPN
+(	(	PUNCT
+virus	virus	NOUN
+i	i	DET
+cili	cili	PRON
+prek	preak	VERB
+rreth	rreth	ADP
+50	50	NUM
+%	%	SYM
+të	të	DET
+peshqve	peshqve	NOUN
+në	në	ADP
+disa	disa	PRON
+pjesë	pjesë	NOUN
+të	të	DET
+Europës	Europës	PROPN
+)	)	PUNCT
+ka	ka	VERB
+si	si	ADV
+qëllim	qëllim	NOUN
+të	të	DET
+parandalojë	parandalojë	VERB
+ECP	ECP	PROPN
+nga	non	ADP
+IPNV	IPNV	PROPN
+pas	pas	ADP
+injektimit	injektimit	NOUN
+në	në	ADP
+kulturë	kulturë	ADJ
+qelizore	qelizore	ADJ
+.	.	PUNCT
+</s>
+<text id="142">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+do	do	PART
+të	të	DET
+reduktojë	reduktojë	VERB
+zgjatjen	zgjatjen	NOUN
+e	e	DET
+ekzaminimit	ekzaminimit	NOUN
+virologjik	virologjik	ADJ
+dhe	dhe	CCONJ
+numri	numri	NOUN
+n	and	NOUN
+e	e	DET
+rasteve	rasteve	NOUN
+ku	ku	CCONJ
+ECP	ECP	PROPN
+është	është	VERB
+tregues	tregue	NOUN
+potencial	potencial	ADJ
+i	i	DET
+ISAV	ISAV	PROPN
+.	.	PUNCT
+</s>
+<text id="143">
+<s id="0">
+Kur	kur	CCONJ
+</s>
+<s id="1">
+kampionet	kampionet	NOUN
+vijnë	vijnë	VERB
+nga	non	ADP
+njësi	njësi	NOUN
+të	të	DET
+pastra	pastra	ADJ
+nga	non	ADP
+IPN	IPN	PROPN
+,	,	PUNCT
+mund	mund	VERB
+të	të	DET
+mos	mo	PART
+bëhet	bëhet	VERB
+trajtimi	trajtimi	NOUN
+me	I	ADP
+serum	serum	NOUN
+pozitiv	pozitiv	ADJ
+IPNV	IPNV	PROPN
+.	.	PUNCT
+</s>
+<text id="144">
+<s id="0">
+III.2	iii.2	NUM
+</s>
+<s id="1">
+Injektimi	injektimi	NOUN
+i	i	DET
+kulturave	kulturave	NOUN
+qelizore	qelizore	ADJ
+</s>
+<text id="145">
+<s id="0">
+III.2.1	iii.2.1	NUM
+</s>
+<text id="146">
+<s id="0">
+Qelizat	qelizat	NOUN
+</s>
+<s id="1">
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+ose	ose	CCONJ
+TO	to	PROPN
+rriten	rrite	VERB
+në	në	ADP
+terren	terren	NOUN
+L	L	PROPN
+-	-	PUNCT
+15	15	NUM
+që	që	PRON
+përmban	përmban	VERB
+5	5	NUM
+%	%	SYM
+serum	serum	NOUN
+fetal	fetal	NOUN
+viçi	viçi	NOUN
+,	,	PUNCT
+2	2	NUM
+%	%	SYM
+(	(	SYM
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+200	200	NUM
+mM	mm	NOUN
+L	L	PROPN
+-	-	PUNCT
+glutaminë	glutaminë	NOUN
+dhe	dhe	CCONJ
+0.08	0.08	NUM
+%	%	SYM
+(	(	PUNCT
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+50	50	NUM
+mM	mm	NOUN
+2	2	NUM
+-	-	PUNCT
+mercaptoethanol	mercaptoethanol	VERB
+në	në	ADP
+pllaka	pllaka	NOUN
+12	12	NUM
+ose	ose	CCONJ
+24	24	NUM
+-	-	PUNCT
+pusetëshe	pusetëshe	NOUN
+.	.	PUNCT
+</s>
+<text id="147">
+<s id="0">
+Mund	mund	AUX
+</s>
+<s id="1">
+të	të	DET
+përdoren	pirdore	VERB
+edhe	edhe	CCONJ
+linja	linja	NOUN
+të	të	DET
+tjera	tjera	PRON
+për	për	ADP
+izolimin	izolimin	NOUN
+e	e	DET
+ISAV	ISAV	PROPN
+,	,	PUNCT
+duke	duke	ADJ
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+aftësinë	aftësinë	NOUN
+e	e	DET
+shtameve	shtameve	NOUN
+të	të	DET
+ndryshëm	ndryshëm	ADJ
+për	për	ADP
+t’u	t’u	DET
+rritur	rritur	ADJ
+në	në	ADP
+linja	linja	NOUN
+të	të	DET
+ndryshme	ndryshme	ADJ
+.	.	PUNCT
+</s>
+<text id="148">
+<s id="0">
+Suspensioni	suspensioni	NOUN
+</s>
+<s id="1">
+i	i	DET
+organeve	organeve	NOUN
+i	i	DET
+trajtuar	trajtuar	ADJ
+me	I	ADJ
+antiserum	antiserum	NOUN
+injektohet	injektohet	VERB
+në	në	ADP
+kultura	kultura	NOUN
+qelizore	qelizore	ADJ
+të	të	DET
+reja	reja	ADJ
+,	,	ADJ
+aktive	aktive	ADJ
+,	,	PUNCT
+në	në	ADP
+rritje	rritje	NOUN
+,	,	PUNCT
+në	në	ADP
+një	një	NUM
+hollim	hollim	NOUN
+final	final	NOUN
+material	material	NOUN
+indor	indor	ADJ
+:	:	PUNCT
+terren	terren	NOUN
+kulture	kulture	ADJ
+prej	prej	ADP
+1:1000	1:1000	NUM
+.	.	PUNCT
+</s>
+<text id="149">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+çdo	çdo	PRON
+suspension	suspension	NOUN
+organi	organi	NOUN
+prej	prej	ADP
+40	40	NUM
+μl	μl	NOUN
+vaksinë	vaksinë	NOUN
+shtohet	shtohet	VERB
+20	20	NUM
+ml	ml	NOUN
+terren	terren	NOUN
+kulture	kulture	NOUN
+.	.	PUNCT
+</s>
+<text id="150">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+të	të	DET
+minimizuar	minimizuar	ADJ
+rrezikun	rrezikun	NOUN
+e	e	DET
+ndotjes	ndotje	NOUN
+së	së	DET
+ndërsjellë	ndërsjellë	ADJ
+,	,	PUNCT
+rekomandohet	rekomandohet	VERB
+që	që	SCONJ
+të	të	DET
+përdoren	pirdore	VERB
+pllaka	pllaka	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+me	I	ADJ
+12	12	NUM
+ose	ose	CCONJ
+24	24	NUM
+mjedise	mjedise	NOUN
+rritëse	rritëse	ADJ
+për	për	ADP
+prova	prova	NOUN
+nga	nga	ADJ
+ferma	ferma	NOUN
+të	të	DET
+ndryshme	ndryshme	ADJ
+peshqish	peshqish	NOUN
+.	.	PUNCT
+</s>
+<text id="151">
+<s id="0">
+III.2.2	iii.2.2	NUM
+</s>
+<text id="152">
+<s id="0">
+Një	një	NUM
+</s>
+<s id="1">
+pllakë	pllakë	NOUN
+nuk	nuk	PART
+injektohet	injektohet	VERB
+dhe	dhe	CCONJ
+mbahet	mbahet	VERB
+si	si	ADV
+kontroll	kontroll	NOUN
+negativ	negativ	ADJ
+.	.	PUNCT
+</s>
+<text id="153">
+<s id="0">
+Një	një	NUM
+</s>
+<s id="1">
+pllakë	pllakë	NOUN
+tjetër	tjetër	PRON
+injektohet	injektohet	VERB
+me	I	ADP
+një	një	NUM
+izolat	izolat	NOUN
+ISAV	ISAV	PROPN
+si	si	ADV
+kontroll	kontroll	NOUN
+pozitiv	pozitiv	ADJ
+si	si	ADV
+më	më	ADP
+poshtë	poshtë	ADV
+.	.	PUNCT
+</s>
+<text id="154">
+<s id="0">
+100	100	NUM
+</s>
+<s id="1">
+μl	μl	NOUN
+i	i	DET
+përgatitur	përgatitur	ADJ
+nga	non	ADP
+stoku	stoku	NOUN
+i	i	DET
+ISAV	ISAV	PROPN
+(	(	PUNCT
+titri	titri	NOUN
+minimal	minimal	ADJ
+107	107	NUM
+TCID50	TCID50	PROPN
+/	/	NUM
+ml	ml	NOUN
+)	)	PUNCT
+injektohet	injektohet	VERB
+në	në	ADP
+pusetën	pusetën	NOUN
+e	e	DET
+parë	parë	ADJ
+dhe	dhe	CCONJ
+përzihet	përzihet	VERB
+mirë	mirë	ADV
+.	.	PUNCT
+</s>
+<text id="155">
+<s id="0">
+Një	një	NUM
+</s>
+<s id="1">
+pjesë	pjesë	NOUN
+nga	non	ADP
+kjo	kjo	PRON
+përzierje	përzierje	NOUN
+kalon	kalin	VERB
+në	në	ADP
+pusetën	pusetën	NOUN
+e	e	DET
+dytë	dytë	NUM
+me	I	ADP
+një	një	NUM
+hollim	hollim	NOUN
+përfundimtar	përfundimtar	ADJ
+1:10	1:10	NUM
+dhe	dhe	CCONJ
+përzihet	përzihet	VERB
+mirë	mirë	ADV
+.	.	PUNCT
+</s>
+<text id="156">
+<s id="0">
+Përsëritet	përsëritet	VERB
+</s>
+<s id="1">
+kjo	kjo	PRON
+procedurë	procedurë	NOUN
+për	për	ADP
+10	10	NUM
+hollime	hollime	NOUN
+.	.	PUNCT
+</s>
+<text id="157">
+<s id="0">
+Stoku	stoku	NOUN
+</s>
+<s id="1">
+i	i	DET
+ISAV	ISAV	PROPN
+mund	mund	AUX
+të	të	DET
+ruhet	ruhet	VERB
+në	në	ADP
+-	-	SYM
+800	800	NUM
+C	C	PROPN
+për	për	ADP
+dy	dy	NUM
+vjet	vjet	NOUN
+dhe	dhe	CCONJ
+duhet	duhet	AUX
+të	të	DET
+përdoret	përdoret	VERB
+brenda	brenda	ADV
+tre	tre	NUM
+ditëve	ditëve	NOUN
+pas	pas	ADP
+shkrirjes	shkrirje	NOUN
+.	.	PUNCT
+</s>
+<text id="158">
+<s id="0">
+Shënim	shënim	NOUN
+</s>
+<s id="1">
+:	:	PUNCT
+duhet	duhet	VERB
+kujdes	kujde	NOUN
+për	për	ADP
+të	të	DET
+mënjanuar	mënjanuar	VERB
+ndotjen	ndotjen	NOUN
+e	e	DET
+ndërsjellë	ndërsjellë	ADJ
+midis	midis	ADP
+kontrollit	kontrollit	NOUN
+pozitiv	pozitiv	ADJ
+dhe	dhe	CCONJ
+materialit	materialit	NOUN
+që	që	PRON
+testohet	testohet	VERB
+.	.	PUNCT
+</s>
+<text id="159">
+<s id="0">
+Prandaj	prandaj	ADV
+</s>
+<s id="1">
+të	të	DET
+dy	dy	NUM
+pllakat	pllakat	NOUN
+punohen	punohen	VERB
+të	të	DET
+ndara	ndara	ADJ
+nga	non	ADP
+njëra	njëra	NUM
+-	-	PUNCT
+tjetra	tjetra	NOUN
+.	.	PUNCT
+</s>
+<text id="160">
+<s id="0">
+III.2.3	iii.2.3	NUM
+</s>
+<s id="1">
+Kampionet	kampionet	NOUN
+ngrohen	ngroh	VERB
+në	në	ADP
+14	14	NUM
+±	±	SYM
+20	20	SYM
+C	C	PROPN
+për	për	ADP
+më	me	PART
+shumë	shumë	ADV
+se	se	CCONJ
+15	15	NUM
+ditë	ditë	NOUN
+.	.	PUNCT
+</s>
+<text id="161">
+<s id="0">
+III.3	iii.3	NUM
+</s>
+<s id="1">
+Vëzhgimi	vëzhgimi	NOUN
+në	në	ADP
+mikroskop	mikroskop	NOUN
+</s>
+<text id="162">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+përdorur	përdorur	VERB
+mikroskopin	mikroskopin	NOUN
+,	,	PUNCT
+kulturat	kulturat	NOUN
+qelizore	qelizore	ADJ
+kontrollohen	kontrollohen	VERB
+dy	dy	NUM
+herë	herë	NOUN
+,	,	PUNCT
+një	një	NUM
+pas	pas	ADP
+ditës	dite	NOUN
+5	5	NUM
+-	-	SYM
+7	7	NUM
+,	,	PUNCT
+dhe	dhe	CCONJ
+12	12	NUM
+-	-	PUNCT
+14	14	NUM
+ditë	ditë	NOUN
+pas	pas	ADP
+injektimit	injektimit	NOUN
+.	.	PUNCT
+</s>
+<text id="163">
+<s id="0">
+Pasi	pasi	CCONJ
+</s>
+<s id="1">
+shfaqet	shfaqet	VERB
+ECP	ECP	PROPN
+fillojnë	fillojnë	VERB
+menjëherë	menjëherë	ADV
+procedurat	procedurat	NOUN
+e	e	DET
+identifikimit	identifikimit	NOUN
+të	të	DET
+virusit	virusit	NOUN
+si	si	ADV
+në	në	ADP
+Pjesën	pjesën	NOUN
+III.6	iii.6	NUM
+.	.	PUNCT
+</s>
+<text id="164">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+nuk	nuk	PART
+marrim	marrim	NOUN
+ECP	ECP	PROPN
+pas	pas	ADP
+ditës	dite	NOUN
+14	14	NUM
+,	,	PUNCT
+bëhet	bëhet	VERB
+një	një	NUM
+test	test	NOUN
+hemoadsorbimi	hemoadsorbimi	NOUN
+(	(	PUNCT
+III.4	iii.4	NUM
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="165">
+<s id="0">
+III.4	iii.4	NUM
+</s>
+<s id="1">
+Hemoadsorbimi	hemoadsorbimi	NOUN
+</s>
+<text id="166">
+<s id="0">
+Ripërsëritja	ripërsëritja	NOUN
+</s>
+<s id="1">
+e	e	DET
+virusit	virusit	NOUN
+të	të	DET
+ISA-s	ISA-s	PROPN
+në	në	ADP
+kultura	kultura	NOUN
+qelizore	qelizore	ADJ
+jo	jo	ADV
+gjithmonë	gjithmonë	ADV
+jep	jep	VERB
+ECP	ECP	PROPN
+.	.	PUNCT
+</s>
+<text id="167">
+<s id="0">
+Prandaj	prandaj	CCONJ
+</s>
+<s id="1">
+,	,	CCONJ
+çdo	çdo	PRON
+pusetë	pusetë	NOUN
+duhet	duhet	VERB
+të	të	DET
+testohet	testohet	VERB
+me	I	ADP
+provën	provën	NOUN
+e	e	DET
+hemoadsorbimit	hemoadsorbimit	NOUN
+,	,	CCONJ
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+,	,	CCONJ
+ose	ose	CCONJ
+të	të	DET
+kontrollohet	kontrollohet	VERB
+me	I	ADP
+testin	testin	NOUN
+e	e	DET
+IF	IF	PROPN
+si	si	ADV
+në	në	ADP
+III.6.1	iii.6.1	NUM
+.	.	PUNCT
+</s>
+<text id="168">
+<s id="0">
+III.4.1	iii.4.1	NUM
+</s>
+<s id="1">
+Terreni	terreni	NOUN
+i	i	DET
+kulturës	kultur'	NOUN
+largohet	largohet	VERB
+nga	non	ADP
+pusetat	pusetat	NOUN
+,	,	PUNCT
+përfshi	perfshi	VERB
+ato	ato	PRON
+të	të	DET
+kontrollit	kontrollit	NOUN
+pozitiv	pozitiv	ADJ
+dhe	dhe	CCONJ
+negativ	negativ	ADJ
+dhe	dhe	CCONJ
+vendoset	vendoset	VERB
+në	në	ADP
+tuba	tuba	NOUN
+sterilë	sterilë	ADJ
+të	të	DET
+emërtuar	emërtuar	VERB
+.	.	PUNCT
+</s>
+<text id="169">
+<s id="0">
+Shtohen	shtohen	VERB
+</s>
+<s id="1">
+500	500	NUM
+μl	μl	NOUN
+suspension	suspension	NOUN
+0.2	0.2	NUM
+%	%	SYM
+(	(	SYM
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+eritrocite	eritrocite	NOUN
+lepuri	lepuri	NOUN
+ose	ose	CCONJ
+kali	kali	NOUN
+ose	ose	CCONJ
+0.05	0.05	NUM
+%	%	SYM
+(	(	PUNCT
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+eritrocite	eritrocite	NOUN
+salmoni	salmoni	NOUN
+ose	ose	CCONJ
+trofte	trofte	NOUN
+dhe	dhe	CCONJ
+ngrohen	ngroh	VERB
+për	për	ADP
+45	45	NUM
+minuta	minuta	NOUN
+në	në	ADP
+temperaturën	temperaturën	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+.	.	PUNCT
+</s>
+<text id="170">
+<s id="0">
+Eritrocitet	eritrocitet	NOUN
+</s>
+<s id="1">
+largohen	largohen	VERB
+nga	non	ADP
+pusetat	pusetat	NOUN
+duke	duke	PART
+i	i	DET
+bërë	bërë	VERB
+shpëlarjen	shpëlarjen	NOUN
+me	I	ADP
+terren	terren	NOUN
+L	L	PROPN
+-	-	PUNCT
+15	15	NUM
+.	.	PUNCT
+</s>
+<text id="171">
+<s id="0">
+Pastaj	pastaj	ADV
+</s>
+<s id="1">
+çdo	çdo	PRON
+pusetë	pusetë	NOUN
+kontrollohet	kontrollohet	VERB
+me	I	ADP
+mikroskop	mikroskop	NOUN
+.	.	PUNCT
+</s>
+<text id="172">
+<s id="0">
+III.4	iii.4	NUM
+</s>
+<s id="1">
+.2	.2	NUM
+Prania	prania	NOUN
+e	e	DET
+grumbujve	grumbujve	NOUN
+të	të	DET
+eritrociteve	eritrociteve	NOUN
+të	të	DET
+ngjitura	ngjitura	ADJ
+në	në	ADP
+sipërfaqen	sipprfaqen	NOUN
+e	e	DET
+qelizave	qelizave	NOUN
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+ose	ose	CCONJ
+TO	to	PRON
+do	do	PART
+të	të	DET
+jetë	jetë	VERB
+tregues	tregue	NOUN
+i	i	DET
+një	një	NUM
+infeksioni	infeksioni	NOUN
+me	I	ADP
+orthomixovirus	orthomixovirus	NOUN
+.	.	PUNCT
+</s>
+<text id="173">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+hemoadsorbimi	hemoadsorbimi	NOUN
+është	është	VERB
+pozitiv	pozitiv	ADJ
+duhet	duhet	VERB
+të	të	DET
+kryhet	kryhet	VERB
+menjëherë	menjëherë	ADV
+një	një	NUM
+test	test	NOUN
+identifikimi	identifikimi	NOUN
+.	.	PUNCT
+</s>
+<text id="174">
+<s id="0">
+III.5	iii.5	NUM
+</s>
+<s id="1">
+Nënkultivimi	nënkultivimi	NOUN
+ose	ose	CCONJ
+pasazhi	pasazhi	NOUN
+</s>
+<text id="175">
+<s id="0">
+III.5.1	iii.5.1	NUM
+</s>
+<s id="1">
+Pasazhi	pasazhi	NOUN
+bëhet	bëhet	VERB
+në	në	ADP
+ditët	ditët	NOUN
+e	e	DET
+13	13	NUM
+-	-	PUNCT
+tw	tw	ADP
+deri	deriug	ADP
+nw	n	DET
+tw	tw	ADP
+15	15	NUM
+-	-	PUNCT
+twn	twn	NOUN
+.	.	PUNCT
+</s>
+<text id="176">
+<s id="0">
+200	200	NUM
+</s>
+<s id="1">
+-	-	SYM
+500	500	NUM
+μl	μl	NOUN
+nga	non	ADP
+supernatanti	supernatanti	NOUN
+i	i	DET
+kulturës	kultur'	NOUN
+shtohen	shtohen	VERB
+në	në	ADP
+një	një	NUM
+kulturë	kulturë	NOUN
+të	të	DET
+re	be	ADJ
+qelizash	qelizash	NOUN
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+në	në	ADP
+pllaka	pllaka	NOUN
+12	12	NUM
+pusetëshe	pusetëshe	NOUN
+dhe	dhe	CCONJ
+ngrohen	ngroh	VERB
+në	në	ADP
+140	140	NUM
+±	±	SYM
+20	20	NUM
+C	C	PROPN
+për	për	ADP
+më	me	PART
+shumë	shumë	ADV
+se	se	CCONJ
+18	18	NUM
+ditë	ditë	NOUN
+.	.	PUNCT
+</s>
+<text id="177">
+<s id="0">
+Kulturat	kulturat	NOUN
+</s>
+<s id="1">
+kontrollohen	kontrollohen	VERB
+dy	dy	NUM
+herë	herë	NOUN
+me	I	ADP
+mikroskop	mikroskop	NOUN
+,	,	PUNCT
+në	në	ADP
+ditët	ditët	NOUN
+5	5	NUM
+-	-	PUNCT
+7	7	NUM
+dhe	dhe	CCONJ
+në	në	ADP
+ditët	ditët	NOUN
+14	14	NUM
+-	-	PUNCT
+18	18	NUM
+pas	pas	ADP
+ngrohjes	ngrohje	NOUN
+.	.	PUNCT
+</s>
+<text id="178">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+në	në	ADP
+ndonjë	ndonjë	PRON
+pllakë	pllakë	NOUN
+shfaqet	shfaqet	VERB
+ECP	ECP	PROPN
+fillojnë	fillojnë	VERB
+menjëherë	menjëherë	ADV
+procedurat	procedurat	NOUN
+e	e	DET
+identifikimit	identifikimit	NOUN
+(	(	PUNCT
+III.6	iii.6	NUM
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="179">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+nuk	nuk	PART
+ka	ke	AUX
+ECP	ECP	PROPN
+pas	pas	ADP
+ditës	dite	NOUN
+14	14	NUM
+-	-	PUNCT
+18	18	NUM
+,	,	PUNCT
+kryhet	kryhet	VERB
+një	një	NUM
+test	test	NOUN
+hemoadsorbimi	hemoadsorbimi	NOUN
+(	(	PUNCT
+III.4	iii.4	NUM
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="180">
+<s id="0">
+III.5.2	iii.5.2	NUM
+</s>
+<s id="1">
+Nëse	nëse	CCONJ
+kemi	kemi	VERB
+efekt	efekt	NOUN
+citotoksik	citotoksik	NOUN
+shtatë	shtatë	NUM
+ditët	ditët	NOUN
+e	e	DET
+para	para	ADP
+pas	pas	ADP
+injektimit	injektimit	NOUN
+,	,	PUNCT
+bëhet	bëhet	VERB
+një	një	NUM
+pasazh	pasazh	NOUN
+në	në	ADP
+këtë	këtë	PRON
+kohë	kohë	NOUN
+,	,	PUNCT
+qelizat	qelizat	NOUN
+ngrohen	ngroh	VERB
+për	për	ADP
+14	14	NUM
+-	-	PUNCT
+18	18	NUM
+ditë	ditë	NOUN
+dhe	dhe	CCONJ
+duhet	duhet	VERB
+të	të	DET
+ripasazhohen	ripasazhohen	VERB
+dhe	dhe	CCONJ
+të	të	DET
+ringrohen	ringrohen	VERB
+për	për	ADP
+14	14	NUM
+-	-	PUNCT
+18	18	NUM
+ditë	ditë	NOUN
+të	të	DET
+tjera	tjera	PRON
+.	.	PUNCT
+</s>
+<text id="181">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+kemi	kemi	VERB
+efekt	efekt	NOUN
+toksik	toksik	ADJ
+pas	pas	ADP
+shtatë	shtatë	NUM
+ditësh	ditësh	NOUN
+bëhet	bëhet	VERB
+pasazhi	pasazhi	NOUN
+dhe	dhe	CCONJ
+qelizat	qelizat	NOUN
+ngrohen	ngroh	VERB
+deri	deriug	ADP
+sa	sa	ADV
+të	të	DET
+arrijnë	arrijn	VERB
+një	një	NUM
+total	total	NOUN
+28	28	NUM
+-	-	PUNCT
+36	36	NUM
+ditë	ditë	NOUN
+ngrohje	ngrohje	NOUN
+nga	non	ADP
+injektimi	injektimi	NOUN
+i	i	DET
+parë	parë	ADJ
+.	.	PUNCT
+</s>
+<text id="182">
+<s id="0">
+III.5.3	iii.5.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Nëse	nëse	CCONJ
+kemi	kemi	VERB
+një	një	NOUN
+ndotje	ndotje	NOUN
+bakteriale	bakteriale	ADJ
+në	në	ADP
+kulturën	kulturen	NOUN
+e	e	DET
+parë	parë	ADJ
+,	,	PUNCT
+përsëritet	përsëritet	VERB
+testi	testi	NOUN
+duke	duke	PART
+përdorur	përdorur	VERB
+homogjenizat	homogjenizat	ADJ
+të	të	DET
+ruajtur	ruajtur	ADJ
+në	në	ADP
+-	-	PUNCT
+800	800	NUM
+C	C	PROPN
+.	.	PUNCT
+</s>
+<text id="183">
+<s id="0">
+Para	para	ADP
+</s>
+<s id="1">
+injektimit	injektimit	NOUN
+homogjenizati	homogjenizati	ADJ
+centrifugohet	centrifugohet	NOUN
+më	me	PART
+4000	4000	NUM
+rrot	rrot	NOUN
+/	/	SYM
+30	30	NUM
+minuta	minuta	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+60	60	NUM
+C	C	PROPN
+dhe	dhe	CCONJ
+supernatanti	supernatanti	NOUN
+filtrohet	fildroh	VERB
+me	I	ADP
+membranë	membranë	NOUN
+filtri	filtri	NOUN
+0.22	0.22	NUM
+μm	μm	NOUN
+.	.	PUNCT
+</s>
+<text id="184">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+kemi	kemi	NOUN
+ndotje	ndotje	NOUN
+bakteriale	bakteriale	ADJ
+gjatë	gjatë	ADP
+pasazhimit	pasazhimit	NOUN
+,	,	PUNCT
+filtrohet	fildroh	VERB
+supernatanti	supernatanti	NOUN
+,	,	PUNCT
+injektohet	injektohet	VERB
+në	në	ADP
+një	një	NUM
+kulturë	kulturë	NOUN
+të	të	DET
+re	be	ADJ
+qelizore	qelizore	ADJ
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+për	për	ADP
+14	14	NUM
+-	-	PUNCT
+18	18	NUM
+ditë	ditë	NOUN
+.	.	PUNCT
+</s>
+<text id="185">
+<s id="0">
+III.6	iii.6	NUM
+</s>
+<s id="1">
+Testet	testet	NOUN
+e	e	DET
+identifikimit	identifikimit	NOUN
+të	të	DET
+virusit	virusit	NOUN
+</s>
+<text id="186">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+çdo	çdo	ADV
+etapë	etapë	NOUN
+ku	ku	CCONJ
+vërehet	vërehet	VERB
+ECP	ECP	PROPN
+dhe	dhe	CCONJ
+rezultati	rezultati	NOUN
+i	i	DET
+hemoadsorbimit	hemoadsorbimit	NOUN
+është	është	VERB
+pozitiv	pozitiv	ADJ
+,	,	PUNCT
+kruhet	kruhet	VERB
+identifikimi	identifikimi	NOUN
+i	i	DET
+virusit	virusit	NOUN
+.	.	PUNCT
+</s>
+<text id="187">
+<s id="0">
+Metodat	metodat	NOUN
+</s>
+<s id="1">
+e	e	DET
+përdorura	përdorura	ADJ
+janë	janë	VERB
+IF	IF	PROPN
+(	(	PUNCT
+III.6.1	III.6.1	PROPN
+)	)	PUNCT
+dhe	dhe	CCONJ
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+(	(	PUNCT
+Pjesa	pjesa	NOUN
+IV	iv	NUM
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="188">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+mendohet	mendohet	VERB
+se	se	CCONJ
+ka	ka	VERB
+edhe	edhe	CCONJ
+viruse	viruse	NOUN
+të	të	DET
+tjerë	tjerë	ADJ
+të	të	DET
+pranishëm	pranishëm	ADJ
+,	,	PUNCT
+kryhen	kryh	VERB
+identifikime	identifikime	NOUN
+shtesë	shtesë	ADJ
+.	.	PUNCT
+</s>
+<text id="189">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+këto	këto	PRON
+teste	teste	NOUN
+nuk	nuk	PART
+mund	mund	VERB
+të	të	DET
+bëjnë	bëjnë	VERB
+identifikimin	identifikimin	NOUN
+përfundimtar	përfundimtar	ADJ
+,	,	PUNCT
+brenda	brenda	ADV
+një	një	NUM
+jave	jave	NOUN
+supernatanti	supernatanti	NOUN
+dërgohet	dërgohet	VERB
+në	në	ADP
+një	një	NUM
+laborator	laborator	NOUN
+reference	reference	NOUN
+për	për	ADJ
+sëmundjet	sëmundjet	NOUN
+e	e	DET
+peshqve	peshqve	NOUN
+të	të	DET
+BE	be	ADJ
+për	për	ADJ
+identifikim	identifikim	NOUN
+të	të	DET
+menjëhershëm	menjëhershëm	ADJ
+.	.	PUNCT
+</s>
+<text id="190">
+<s id="0">
+III.6.1	III.6.1	PROPN
+</s>
+<s id="1">
+IF	IF	PROPN
+</s>
+<text id="191">
+<s id="0">
+III.6.1.1	iii.6.1.1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Qelizat	qelizat	NOUN
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+ose	ose	CCONJ
+TO	to	PRON
+rriten	rrite	VERB
+në	në	ADP
+terren	terren	NOUN
+L	L	PROPN
+-	-	PUNCT
+15	15	NUM
+që	që	PRON
+përmban	përmban	VERB
+5	5	NUM
+%	%	SYM
+serum	serum	NOUN
+fetal	fetal	NOUN
+viçi	viçi	NOUN
+,	,	PUNCT
+2	2	NUM
+%	%	SYM
+(	(	SYM
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+200	200	NUM
+mM	mm	NOUN
+L	L	PROPN
+-	-	PUNCT
+glutaminë	glutaminë	NOUN
+dhe	dhe	CCONJ
+0.08	0.08	NUM
+%	%	SYM
+(	(	SYM
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+50	50	NUM
+mM	mm	NOUN
+</s>
+<text id="192">
+<s id="0">
+2	2	NUM
+</s>
+<s id="1">
+-	-	PUNCT
+mercaptoethanol	mercaptoethanol	VERB
+në	në	ADP
+pllaka	pllaka	NOUN
+12	12	NUM
+ose	ose	CCONJ
+24	24	NUM
+pusetëshe	pusetëshe	NOUN
+dhe	dhe	CCONJ
+përdoren	pirdore	VERB
+pasi	pasi	CCONJ
+kanë	kanë	VERB
+arritur	arritur	VERB
+një	një	NUM
+rritje	rritje	NOUN
+50	50	NUM
+%	%	SYM
+.	.	PUNCT
+</s>
+<text id="193">
+<s id="0">
+Mund	mund	AUX
+</s>
+<s id="1">
+të	të	DET
+përdoren	pirdore	VERB
+edhe	edhe	CCONJ
+linja	linja	NOUN
+të	të	DET
+tjera	tjera	PRON
+për	për	ADP
+izolimin	izolimin	NOUN
+e	e	DET
+ISAV	ISAV	PROPN
+,	,	PUNCT
+duke	duke	ADJ
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+aftësinë	aftësinë	NOUN
+e	e	DET
+shtameve	shtameve	NOUN
+të	të	DET
+ndryshëm	ndryshëm	ADJ
+për	për	ADP
+t	t	DET
+’u	''	PART
+rritur	rritur	ADJ
+në	në	ADP
+linja	linja	NOUN
+të	të	DET
+ndryshme	ndryshme	ADJ
+.	.	PUNCT
+</s>
+<text id="194">
+<s id="0">
+225	225	NUM
+</s>
+<s id="1">
+μl	μl	NOUN
+supernatant	supernatant	NOUN
+nga	nga	ADJ
+kulturat	kulturat	NOUN
+qelizore	qelizore	ADJ
+të	të	DET
+infektuar	infektuar	ADJ
+me	I	ADJ
+virus	virus	NOUN
+hidhen	hidh	VERB
+në	në	ADP
+dy	dy	NUM
+puseta	puseta	NOUN
+,	,	PUNCT
+përzihet	përzihet	VERB
+dhe	dhe	CCONJ
+e	e	DET
+njëjta	njëjta	ADJ
+sasi	sasi	NOUN
+transferohet	transferohet	VERB
+në	në	ADP
+dy	dy	NUM
+puseta	puseta	NOUN
+të	të	DET
+tjera	tjera	PRON
+,	,	PUNCT
+në	në	ADP
+një	një	NUM
+hollim	hollim	NOUN
+1	1	NUM
+:5	:5	NUM
+.	.	PUNCT
+</s>
+<text id="195">
+<s id="0">
+Dy	dy	NUM
+</s>
+<s id="1">
+puseta	puseta	NOUN
+të	të	DET
+tjera	tjera	PRON
+nuk	nuk	PART
+injektohen	injektohen	VERB
+dhe	dhe	CCONJ
+ruhen	ruhen	VERB
+si	si	ADV
+kontroll	kontroll	NOUN
+negativ	negativ	ADJ
+.	.	PUNCT
+</s>
+<text id="196">
+<s id="0">
+Kampionet	kampionet	NOUN
+</s>
+<s id="1">
+nga	non	ADP
+vende	vende	NOUN
+të	të	DET
+ndryshme	ndryshme	ADJ
+kontrollohen	kontrollohen	VERB
+veçan	veçan	VERB
+njëri	njëri	PRON
+-	-	PRON
+tjetrit	tjetrit	PRON
+,	,	PUNCT
+ashtu	ashtu	ADV
+edhe	edhe	CCONJ
+virusi	virusi	NOUN
+i	i	DET
+kontrollit	kontrollit	NOUN
+.	.	PUNCT
+</s>
+<text id="197">
+<s id="0">
+Për	për	ADP
+</s>
+<s id="1">
+kontroll	kontroll	NOUN
+pozitiv	pozitiv	ADJ
+përdoret	përdoret	VERB
+një	një	NUM
+izolat	izolat	NOUN
+reference	reference	ADJ
+i	i	DET
+ISAV	ISAV	PROPN
+.	.	PUNCT
+</s>
+<text id="198">
+<s id="0">
+IV. III.6.1.2	iv. iii.6.1.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Pllakat	pllakat	NOUN
+ngrohen	ngroh	VERB
+në	në	ADP
+14	14	NUM
+±	±	SYM
+20	20	NUM
+C	C	PROPN
+dhe	dhe	CCONJ
+kontrollohen	kontrollohen	VERB
+me	I	ADP
+mikroskop	mikroskop	NOUN
+pas	pas	ADP
+7	7	NUM
+ditësh	ditësh	NOUN
+.	.	PUNCT
+</s>
+<text id="199">
+<s id="0">
+Kur	kur	CCONJ
+</s>
+<s id="1">
+vihet	vihet	VERB
+re	be	ADJ
+ECP	ECP	PROPN
+brenda	brenda	ADV
+shtatë	shtatë	NUM
+ditësh	ditësh	NOUN
+hap	hap	NOUN
+i	i	DET
+tjetër	tjetër	PRON
+është	është	VERB
+fiksimi	fiksimi	NOUN
+.	.	PUNCT
+</s>
+<text id="200">
+<s id="0">
+Pusetat	pusetat	NOUN
+</s>
+<s id="1">
+shpëlahen	shpelahe	VERB
+me	I	ADP
+PBS	PBS	PROPN
+,	,	PUNCT
+fiksohen	fiksohen	VERB
+me	I	ADP
+Aceton	Aceton	PROPN
+80	80	NUM
+%	%	SYM
+dhe	dhe	CCONJ
+ngrohen	ngroh	VERB
+për	për	ADP
+20	20	NUM
+minuta	minuta	NOUN
+në	në	ADP
+temperaturën	temperaturën	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+.	.	PUNCT
+</s>
+<text id="201">
+<s id="0">
+Pllakat	pllakat	NOUN
+</s>
+<s id="1">
+thahen	thahen	VERB
+dhe	dhe	CCONJ
+ngjyrosen	ngjyrosen	NOUN
+menjëherë	menjëherë	ADV
+,	,	PUNCT
+ose	ose	CCONJ
+ruhen	ruhen	VERB
+në	në	ADP
+0	0	NUM
+-	-	SYM
+60	60	NUM
+C	C	PROPN
+për	për	ADP
+jo	jo	PART
+më	me	PART
+shumë	shumë	ADV
+se	se	CCONJ
+24	24	NUM
+orë	orë	NOUN
+para	para	ADP
+ngjyrosjes	ngjyrosj	NOUN
+.	.	PUNCT
+</s>
+<text id="202">
+<s id="0">
+III.6.1.3	iii.6.1.3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Pusetat	pusetat	NOUN
+e	e	DET
+replikuara	replikuara	ADJ
+duhet	duhet	VERB
+të	të	DET
+ngjyrosen	ngjyrose	VERB
+me	I	ADP
+Ab	Ab	PROPN
+monoklonalë	monoklonalë	ADJ
+3H6F8	3h6f8	NUM
+të	të	DET
+ISAV	ISAV	PROPN
+ose	ose	CCONJ
+Ab	Ab	PROPN
+monoklonal	monoklonal	ADJ
+të	të	DET
+një	një	NUM
+tipi	tipi	NOUN
+tjetër	tjetër	PRON
+efikas	efikas	ADJ
+,	,	PUNCT
+të	të	DET
+hollohen	holloh	VERB
+në	në	ADP
+PBS	PBS	PROPN
+dhe	dhe	CCONJ
+të	të	DET
+ngrohen	ngroh	VERB
+në	në	ADP
+37	37	NUM
+±	±	SYM
+40	40	NUM
+C	C	PROPN
+për	për	ADP
+30	30	NUM
+minuta	minuta	NOUN
+.	.	PUNCT
+</s>
+<text id="203">
+<s id="0">
+Pastaj	pastaj	ADV
+</s>
+<s id="1">
+bëhet	bëhet	VERB
+shpëlarja	shpëlarja	NOUN
+me	I	ADP
+0.05	0.05	NUM
+%	%	SYM
+PBS	PBS	PROPN
+Tween	Tween	PROPN
+20	20	NUM
+.	.	PUNCT
+</s>
+<text id="204">
+<s id="0">
+Konjugati	Konjugati	PROPN
+</s>
+<s id="1">
+Anti-mause	Anti-mause	PROPN
+IgG	IgG	PROPN
+FITC	FITC	PROPN
+hollohet	hollohet	VERB
+në	në	ADP
+PBS	PBS	PROPN
+,	,	PUNCT
+shtohet	shtohet	VERB
+në	në	ADP
+secilën	secilën	NOUN
+pusetë	pusetë	NOUN
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+në	në	ADP
+37	37	NUM
+±	±	SYM
+40	40	NUM
+C	C	PROPN
+për	për	ADP
+30	30	NUM
+minuta	minuta	NOUN
+.	.	PUNCT
+</s>
+<text id="205">
+<s id="0">
+Shënim	shënim	NOUN
+</s>
+<s id="1">
+:	:	PUNCT
+hollimi	hollimi	NOUN
+i	i	DET
+solucionit	solucionit	NOUN
+të	të	DET
+Ab momoklonal	Ab momoklonal	PROPN
+dhe	dhe	CCONJ
+konjugatit	konjugatit	NOUN
+me	I	ADJ
+FITC	FITC	PROPN
+bëhet	bëhet	VERB
+në	në	ADP
+çdo	çdo	PRON
+laborator	laborator	NOUN
+.	.	PUNCT
+</s>
+<text id="206">
+<s id="0">
+AB	AB	PROPN
+</s>
+<s id="1">
+largohen	largohen	VERB
+nga	non	ADP
+pllaka	pllaka	NOUN
+duke	duke	PART
+i	i	DET
+shpëlarë	shpëlarë	NOUN
+me	I	ADP
+solucion	solucion	NOUN
+0.05	0.05	NUM
+%	%	SYM
+PBS	PBS	PROPN
+</s>
+<text id="207">
+<s id="0">
+Tween	Tween	PROPN
+</s>
+<s id="1">
+20. III.6.1.4	20. iii.6.1.4	NUM
+.	.	PUNCT
+Pusetat	pusetat	NOUN
+kontrollohen	kontrollohen	VERB
+në	në	ADP
+mikroskop	mikroskop	NOUN
+me	I	ADP
+fluoreshencë	fluoreshencë	NOUN
+.	.	PUNCT
+</s>
+<text id="208">
+<s id="0">
+Testi	testi	NOUN
+</s>
+<s id="1">
+konsiderohet	konsiderohet	VERB
+pozitiv	pozitiv	ADJ
+nëse	nëse	CCONJ
+vërehen	vërehen	VERB
+qeliza	qeliza	NOUN
+fluoreshente	fluoreshente	ADJ
+.	.	PUNCT
+</s>
+<text id="209">
+<s id="0">
+Që	që	SCONJ
+</s>
+<s id="1">
+testi	testi	NOUN
+të	të	DET
+jetë	jetë	VERB
+i	i	DET
+vlefshëm	vlefshëm	ADJ
+puseta	puseta	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+pozitiv	pozitiv	ADJ
+duhet	duhet	AUX
+të	të	DET
+dalë	dalë	VERB
+pozitive	pozitive	ADJ
+dhe	dhe	CCONJ
+kontrolli	kontrolli	NOUN
+negativ	negativ	ADJ
+të	të	DET
+dalë	dalë	VERB
+negativ	negativ	ADJ
+me	I	ADJ
+IF	IF	PROPN
+.	.	PUNCT
+</s>
+<text id="210">
+<s id="0">
+Ekzaminimi	ekzaminimi	NOUN
+</s>
+<s id="1">
+i	i	DET
+kampioneve	kampioneve	NOUN
+me	I	ADP
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+IV.1	iv.1	NUM
+.	.	PUNCT
+</s>
+<text id="211">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+pjesë	pjesë	NOUN
+përshkruan	përshkruan	VERB
+procedurat	procedurat	NOUN
+që	që	PRON
+kërkohen	kprkoh	VERB
+për	për	ADP
+amplifikimin	amplifikimin	NOUN
+me	I	ADP
+PCR	PCR	PROPN
+të	të	DET
+pjesëve	pjesëve	NOUN
+të	të	DET
+8	8	NUM
+segmenteve	segmenteve	NOUN
+të	të	DET
+genomës	genomm	NOUN
+së	së	DET
+ISAV	ISAV	PROPN
+,	,	PUNCT
+e	e	DET
+cila	cila	PRON
+merret	merret	VERB
+nga	non	ADP
+indet	indet	NOUN
+e	e	DET
+peshkut	peshkut	NOUN
+ose	ose	CCONJ
+kultura	kultura	NOUN
+e	e	DET
+ISAV	ISAV	PROPN
+.	.	PUNCT
+</s>
+<text id="212">
+<s id="0">
+IV.1.1	IV.1.1	PROPN
+</s>
+<s id="1">
+.	.	PUNCT
+Nxjerrja	Nxjerrja	PROPN
+e	e	DET
+ARN	ARN	PROPN
+(	(	PUNCT
+a	a	DET
+)	)	PUNCT
+Largojmë	Largojmë	PROPN
+ARNlater	ARNlater	PROPN
+nga	non	ADP
+secili	secili	PRON
+kampion	kampion	NOUN
+.	.	PUNCT
+</s>
+<text id="213">
+<s id="0">
+Shtojmë	shtojmë	VERB
+</s>
+<s id="1">
+1	1	NUM
+ml	ml	NOUN
+DEPC	DEPC	PROPN
+-	-	PUNCT
+trajtuar	trajtuar	VERB
+me	I	ADP
+dH2O	dH2O	PROPN
+në	në	ADP
+secilin	secilin	NOUN
+tub	tub	NOUN
+dhe	dhe	CCONJ
+më	me	PART
+pas	pas	ADV
+i	i	DET
+centrifugojmë	centrifugojmë	VERB
+me	I	ADP
+13000	13000	NUM
+rrot	rrot	NOUN
+/	/	SYM
+5	5	NUM
+minuta	minuta	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+60	60	NUM
+C	C	PROPN
+.	.	PUNCT
+</s>
+<text id="214">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+b	b	DET
+)	)	PUNCT
+Heqim	Heqim	PROPN
+supernatantin	supernatantin	NOUN
+nga	non	ADP
+secili	secili	PRON
+kampion	kampion	NOUN
+,	,	PUNCT
+dhe	dhe	CCONJ
+shtojmë	shtojmë	VERB
+nga	non	ADP
+800	800	NUM
+μl	μl	NOUN
+TRIzol	TRIzol	PROPN
+(	(	PUNCT
+invitrogen	invitrogen	NOUN
+)	)	PUNCT
+,	,	PUNCT
+ose	ose	CCONJ
+një	një	NUM
+reagjent	reagjent	NOUN
+alternativ	alternativ	NOUN
+,	,	PUNCT
+në	në	ADP
+secilin	secilin	PRON
+kampion	kampion	NOUN
+dhe	dhe	CCONJ
+në	në	ADP
+tubat	tubat	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+që	që	PRON
+përmbajnë	permbajn	VERB
+materialin	materialin	NOUN
+e	e	DET
+përshtatshëm	përshtatshëm	ADJ
+të	të	DET
+kontrollit	kontrollit	NOUN
+(	(	PUNCT
+400	400	NUM
+μl	μl	NOUN
+dH2O	dH2O	PROPN
+ose	ose	CCONJ
+homogjenizat	homogjenizat	ADJ
+veshkash	veshkash	NOUN
+i	i	DET
+lirë	lirë	ADJ
+nga	non	ADP
+patogjenet	patogjenet	NOUN
+e	e	DET
+peshkut	peshkut	NOUN
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="215">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+është	është	VERB
+e	e	DET
+nevojshme	nevojshme	ADJ
+bëhet	bëhet	VERB
+pipetizimi	pipetizimi	NOUN
+i	i	DET
+indeve	indeve	NOUN
+.	.	PUNCT
+</s>
+<text id="216">
+<s id="0">
+Tubat	tubat	NOUN
+</s>
+<s id="1">
+ngrohen	ngroh	VERB
+në	në	ADP
+temp.	temp.	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+për	për	ADP
+5	5	NUM
+-	-	PUNCT
+minuta	minuta	NOUN
+.	.	PUNCT
+</s>
+<text id="217">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+çdo	çdo	ADV
+tub	tub	NOUN
+shtojmë	shtojmë	VERB
+160	160	NUM
+μl	μl	NOUN
+kloroform	kloroform	NOUN
+dhe	dhe	CCONJ
+tubat	tubat	NOUN
+tunden	tund	VERB
+fort	fort	ADV
+për	për	ADP
+3	3	NUM
+-	-	SYM
+minuta	minuta	NOUN
+pastaj	pastaj	ADV
+centrifugohen	centrifugohen	VERB
+me	I	ADP
+13000	13000	NUM
+rrot.	rrot.	NOUN
+/	/	SYM
+15	15	NUM
+-	-	SYM
+min	min	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+6	6	NUM
+oC	oc	SYM
+.	.	PUNCT
+</s>
+<text id="218">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+c	c	DET
+)	)	PUNCT
+Përbërjet	përbërjet	NOUN
+e	e	DET
+lëngshme	lëngshme	ADJ
+hidhen	hidh	VERB
+në	në	ADP
+tuba	tuba	NOUN
+mikrofuge	mikrofuge	NOUN
+1.5	1.5	NUM
+ml	ml	NOUN
+që	që	PRON
+përmbajnë	permbajn	VERB
+500	500	NUM
+μl	μl	NOUN
+izopropanol	izopropanol	NOUN
+.	.	PUNCT
+</s>
+<text id="219">
+<s id="0">
+Tubat	tubat	NOUN
+</s>
+<s id="1">
+ngrohen	ngroh	VERB
+për	për	ADP
+10	10	NUM
+-	-	SYM
+minuta	minuta	NOUN
+në	në	ADP
+temp	temp	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+pastaj	pastaj	ADV
+centrifugohen	centrifugohen	VERB
+me	I	ADP
+6500	6500	NUM
+rrot	rrot	NOUN
+/	/	SYM
+5	5	NUM
+min	min	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+6	6	NUM
+oC	oc	SYM
+.	.	PUNCT
+</s>
+<text id="220">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+d	d	DET
+)	)	PUNCT
+Heqim	Heqim	PROPN
+supernatantin	supernatantin	NOUN
+dhe	dhe	CCONJ
+shtojmë	shtojmë	VERB
+1	1	NUM
+ml	ml	NOUN
+etanol	etanol	NOUN
+75	75	NUM
+%	%	SYM
+mbi	mbi	ADP
+peletën	peletën	NOUN
+e	e	DET
+ARN	ARN	PROPN
+-së	-së	PROPN
+.	.	PUNCT
+</s>
+<text id="221">
+<s id="0">
+Pastaj	pastaj	ADV
+</s>
+<s id="1">
+centrifugohen	centrifugohen	VERB
+me	I	ADP
+6500	6500	NUM
+rrot	rrot	NOUN
+/	/	SYM
+5	5	NUM
+min	min	NOUN
+në	në	ADP
+0	0	NUM
+-	-	SYM
+6	6	NUM
+oC	oc	SYM
+.	.	PUNCT
+</s>
+<text id="222">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+e	e	DET
+)	)	PUNCT
+Hedhim	hedhim	VERB
+supernatantin	supernatantin	NOUN
+dhe	dhe	CCONJ
+i	i	DET
+lemë	lemë	VERB
+tubat	tubat	NOUN
+hapur	hapur	ADJ
+për	për	ADP
+3	3	NUM
+min	min	NOUN
+që	që	PRON
+të	të	DET
+avullojë	avullojë	VERB
+etanoli	etanoli	NOUN
+,	,	PUNCT
+shtojmë	shtojmë	VERB
+15	15	NUM
+μl	μl	NOUN
+DEPC	DEPC	PROPN
+-	-	PUNCT
+trajtuar	trajtuar	VERB
+me	I	ADP
+dH2O	dH2O	PROPN
+për	për	ADP
+të	të	DET
+risuspenduar	risuspenduar	VERB
+peletën	peletën	NOUN
+.	.	PUNCT
+</s>
+<text id="223">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+f	for	DET
+)	)	PUNCT
+Përdoret	përdoret	VERB
+spektrofotometri	spektrofotometri	NOUN
+për	për	ADP
+të	të	DET
+llogaritur	llogaritur	VERB
+përqendrimin	përqendrimin	NOUN
+e	e	DET
+ARN-së	ARN-së	PROPN
+dhe	dhe	CCONJ
+pastërtinë	pastërtinë	NOUN
+e	e	DET
+kampionit	kampionit	NOUN
+.	.	PUNCT
+</s>
+<text id="224">
+<s id="0">
+Dendësia	dendësia	NOUN
+</s>
+<s id="1">
+optike	optike	ADJ
+matet	matet	NOUN
+në	në	ADP
+260	260	NUM
+dhe	dhe	CCONJ
+280	280	NUM
+mm	mm	NOUN
+.	.	CCONJ
+</s>
+<text id="225">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+g	g	DET
+)	)	PUNCT
+ARN-ja	ARN-ja	PROPN
+duhet	duhet	VERB
+të	të	DET
+përdoret	përdoret	VERB
+menjëherë	menjëherë	ADV
+(	(	PUNCT
+brenda	brenda	ADV
+ditës	dite	NOUN
+)	)	PUNCT
+ose	ose	CCONJ
+të	të	DET
+ruhet	ruhet	VERB
+përkohësisht	përkohësisht	ADV
+në	në	ADP
+0	0	NUM
+-	-	SYM
+6	6	NUM
+oC	oc	SYM
+.	.	PUNCT
+</s>
+<text id="226">
+<s id="0">
+ARN- ja	ARN- ja	PROPN
+</s>
+<s id="1">
+që	që	PRON
+nuk	nuk	PART
+përdoret	përdoret	VERB
+ruhet	ruhet	VERB
+në	në	ADP
+-	-	PUNCT
+80	80	NUM
+oC	oc	SYM
+.	.	PUNCT
+</s>
+<text id="227">
+<s id="0">
+IV. 1.2	iv. 1.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+RT	RT	PROPN
+</s>
+<text id="228">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	DET
+)	)	PUNCT
+Në	në	ADP
+një	një	NUM
+tub	tub	NOUN
+mikrofuge	mikrofuge	NOUN
+1.5	1.5	NUM
+ml	ml	NOUN
+hollojmë	hollojmë	VERB
+2	2	NUM
+μg	μg	NOUN
+ARN	ARN	PROPN
+në	në	ADP
+DEPC	DEPC	PROPN
+-	-	PUNCT
+trajtuar	trajtuar	VERB
+me	I	ADP
+dH2O	dH2O	PROPN
+.	.	PUNCT
+</s>
+<text id="229">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+përqendrimi	përqendrimi	NOUN
+i	i	DET
+ARN-së	ARN-së	PROPN
+në	në	ADP
+kampion	kampion	NOUN
+është	është	VERB
+më	me	PART
+i	i	DET
+vogël	vogël	ADJ
+se	se	CCONJ
+sa	sa	ADV
+lejohet	lejohet	VERB
+në	në	ADP
+reaksionin	reaksionin	NOUN
+RT	RT	PROPN
+,	,	PUNCT
+përdoret	përdoret	VERB
+maksimumi	maksimumi	NOUN
+i	i	DET
+mundshëm	mundshëm	ADJ
+i	i	DET
+ARN-së	ARN-së	PROPN
+.	.	PUNCT
+</s>
+<text id="230">
+<s id="0">
+ARN-ja	arn-ja	NOUN
+</s>
+<s id="1">
+e	e	DET
+holluar	holluar	VERB
+ngrohet	ngrohet	VERB
+në	në	ADP
+55	55	NUM
+-	-	SYM
+60	60	NUM
+OC	OC	PROPN
+për	për	ADP
+10	10	NUM
+min	min	NOUN
+.	.	PUNCT
+</s>
+<text id="231">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+b	b	NOUN
+)	)	PUNCT
+Tubat	tubat	NOUN
+që	që	SCONJ
+përmbajnë	permbajn	VERB
+ARN	ARN	PROPN
+vendosen	vendose	VERB
+në	në	ADP
+akull	akull	NOUN
+dhe	dhe	CCONJ
+ju	ju	PRON
+shtohen	shtohen	VERB
+reagjentë	reagjentë	NOUN
+të	të	DET
+RT	RT	PROPN
+për	për	ADP
+të	të	DET
+dhënë	dhënë	VERB
+një	një	NUM
+përqendrim	përqendrim	NOUN
+përfundimtar	përfundimtar	ADJ
+</s>
+<text id="232">
+<s id="0">
+1	1	NUM
+</s>
+<s id="1">
+X	x	SYM
+bufer	bufer	NOUN
+,	,	PUNCT
+1	1	NUM
+mM	mm	NOUN
+d	d	DET
+NTFs	NTFs	PROPN
+,	,	PUNCT
+100	100	NUM
+ng	nor	ADP
+hekzamerë	hekzamerë	ADJ
+të	të	DET
+rastësishëm	rastësishëm	ADJ
+,	,	PUNCT
+20	20	NUM
+URNaz	URNaz	PROPN
+inhibitor	inhibitor	NOUN
+dhe	dhe	CCONJ
+200	200	NUM
+UMMLV	UMMLV	PROPN
+-	-	PUNCT
+RT	RT	PROPN
+në	në	ADP
+një	një	NUM
+volum	volum	NOUN
+total	total	NOUN
+20	20	NUM
+μl	μl	NOUN
+.	.	PUNCT
+</s>
+<text id="233">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+c	c	DET
+)	)	PUNCT
+Tubat	tubat	NOUN
+ngrohen	ngroh	VERB
+në	në	ADP
+37	37	NUM
+oC	oc	SYM
+për	për	ADP
+1	1	NUM
+-	-	PUNCT
+orë	orë	NOUN
+.	.	PUNCT
+</s>
+<text id="234">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+d	d	DET
+)	)	PUNCT
+CADN	CADN	PROPN
+-	-	PUNCT
+ja	ja	PRON
+duhet	duhet	AUX
+të	të	DET
+ruhet	ruhet	VERB
+në	në	ADP
+0	0	NUM
+-	-	SYM
+6	6	NUM
+oC	oc	SYM
+dhe	dhe	CCONJ
+duhet	duhet	AUX
+të	të	DET
+përdoret	përdoret	VERB
+për	për	ADP
+PCR	PCR	PROPN
+-	-	PUNCT
+në	në	ADP
+sa	sa	ADV
+më	me	PART
+shpejt	shpejt	ADV
+të	të	DET
+jetë	jetë	VERB
+e	e	DET
+mundur	mundur	ADJ
+.	.	PUNCT
+</s>
+<text id="235">
+<s id="0">
+IV.1.3	iv.1.3	NUM
+</s>
+<s id="1">
+. PCR	. PCR	PROPN
+</s>
+<text id="236">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	DET
+)	)	PUNCT
+Shtohen	shtohen	VERB
+5	5	NUM
+μl	μl	NOUN
+cADN	cADN	PROPN
+në	në	ADP
+45	45	NUM
+μl	μl	NOUN
+miks	mik	NOUN
+PCR	PCR	PROPN
+-	-	PUNCT
+je	be	VERB
+për	për	ADP
+të	të	DET
+dhënë	dhënë	VERB
+një	një	NUM
+përqendrim	përqendrim	NOUN
+final	final	NOUN
+</s>
+<text id="237">
+<s id="0">
+1	1	NUM
+</s>
+<s id="1">
+X	x	SYM
+bufer	bufer	NOUN
+,	,	PUNCT
+0.2	0.2	NUM
+mM	mm	NOUN
+d	d	CCONJ
+NTFs	NTFs	PROPN
+,	,	SYM
+1.5	1.5	NUM
+mM	mm	NOUN
+Mg	Mg	PROPN
+Cl	Cl	PROPN
+2	2	NUM
+,	,	PUNCT
+25	25	NUM
+pmol	pmol	NOUN
+nga	non	ADP
+çdo	çdo	ADV
+primer	primer	NOUN
+dhe	dhe	CCONJ
+1	1	NUM
+Utaq	Utaq	PROPN
+polimeraz	polimeraz	NOUN
+.	.	PUNCT
+</s>
+<text id="238">
+<s id="0">
+Përfshihet	përfshihet	VERB
+</s>
+<s id="1">
+kontrolli	kontrolli	NOUN
+negativ	negativ	ADJ
+për	për	ADP
+nxjerrjen	nxjerrjen	NOUN
+dhe	dhe	CCONJ
+hapat	hapat	NOUN
+RT	RT	PROPN
+dhe	dhe	CCONJ
+PCR	PCR	PROPN
+.	.	PUNCT
+</s>
+<text id="239">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+b	b	ADJ
+)	)	PUNCT
+Tubat	tubat	NOUN
+duhet	duhet	VERB
+të	të	DET
+vendosen	vendose	VERB
+në	në	ADP
+termocikler	termocikler	NOUN
+programuar	programuar	VERB
+94	94	NUM
+oC	oc	SYM
+për	për	ADP
+5	5	NUM
+-	-	SYM
+minuta	minuta	NOUN
+dhe	dhe	CCONJ
+ndiqen	ndiqe	VERB
+35	35	NUM
+cikle	cikle	NOUN
+në	në	ADP
+94	94	NUM
+oC	oc	SYM
+për	për	ADP
+1	1	NUM
+minutë	minutë	NOUN
+,	,	PUNCT
+55	55	NUM
+oC	oc	SYM
+për	për	ADP
+1	1	NUM
+minutë	minutë	NOUN
+,	,	PUNCT
+72	72	NUM
+oC	oc	SYM
+për	për	ADP
+1	1	NUM
+minutë	minutë	NOUN
+me	I	ADP
+një	një	NUM
+ngrohje	ngrohje	NOUN
+finale	finale	ADJ
+në	në	ADP
+720	720	NUM
+C	C	PROPN
+për	për	ADP
+pesë	pesë	NUM
+minuta	minuta	NOUN
+.	.	PUNCT
+</s>
+<text id="240">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+c	c	DET
+)	)	PUNCT
+Rezultati	rezultati	NOUN
+i	i	DET
+PCR	PCR	PROPN
+duhet	duhet	AUX
+të	të	DET
+vërtetohet	vërtetohet	VERB
+me	I	ADP
+PCR	PCR	PROPN
+duke	duke	PART
+përdorur	përdorur	VERB
+2	2	NUM
+%	%	SYM
+agarozë	agarozë	ADJ
+xhel	xhel	ADJ
+elektroforezis	elektroforezis	NOUN
+ngjyrosur	ngjyrosur	ADJ
+me	I	ADP
+etidium	etidium	NOUN
+bromid	bromid	NOUN
+dhe	dhe	CCONJ
+duke	duke	PART
+përfshirë	përfshirë	ADJ
+shënues	shenues	ADJ
+për	për	ADP
+zgjatjen	zgjatjen	NOUN
+e	e	DET
+kampionit	kampionit	NOUN
+dhe	dhe	CCONJ
+kontrollit	kontrollit	NOUN
+negativ	negativ	ADJ
+nga	non	ADP
+RT	RT	PROPN
+dhe	dhe	CCONJ
+PCR	PCR	PROPN
+.	.	PUNCT
+</s>
+<text id="241">
+<s id="0">
+Hapat	hapat	NOUN
+</s>
+<s id="1">
+A	a	PRON
+.	.	PUNCT
+produkte	produkte	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+të	të	DET
+PCR	PCR	PROPN
+të	të	DET
+155	155	NUM
+bp	bp	NUM
+duhet	duhet	AUX
+të	të	DET
+konsiderohen	konsiderohen	VERB
+tregues	tregue	NOUN
+të	të	DET
+pranisë	pranisë	NOUN
+së	së	DET
+ISAV	ISAV	PROPN
+ARV	ARV	PROPN
+.	.	PUNCT
+</s>
+<text id="242">
+<s id="0">
+Kampionet	kampionet	NOUN
+</s>
+<s id="1">
+që	që	PRON
+përmbajnë	permbajn	VERB
+një	një	NUM
+produkt	produkt	NOUN
+shtesë	shtesë	NOUN
+,	,	PUNCT
+prej	prej	ADP
+310	310	NUM
+bp	bp	NOUN
+duhet	duhet	VERB
+gjithashtu	gjithashtu	CCONJ
+të	të	DET
+konsiderohen	konsiderohen	VERB
+se	se	CCONJ
+përmbajnë	permbajn	VERB
+ISAV	ISAV	PROPN
+ARN	ARN	PROPN
+.	.	PUNCT
+</s>
+<text id="243">
+<s id="0">
+Kampionet	kampionet	NOUN
+</s>
+<s id="1">
+që	që	PRON
+japin	japin	VERB
+produkte	produkte	NOUN
+të	të	DET
+shumëfishta	shumëfishta	ADJ
+të	të	DET
+PCR	PCR	PROPN
+,	,	PUNCT
+përfshirë	përfshirë	VERB
+të	të	DET
+paktën	paktën	ADJ
+një	një	NUM
+afërsisht	afërsisht	ADV
+155	155	NUM
+bp	bp	NOUN
+,	,	PUNCT
+mund	mund	VERB
+të	të	DET
+përmbajnë	permbajn	VERB
+ISAV	ISAV	PROPN
+ARN	ARN	PROPN
+.	.	PUNCT
+</s>
+<text id="244">
+<s id="0">
+Ata	ata	PRON
+</s>
+<s id="1">
+mund	mund	VERB
+të	të	DET
+kontrollohen	kontrollohen	VERB
+më	me	PART
+tej	they	PRON
+duke	duke	PART
+përdorur	përdorur	VERB
+renditje	renditje	NOUN
+nukleotidesh	nukleotidesh	NOUN
+ADN	ADN	PROPN
+.	.	PUNCT
+</s>
+<text id="245">
+<s id="0">
+IV.1.4	iv.1.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Vërtetimi	vërtetimi	NOUN
+me	I	NOUN
+PCR	PCR	PROPN
+i	i	DET
+izolatit	izolatit	NOUN
+të	të	DET
+ISAV	ISAV	PROPN
+nga	non	ADP
+kultura	kultura	NOUN
+indore	indore	NOUN
+</s>
+<text id="246">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+vihet	vihet	VERB
+re	be	ADJ
+ECP	ECP	PROPN
+e	e	DET
+plotë	plotë	ADJ
+gjatë	gjatë	ADJ
+ekzaminimit	ekzaminimit	NOUN
+virologjik	virologjik	ADJ
+të	të	DET
+kampioneve	kampioneve	NOUN
+të	të	DET
+indeve	indeve	NOUN
+në	në	ADP
+qelizat	qelizat	NOUN
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+,	,	PUNCT
+marrim	marrim	NOUN
+400	400	NUM
+μl	μl	NOUN
+supernatant	supernatant	NOUN
+nga	non	ADP
+puseta	puseta	NOUN
+dhe	dhe	CCONJ
+hidhet	hidhet	VERB
+në	në	ADP
+një	një	NUM
+tub	tub	NOUN
+steril	steril	ADJ
+1.5	1.5	NUM
+ml	ml	NOUN
+.	.	PUNCT
+</s>
+<text id="247">
+<s id="0">
+Nga	nga	ADP
+</s>
+<s id="1">
+këto	këto	PRON
+kampione	kampione	NOUN
+duhet	duhet	AUX
+të	të	DET
+nxjerrim	nxjer	VERB
+ARN	ARN	PROPN
+si	si	ADV
+në	në	ADP
+III.	III.	PROPN
+I	I	DET
+dhe	dhe	CCONJ
+duhet	duhet	AUX
+të	të	DET
+kryhet	kryhet	VERB
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+.	.	PUNCT
+</s>
+<text id="248">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+përdoren	pirdore	VERB
+kultura	kultura	NOUN
+pa	pa	ADP
+ECP	ECP	PROPN
+,	,	PUNCT
+hiqet	hiqet	VERB
+supernatanti	supernatanti	NOUN
+,	,	PUNCT
+qelizat	qelizat	NOUN
+shkëputen	shkppute	VERB
+nga	non	ADP
+sipërfaqja	sipërfaqja	NOUN
+e	e	DET
+pusetës	puset	NOUN
+dhe	dhe	CCONJ
+vendosen	vendose	VERB
+në	në	ADP
+tub	tub	NOUN
+stril	stril	NOUN
+1.5	1.5	NUM
+ml	ml	NOUN
+për	për	ADP
+nxjerrjen	nxjerrjen	NOUN
+e	e	DET
+ARN	ARN	PROPN
+dhe	dhe	CCONJ
+RT	RT	PROPN
+-	-	PUNCT
+PCR	PCR	PROPN
+.	.	PUNCT
+</s>
+<text id="249">
+<s id="0">
+IV.1.5	iv.1.5	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Vërtetimi	vërtetimi	NOUN
+i	i	DET
+segmenteve	segmenteve	NOUN
+të	të	DET
+AND	and	CCONJ
+nga	non	ADP
+produktet	produktet	NOUN
+e	e	DET
+PCR	PCR	PROPN
+</s>
+<text id="250">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	DET
+)	)	PUNCT
+Specifiteti	specifiteti	NOUN
+i	i	DET
+produktit	produktit	NOUN
+të	të	DET
+PCR	PCR	PROPN
+,	,	PUNCT
+155	155	NUM
+bp	bp	ADJ
+,	,	PUNCT
+mund	mund	VERB
+të	të	DET
+merret	merret	VERB
+nga	non	ADP
+shkëputja	shkëputja	NOUN
+e	e	DET
+oligonukleotideve	oligonukleotideve	NOUN
+që	që	SCONJ
+hibridizohen	hibridizohen	VERB
+në	në	ADP
+rajonet	rajonet	NOUN
+e	e	DET
+produktit	produktit	NOUN
+të	të	DET
+PCR	PCR	PROPN
+,	,	PUNCT
+në	në	ADP
+brendësi	brendësi	NOUN
+të	të	DET
+primerave	primerave	NOUN
+.	.	PUNCT
+</s>
+<text id="251">
+<s id="0">
+Produkti	produkti	NOUN
+</s>
+<s id="1">
+i	i	DET
+PCR	PCR	PROPN
+duhet	duhet	AUX
+ti	it	DET
+nënshtrohet	nënshtrohet	VERB
+elektroforezës	elektroforeze	NOUN
+në	në	ADP
+1	1	NUM
+%	%	SYM
+agarose	agarose	CCONJ
+gel	gel	NOUN
+në	në	ADP
+skajet	skajet	NOUN
+e	e	DET
+shënuesve	shënuesve	NOUN
+si	si	CCONJ
+dhe	dhe	CCONJ
+kontrollet	kontrollet	NOUN
+pozitive	pozitive	ADJ
+dhe	dhe	CCONJ
+negative	negative	ADJ
+.	.	PUNCT
+</s>
+<text id="252">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+b	b	DET
+)	)	PUNCT
+AND	and	CCONJ
+duhet	duhet	AUX
+ti	it	DET
+nënshtrohet	nënshtrohet	VERB
+Southern	Southern	PROPN
+blottit	blottit	NOUN
+nëpërmjet	nëpërmjet	ADP
+një	një	NUM
+membrane	membrane	NOUN
+dhe	dhe	CCONJ
+nukleotidi	nukleotidi	NOUN
+të	të	DET
+shënuar	shënuar	VERB
+(	(	PUNCT
+5	5	NUM
+'	'	NUM
+-	-	PUNCT
+CGGGAGTTGATCAGACATGCACTGAAGGTG	CGGGAGTTGATCAGACATGCACTGAAGGTG	PROPN
+-	-	PUNCT
+3	3	NUM
+'	'	PUNCT
+)	)	PUNCT
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+membrana	membrana	NOUN
+pas	pas	ADP
+disa	disa	PRON
+hapash	hapash	NOUN
+pre-hibridizimi	pre-hibridizimi	NOUN
+.	.	PUNCT
+</s>
+<text id="253">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+c	c	DET
+)	)	PUNCT
+Segmentet	segmentet	NOUN
+e	e	DET
+shënuara	shënuara	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+shënuara	shënuara	ADJ
+joplotësisht	joplotësisht	ADV
+shpëlahen	shpelahe	VERB
+nga	non	ADP
+membrana	membrana	NOUN
+dhe	dhe	CCONJ
+bëhet	bëhet	VERB
+vizualizimi	vizualizimi	NOUN
+i	i	DET
+segmenteve	segmenteve	NOUN
+te	the	DET
+shënuara	shënuara	ADJ
+.	.	PUNCT
+</s>
+<text id="254">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+d	d	DET
+)	)	PUNCT
+Segmentet	segmentet	NOUN
+e	e	DET
+lidhura	lidhura	ADJ
+në	në	ADP
+një	një	NUM
+fragment	fragment	NOUN
+155	155	NUM
+bp	bp	NUM
+(	(	PUNCT
+dhe	dhe	CCONJ
+310	310	NUM
+bp	bp	NUM
+nëse	nëse	CCONJ
+janë	janë	VERB
+të	të	DET
+pranishme	pranishme	ADJ
+)	)	PUNCT
+duhet	duhet	VERB
+të	të	DET
+dëshmojnë	dpshmoj	VERB
+për	për	ADP
+specifikimin	specifikimin	NOUN
+e	e	DET
+PCR	PCR	PROPN
+dhe	dhe	CCONJ
+tregojnë	tregojnë	VERB
+që	që	PRON
+ARN	ARN	PROPN
+e	e	DET
+ISAV	ISAV	PROPN
+ishte	ishte	VERB
+e	e	DET
+pranishme	pranishme	ADJ
+në	në	ADP
+kampione	kampione	NOUN
+.	.	PUNCT
+</s>
+<text id="255">
+<s id="0">
+IV.1.6	iv.1.6	NUM
+</s>
+<s id="1">
+Renditja	renditja	NOUN
+i	i	DET
+nukleotideve	nukleotideve	NOUN
+në	në	ADP
+produktet	produktet	NOUN
+e	e	DET
+PCR	PCR	PROPN
+</s>
+<text id="256">
+<s id="0">
+Specifikimi	specifikimi	NOUN
+</s>
+<s id="1">
+i	i	DET
+PCR	PCR	PROPN
+mundësohet	mundësohet	VERB
+nga	non	ADP
+ekzaminimi	ekzaminimi	NOUN
+i	i	DET
+renditjes	renditje	NOUN
+së	së	DET
+nukleotideve	nukleotideve	NOUN
+të	të	DET
+produktit	produktit	NOUN
+155	155	NUM
+bp	bp	NOUN
+të	të	DET
+PCR	PCR	PROPN
+.	.	PUNCT
+</s>
+<text id="257">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	DET
+)	)	PUNCT
+Produkti	produkti	NOUN
+i	i	DET
+PCR	PCR	PROPN
+duhet	duhet	AUX
+të	të	DET
+pastrohet	pastrohet	VERB
+nga	non	ADP
+agarozë	agarozë	NOUN
+xhel	xhel	NOUN
+ose	ose	CCONJ
+solucion	solucion	NOUN
+tjetër	tjetër	PRON
+.	.	PUNCT
+</s>
+<text id="258">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+b	b	ADJ
+)	)	PUNCT
+Fragmenti	fragmenti	NOUN
+duhet	duhet	VERB
+të	të	DET
+renditet	renditet	VERB
+duke	duke	PART
+përdorur	përdorur	VERB
+të	të	DET
+njëjtët	njëjtët	ADJ
+nxitës	nxity	NOUN
+që	që	PRON
+u	u	VERB
+përdorën	përdorën	VERB
+në	në	ADP
+PCR	PCR	PROPN
+,	,	PUNCT
+ose	ose	CCONJ
+nxitës	nxity	NOUN
+vektorë	vektorë	NOUN
+nëse	nëse	CCONJ
+janë	janë	VERB
+të	të	ADJ
+klonuar	klonuar	VERB
+para	para	ADP
+renditjes	renditje	NOUN
+.	.	PUNCT
+</s>
+<text id="259">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+c	c	DET
+)	)	PUNCT
+Sekuenca	sekuenca	NOUN
+e	e	DET
+nukleotideve	nukleotideve	NOUN
+duhet	duhet	VERB
+të	të	DET
+krahasohet	krahasohet	VERB
+më	me	PART
+ato	ato	PRON
+të	të	DET
+8	8	NUM
+segmenteve	segmenteve	NOUN
+të	të	DET
+ISAV	ISAV	PROPN
+të	të	DET
+pranishme	pranishme	ADJ
+në	në	ADP
+database	database	NOUN
+e	e	DET
+sekuencës	sekuence	NOUN
+së	së	DET
+nukleotideve	nukleotideve	NOUN
+EMBL	EMBL	PROPN
+(	(	PUNCT
+numrat	numrat	NOUN
+e	e	DET
+aksesit	aksesit	NOUN
+Y	Y	PROPN
+10404	10404	NUM
+,	,	PUNCT
+AJ012285	aj012285	NUM
+,	,	PUNCT
+AJ242016	aj242016	NUM
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="260">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+d	d	DET
+)	)	PUNCT
+Prania	prania	NOUN
+e	e	DET
+sekuencave	sekuencave	NOUN
+që	që	PRON
+korrespondojnë	korrespondojn	VERB
+me	I	ADP
+ato	ato	PRON
+të	të	DET
+segmenteve	segmenteve	NOUN
+të	të	DET
+ISAV	ISAV	PROPN
+është	është	VERB
+tregues	tregue	NOUN
+që	që	PRON
+kampioni	kampioni	NOUN
+përmban	përmban	VERB
+ARN	ARN	PROPN
+të	të	DET
+ISAV	ISAV	PROPN
+.	.	PUNCT
+</s>
+<text id="261">
+<s id="0">
+V	V	PROPN
+</s>
+<s id="1">
+.	.	PUNCT
+Ekzaminimi	ekzaminimi	NOUN
+i	i	DET
+prerjeve	prerjeve	NOUN
+nga	non	ADP
+veshkat	veshkat	NOUN
+me	I	ADP
+IFAT	IFAT	PROPN
+</s>
+<text id="262">
+<s id="0">
+V.2	v.2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Protokollet	protokollet	NOUN
+e	e	DET
+mëposhtme	mëposhtme	NOUN
+janë	janë	VERB
+përcaktuar	percaktuar	VERB
+për	për	ADP
+kontrollin	kontrollin	NOUN
+e	e	DET
+prerjeve	prerjeve	NOUN
+nga	non	ADP
+veshkat	veshkat	NOUN
+me	I	ADP
+IFAT	IFAT	PROPN
+</s>
+<text id="263">
+<s id="0">
+Përgatitja	përgatitja	NOUN
+</s>
+<s id="1">
+dhe	dhe	CCONJ
+ngjyrosja	ngjyrosja	NOUN
+e	e	DET
+prerjeve	prerjeve	NOUN
+</s>
+<text id="264">
+<s id="0">
+V.2.1	v.2.1	NUM
+</s>
+<text id="265">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+duhet	duhet	AUX
+të	të	DET
+fiksohen	fiksohen	VERB
+në	në	ADP
+Aceton	aceton	NOUN
+ose	ose	CCONJ
+metanol	metanol	NOUN
+/	/	PUNCT
+aceton	aceton	NOUN
+(	(	PUNCT
+1	1	NUM
+:1	:1	NUM
+)	)	PUNCT
+për	për	ADP
+tre	tre	NUM
+minuta	minuta	NOUN
+dhe	dhe	CCONJ
+thahen	thahen	VERB
+në	në	ADP
+ambient	ambient	NOUN
+.	.	PUNCT
+</s>
+<text id="266">
+<s id="0">
+Përpara	përpara	ADP
+</s>
+<s id="1">
+ngjyrosjes	ngjyrosj	NOUN
+prerja	prerja	NOUN
+rrethohet	rrethohet	VERB
+me	I	ADP
+laps	lap	NOUN
+ImmEdg	immedg	NOUN
+,	,	PUNCT
+që	që	PRON
+ndihmon	ndihmon	VERB
+në	në	ADP
+tharje	tharje	NOUN
+.	.	PUNCT
+</s>
+<text id="267">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+vendosen	vendose	VERB
+në	në	ADP
+solucion	solucion	NOUN
+bllokues	bllokue	NOUN
+(	(	PUNCT
+6	6	NUM
+%	%	SYM
+qumësht	qumësht	NOUN
+i	i	DET
+skremuar	skremuar	ADJ
+në	në	ADP
+PBS	PBS	PROPN
+që	që	PRON
+përmban	përmban	VERB
+0.2	0.2	NUM
+%	%	SYM
+Tween	Tween	PROPN
+20	20	NUM
+)	)	PUNCT
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+në	në	ADP
+agjitim	agjitim	NOUN
+të	të	DET
+lehtë	lehtë	ADJ
+për	për	ADP
+30	30	NUM
+minuta	minuta	NOUN
+në	në	ADP
+temperaturën	temperaturën	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+.	.	PUNCT
+</s>
+<text id="268">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+lamë	lamë	NOUN
+duhet	duhet	VERB
+të	të	DET
+thahet	thahet	VERB
+duke	duke	PART
+e	e	DET
+vendosur	vendosur	VERB
+horizontalisht	horizontalisht	ADV
+në	në	ADP
+një	një	NUM
+kuti	kuti	NOUN
+lamash	lamash	NOUN
+që	që	PRON
+përmban	përmban	VERB
+një	një	NUM
+letër	letër	NOUN
+të	të	DET
+lagur	lagur	ADJ
+për	për	ADP
+të	të	DET
+ruajtur	ruajtur	VERB
+lagështinë	lagështinë	NOUN
+.	.	PUNCT
+</s>
+<text id="269">
+<s id="0">
+V.	V.	PUNCT
+</s>
+<s id="1">
+2.2	2.2	NUM
+</s>
+<text id="270">
+<s id="0">
+Mbi	mbi	NOUN
+</s>
+<s id="1">
+prerje	prerje	NOUN
+hedhim	hedhim	NOUN
+solucion	solucion	NOUN
+Ab	ab	CCONJ
+monoklonal	monoklonal	ADJ
+3H6F8	3h6f8	NUM
+për	për	ADP
+ISAV	ISAV	PROPN
+(	(	PUNCT
+ose	ose	CCONJ
+Ab	ab	CCONJ
+të	të	DET
+tjerë	tjerë	PRON
+të	të	DET
+provuar	provuar	VERB
+për	për	ADJ
+specifikim	specifikim	NOUN
+dhe	dhe	CCONJ
+efikasitet	efikasitet	NOUN
+)	)	PUNCT
+,	,	PUNCT
+mbyllet	mbyllet	VERB
+kuti	kuti	NOUN
+a	a	NOUN
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+me	I	ADP
+agjitim	agjitim	NOUN
+për	për	ADP
+60	60	NUM
+minuta	minuta	NOUN
+në	në	ADP
+temperaturën	temperaturën	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+.	.	PUNCT
+</s>
+<text id="271">
+<s id="0">
+Ab	ab	VERB
+</s>
+<s id="1">
+duhet	duhet	VERB
+të	të	DET
+hollohen	holloh	VERB
+1:10	1:10	NUM
+-	-	SYM
+1:100	1:100	NUM
+qumësht	qumësht	ADJ
+të	të	DET
+skremuar	skremuar	ADJ
+,	,	PUNCT
+por	por	CCONJ
+duhet	duhet	VERB
+të	të	DET
+përcaktohet	përcaktohet	VERB
+hollimi	hollimi	ADJ
+aktual	aktual	ADJ
+që	që	PRON
+nevojitet	nevojitet	VERB
+për	për	ADP
+çdo	çdo	PRON
+ampulë	ampulë	NOUN
+.	.	PUNCT
+</s>
+<text id="272">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+shpëlahen	shpelahe	VERB
+3	3	NUM
+herë	herë	NOUN
+për	për	ADP
+2	2	NUM
+minuta	minuta	NOUN
+në	në	ADP
+PBS	PBS	PROPN
+që	që	PRON
+përmban	përmban	VERB
+0.1	0.1	NUM
+%	%	SYM
+Tween	Tween	PROPN
+20	20	NUM
+.	.	PUNCT
+</s>
+<text id="273">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+prerjeje	prerjeje	NOUN
+duhet	duhet	AUX
+ti	it	DET
+shtohet	shtohet	VERB
+një	një	NUM
+solucion	solucion	NOUN
+që	që	PRON
+përmban	përmban	VERB
+konjugat	konjugat	NOUN
+anti-mouse	anti-mouse	NOUN
+-	-	PUNCT
+FITC	FITC	PROPN
+,	,	PUNCT
+holluar	holluar	ADJ
+1:1000	1:1000	NUM
+në	në	ADP
+qumësht	qumësht	NOUN
+të	të	DET
+skremuar	skremuar	ADJ
+1	1	NUM
+%	%	SYM
+dhe	dhe	CCONJ
+ngrohet	ngrohet	VERB
+në	në	ADP
+një	një	NUM
+mjedis	mjedis	NOUN
+me	I	ADP
+lagështirë	lagështirë	ADJ
+për	për	ADP
+60	60	NUM
+minuta	minuta	NOUN
+në	në	ADP
+temperaturën	temperaturën	NOUN
+e	e	DET
+dhomës	dhomm	NOUN
+.	.	PUNCT
+</s>
+<text id="274">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+shpëlahen	shpelahe	VERB
+tre	tre	NUM
+herë	herë	NOUN
+për	për	ADP
+dy	dy	NUM
+minuta	minuta	NOUN
+në	në	ADP
+PBS	PBS	PROPN
+që	që	PRON
+përmban	përmban	VERB
+0.1	0.1	NUM
+%	%	SYM
+Tween	Tween	PROPN
+20	20	NUM
+.	.	PUNCT
+</s>
+<text id="275">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+lamë	lamë	NOUN
+duhet	duhet	AUX
+të	të	DET
+mbulohet	mbulohet	VERB
+me	I	ADP
+CITIFLUORTM	citifluortm	NOUN
+(	(	PUNCT
+500	500	NUM
+μl	μl	NOUN
+CITIFLUORTM	citifluortm	NOUN
+përzier	përzier	ADJ
+me	I	ADP
+1.5	1.5	NUM
+ml	ml	NOUN
+PBS	PBS	PROPN
+me	I	ADP
+Tween	Tween	PROPN
+20	20	NUM
+0.1	0.1	NUM
+%	%	SYM
+(	(	PUNCT
+v	v	DET
+/	/	SYM
+v	v	DET
+)	)	PUNCT
+ose	ose	CCONJ
+terren	terren	NOUN
+i	i	DET
+përshtatshëm	përshtatshëm	ADJ
+për	për	ADP
+10	10	NUM
+minuta	minuta	NOUN
+.	.	PUNCT
+</s>
+<text id="276">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+shpëlahen	shpelahe	VERB
+tre	tre	NUM
+herë	herë	NOUN
+me	I	ADP
+PBS	PBS	PROPN
+që	që	PRON
+përmban	përmban	VERB
+0.1	0.1	NUM
+%	%	SYM
+Tween	Tween	PROPN
+20	20	NUM
+.	.	PUNCT
+</s>
+<text id="277">
+<s id="0">
+Më	më	PART
+</s>
+<s id="1">
+pas	pas	ADV
+thahet	thahet	VERB
+solucioni	solucioni	NOUN
+i	i	DET
+hedhur	hedhur	VERB
+.	.	PUNCT
+</s>
+<text id="278">
+<s id="0">
+Lamat	lamat	NOUN
+</s>
+<s id="1">
+ruhen	ruhen	VERB
+në	në	ADP
+errësirë	errësirë	NOUN
+në	në	ADP
+40	40	NUM
+C	C	PROPN
+para	para	ADP
+ekzaminimit	ekzaminimit	NOUN
+mikroskopik	mikroskopik	NOUN
+.	.	PUNCT
+</s>
+<text id="279">
+<s id="0">
+V.	V.	PROPN
+</s>
+<s id="1">
+3	3	NUM
+.	.	PUNCT
+Kontrolli	kontrolli	NOUN
+me	I	ADP
+mikroskop	mikroskop	NOUN
+me	I	NOUN
+fluoreshencë	fluoreshencë	NOUN
+</s>
+<text id="280">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+lamë	lamë	NOUN
+kontrollohet	kontrollohet	VERB
+në	në	ADP
+mikroskop	mikroskop	NOUN
+me	I	ADJ
+fluoreshencë	fluoreshencë	NOUN
+,	,	PUNCT
+duke	duke	PART
+përdorur	përdorur	VERB
+një	një	NUM
+filtër	filtër	NOUN
+që	që	PRON
+do	do	PART
+të	të	DET
+nxitë	nxitë	VERB
+FITC	FITC	PROPN
+,	,	PUNCT
+duke	duke	PART
+e	e	DET
+bërë	bërë	VERB
+atë	atë	PRON
+të	të	DET
+rrezatojë	rrezatojë	VERB
+emetojë	emetojë	VERB
+karakteristikën	karakteristikën	NOUN
+fluoreshente	fluoreshente	NOUN
+të	të	DET
+gjelbër	gjelbër	ADJ
+.	.	PUNCT
+</s>
+<text id="281">
+<s id="0">
+Duhet	duhet	VERB
+</s>
+<s id="1">
+të	të	DET
+kontrollohet	kontrollohet	VERB
+e	e	DET
+gjithë	gjithë	PRON
+fusha	fusha	NOUN
+e	e	DET
+ngjyrosur	ngjyrosur	ADJ
+me	I	ADJ
+objektivat	objektivat	NOUN
+10	10	NUM
+x	x	SYM
+dhe	dhe	CCONJ
+20	20	NUM
+x	x	CCONJ
+,	,	PUNCT
+dhe	dhe	CCONJ
+zonat	zonat	NOUN
+e	e	DET
+dyshimta	dyshimta	ADJ
+(	(	PUNCT
+ato	ato	PRON
+që	që	PRON
+shfaqin	shfaqin	VERB
+fluoreshencë	fluoreshencë	NOUN
+)	)	PUNCT
+duhet	duhet	VERB
+të	të	DET
+kontrollohet	kontrollohet	VERB
+me	I	ADP
+objektivin	objektivin	NOUN
+40	40	NUM
+X	x	SYM
+me	I	ADP
+imersion	imersion	NOUN
+,	,	PUNCT
+për	për	ADP
+të	të	DET
+siguruar	siguruar	VERB
+që	që	SCONJ
+fluoreshenca	fluoreshenca	NOUN
+është	është	VERB
+e	e	DET
+lidhur	lidhur	ADJ
+me	I	ADP
+qelizat	qelizat	NOUN
+.	.	PUNCT
+</s>
+<text id="282">
+<s id="0">
+Zonat	Zonat	NOUN
+</s>
+<s id="1">
+e	e	DET
+dyshuara	dyshuara	ADJ
+duhet	duhet	VERB
+të	të	DET
+regjistrohen	regjistrohen	VERB
+për	për	ADP
+një	një	NUM
+kontroll	kontroll	NOUN
+të	të	DET
+dytë	dytë	NUM
+të	të	DET
+mëtejshëm	mëtejshëm	ADJ
+.	.	PUNCT
+</s>
+<text id="283">
+<s id="0">
+Pas	pas	ADP
+</s>
+<s id="1">
+kontrollit	kontrollit	NOUN
+të	të	DET
+parë	parë	ADJ
+të	të	DET
+lamës	lame	NOUN
+që	që	PRON
+del	del	VERB
+pozitive	pozitive	ADJ
+ose	ose	CCONJ
+e	e	DET
+dyshimtë	dyshimtë	ADJ
+,	,	PUNCT
+duhet	duhet	VERB
+të	të	DET
+bëhet	bëhet	VERB
+një	një	NUM
+kontroll	kontroll	NOUN
+i	i	DET
+dytë	dytë	NUM
+për	për	ADP
+të	të	DET
+vërtetuar	vërtetuar	VERB
+rezultatin	rezultatin	NOUN
+.	.	PUNCT
+</s>
+<text id="284">
+<s id="0">
+V.4	v.4	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kontrollet	kontrollet	NOUN
+</s>
+<text id="285">
+<s id="0">
+V.4.1	v.4.1	NUM
+</s>
+<s id="1">
+Në	në	ADP
+lamat	lamat	NOUN
+e	e	DET
+ngjyrosura	ngjyrosura	ADJ
+me	I	ADJ
+IFAT	IFAT	PROPN
+duhet	duhet	VERB
+të	të	DET
+përfshihen	perfshihen	VERB
+tre	tre	NUM
+tipat	tipat	NOUN
+e	e	DET
+kontrollit	kontrollit	NOUN
+.	.	PUNCT
+</s>
+<text id="286">
+<s id="0">
+-	-	PUNCT
+</s>
+<s id="1">
+prerje	prerje	NOUN
+veshkash	veshkash	NOUN
+nga	nga	ADJ
+salmoni atlantik	salmoni atlantik	ADJ
+i	i	DET
+painfektuar	painfektuar	ADJ
+(	(	PUNCT
+kontroll	kontroll	ADJ
+negativ	negativ	ADJ
+)	)	PUNCT
+,	,	PUNCT
+-	-	PUNCT
+kulturë	kulturë	ADJ
+qelizore	qelizore	ADJ
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+e	e	DET
+painfektuar	painfektuar	ADJ
+,	,	PUNCT
+ose	ose	CCONJ
+një	një	NUM
+kulturë	kulturë	NOUN
+tjetër	tjetër	PRON
+qelizore	qelizore	ADJ
+e	e	DET
+ndjeshme	ndjeshme	ADJ
+(	(	PUNCT
+kontroll	kontroll	ADJ
+negativ	negativ	ADJ
+)	)	PUNCT
+,	,	PUNCT
+-	-	PUNCT
+kulturë	kulturë	ADJ
+qelizore	qelizore	ADJ
+SHK	SHK	PROPN
+-	-	PUNCT
+1	1	NUM
+e	e	DET
+infektuar	infektuar	ADJ
+me	I	ADJ
+ISAV	ISAV	PROPN
+,	,	PUNCT
+ose	ose	CCONJ
+kulturë	kulturë	NOUN
+tjetër	tjetër	PRON
+e	e	DET
+ndjeshme	ndjeshme	ADJ
+(	(	PUNCT
+kontroll	kontroll	NOUN
+pozitiv	pozitiv	ADJ
+)	)	PUNCT
+.	.	PUNCT
+</s>
+<text id="287">
+<s id="0">
+V.4.2	V.4.2	PROPN
+</s>
+<s id="1">
+Nëse	nëse	CCONJ
+është	është	VERB
+e	e	DET
+mundur	mundur	ADJ
+,	,	PUNCT
+këshillohet	këshillohet	VERB
+të	të	DET
+përdoren	pirdore	VERB
+prerje	prerje	NOUN
+veshkash	veshkash	NOUN
+nga	nga	ADJ
+salmoni atlantik	salmoni atlantik	ADJ
+i	i	DET
+infektuar	infektuar	ADJ
+me	I	ADJ
+ISAV	ISAV	PROPN
+,	,	PUNCT
+si	si	ADV
+kontroll	kontroll	NOUN
+pozitiv	pozitiv	ADJ
+.	.	PUNCT
+</s>
+<text id="288">
+<s id="0">
+V.4.3	v.4.3	NUM
+</s>
+<s id="1">
+Nëse	nëse	CCONJ
+merret	merret	VERB
+rezultat	rezultat	NOUN
+pozitiv	pozitiv	ADJ
+nga	non	ADP
+secili	secili	PRON
+prej	prej	ADP
+kontrolleve	kontrolleve	NOUN
+negative	negative	ADJ
+,	,	PUNCT
+atëherë	atëherë	ADV
+testi	testi	NOUN
+për	për	ADP
+të	të	DET
+gjitha	gjitha	PRON
+lamat	lamat	NOUN
+konsiderohet	konsiderohet	VERB
+i	i	DET
+pavlefshëm	pavlefshëm	ADJ
+.	.	PUNCT
+</s>
+<text id="289">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+të	të	DET
+gjitha	gjitha	PRON
+lamat	lamat	NOUN
+rezultojnë	rezultojnë	VERB
+negative	negative	ADJ
+,	,	PUNCT
+përfshi	perfshi	VERB
+edhe	edhe	CCONJ
+kontrollin	kontrollin	NOUN
+pozitiv	pozitiv	ADJ
+,	,	PUNCT
+testi	testi	NOUN
+konsiderohet	konsiderohet	VERB
+i	i	DET
+pavlefshëm	pavlefshëm	ADJ
+.	.	PUNCT
+</s>
+<text id="290">
+<s id="0">
+Në	në	ADP
+</s>
+<s id="1">
+rast	rast	NOUN
+pavlefshmërie	pavlefshmërie	NOUN
+shkatërrohen	shkaterrohen	VERB
+lamat	lamat	NOUN
+dhe	dhe	CCONJ
+përsëritet	përsëritet	VERB
+testi	testi	NOUN
+duke	duke	PART
+përdorur	përdorur	VERB
+kopje	kopje	NOUN
+kampionesh	kampionesh	NOUN
+.	.	PUNCT
+</s>
+<text id="291">
+<s id="0">
+V.	V.	PROPN
+</s>
+<s id="1">
+5	5	NUM
+.	.	PUNCT
+Ekzaminimi	ekzaminimi	NOUN
+i	i	DET
+indeve	indeve	NOUN
+të	të	DET
+tjera	tjera	PRON
+</s>
+<text id="292">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+teknikë	teknikë	NOUN
+mund	mund	VERB
+të	të	DET
+zbatohen	zbatohen	VERB
+për	për	ADP
+inde	inde	NOUN
+të	të	DET
+tjera	tjera	PRON
+të	të	DET
+peshkut	peshkut	NOUN
+si	si	ADV
+:	:	PUNCT
+mëlçia	mëlçia	NOUN
+,	,	PUNCT
+shpretka	shpretka	NOUN
+dhe	dhe	CCONJ
+zemra	zemra	NOUN
+,	,	PUNCT
+që	që	PRON
+japin	japin	VERB
+një	një	NUM
+sasi	sasi	NOUN
+të	të	DET
+konsiderueshme	konsiderueshme	ADJ
+qelizash	qelizash	NOUN
+endoteliale	endoteliale	NOUN
+,	,	NOUN
+leukocitesh	leukocitesh	NOUN
+ose	ose	CCONJ
+limfocitesh	limfocitesh	NOUN
+që	që	PRON
+mund	mund	VERB
+të	të	DET
+depozitohen	depozito	VERB
+në	në	ADP
+lamë	lamë	NOUN
+.	.	PUNCT
+</s>
+<text id="293">
+<s id="0">
+Procedura	procedura	NOUN
+</s>
+<s id="1">
+e	e	DET
+ngjyrosjes	ngjyrosj	NOUN
+është	është	VERB
+e	e	DET
+njëjta	njëjta	ADJ
+si	si	ADV
+për	për	ADP
+indet	indet	NOUN
+,	,	PUNCT
+megjithëse	megjithëse	CCONJ
+për	për	ADP
+disa	disa	PRON
+inde	inde	NOUN
+përdoren	pirdore	VERB
+substanca	substanca	NOUN
+të	të	DET
+veçanta	veçanta	ADJ
+si	si	ADV
+propidium	propidium	NOUN
+jodide	jodide	NOUN
+për	për	ADP
+ngjyrosjen	ngjyrosjen	NOUN
+e	e	DET
+qelizave	qelizave	NOUN
+në	në	ADP
+prerje	prerje	NOUN
+.	.	PUNCT
+</s>
+<text id="294">
+<s id="0">
+VI	VI	ADJ
+</s>
+<s id="1">
+.	.	PUNCT
+Histologjia	histologjia	NOUN
+</s>
+<text id="295">
+<s id="0">
+Seksionet	seksionet	NOUN
+</s>
+<s id="1">
+në	në	ADP
+parafinë	parafinë	NOUN
+priten	prite	VERB
+në	në	ADP
+madhësi	madhësi	NOUN
+5	5	NUM
+μm	μm	NOUN
+dhe	dhe	CCONJ
+ngjyrosen	ngjyrose	VERB
+duke	duke	PART
+përdorur	përdorur	VERB
+hematoksilinë	hematoksilinë	NOUN
+dhe	dhe	CCONJ
+eosinë	eosinë	NOUN
+.	.	PUNCT
+</s>
+<text id="296">
+<s id="0">
+Ndryshimet	ndryshimet	NOUN
+</s>
+<s id="1">
+histologjike	histologjike	NOUN
+të	të	DET
+lidhur	lidhur	VERB
+a	a	PRON
+me	I	ADP
+ISA	isa	PUNCT
+-n	-n	PROPN
+përshkruhen	pershkruhen	VERB
+në	në	ADP
+botimin	botimin	NOUN
+më	më	PRON
+të	të	DET
+fundit	fundit	ADJ
+të	të	DET
+Manualit	manualit	NOUN
+diagnostik	diagnostik	NOUN
+të	të	DET
+sëmundjeve	sëmundjeve	NOUN
+të	të	DET
+kafshëve	kafshive	NOUN
+ujore	ujore	ADJ
+.	.	PUNCT
+</s>

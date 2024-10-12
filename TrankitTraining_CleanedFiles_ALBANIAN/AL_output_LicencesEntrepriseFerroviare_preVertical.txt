@@ -1,0 +1,1568 @@
+<text id="1">
+<s id="0">
+Direktiva	direktiva	NOUN
+</s>
+<s id="1">
+2001/13/KE	2001/13/ke	NUM
+e	e	DET
+Parlamentit	parlamentit	NOUN
+Europian	Europian	PROPN
+dhe	dhe	CCONJ
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+e	e	DET
+26	26	NUM
+shkurtit	shkurtit	NOUN
+2001	2001	NUM
+që	që	PRON
+ndryshon	ndryshon	VERB
+Direktivën	direktivën	NOUN
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+95/18/KE	95/18/ke	NUM
+për	për	ADP
+licencimin	licencimin	NOUN
+e	e	DET
+ndërmarrjeve	ndërmarrjeve	NOUN
+hekurudhore	hekurudhore	ADJ
+</s>
+<text id="2">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+Traktatin	traktatin	NOUN
+Themelues	themelue	NOUN
+të	të	DET
+Komunitetit	Komunitetit	PROPN
+Europian	Europian	PROPN
+dhe	dhe	CCONJ
+në	në	ADP
+veçanti	veçanti	ADV
+nenin	nenin	VERB
+71	71	NUM
+të	të	DET
+tij	thij	PRON
+,	,	PUNCT
+</s>
+<text id="3">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+propozimin	propozimin	NOUN
+e	e	DET
+Komisioni	komisioni	NOUN
+t	t	DET
+(	(	PUNCT
+1	1	NUM
+)	)	PUNCT
+,	,	PUNCT
+Duke	Duke	PART
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+mendimin	mendimin	NOUN
+e	e	DET
+Komitetit	Komitetit	PROPN
+Ekonomik	Ekonomik	PROPN
+dhe	dhe	CCONJ
+Social	social	ADJ
+(	(	PUNCT
+2	2	NUM
+)	)	PUNCT
+Duke	Duke	ADP
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+mendimin	mendimin	NOUN
+e	e	DET
+Komitetit	Komitetit	PROPN
+të	të	DET
+Rajoneve	Rajoneve	PROPN
+(	(	PUNCT
+3	3	NUM
+)	)	PUNCT
+,	,	PUNCT
+Duke	Duke	PART
+vepruar	vepruar	VERB
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+procedurën	procedurën	NOUN
+e	e	DET
+përcaktuar	percaktuar	VERB
+në	në	ADP
+nenin	nenin	NOUN
+251	251	NUM
+të	të	DET
+Traktatit	traktatit	NOUN
+(	(	PUNCT
+4	4	NUM
+)	)	PUNCT
+,	,	PUNCT
+duke	duke	PART
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+tekstin	tekstin	NOUN
+e	e	DET
+përbashkët	përbashkët	ADJ
+të	të	DET
+miratuar	miratuar	ADJ
+më	me	PART
+22	22	NUM
+nëntor	nëntor	NOUN
+2000	2000	NUM
+nga	non	ADP
+Komiteti	komiteti	NOUN
+i	i	DET
+Pajtimit	pajtimit	NOUN
+,	,	PUNCT
+</s>
+<text id="4">
+<s id="0">
+Duke	Duke	PART
+</s>
+<s id="1">
+pasur	pasur	VERB
+parasysh	parasysh	ADV
+që	që	SCONJ
+:	:	PUNCT
+(	(	PUNCT
+1	1	NUM
+)	)	PUNCT
+Direktiva	direktiva	NOUN
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+91/440/KEE	91/440/kee	NUM
+e	e	DET
+29	29	NUM
+korrikut	korrikut	NOUN
+1991	1991	NUM
+për	për	ADP
+zhvillimin	zhvillimin	NOUN
+e	e	DET
+hekurudhave	hekurudhave	NOUN
+të	të	DET
+Komunitetit	komunitetit	NOUN
+(	(	PUNCT
+5	5	NUM
+)	)	PUNCT
+parashikon	parashikon	VERB
+disa	disa	PRON
+të drejta	të drejta	NOUN
+përdorimi	përdorimi	NOUN
+të	të	DET
+transportit	transportit	NOUN
+ndërkombëtar	ndërkombëtar	ADJ
+hekurudhor	hekurudhor	ADJ
+për	për	ADP
+ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+dhe	dhe	CCONJ
+grupimet	grupimet	NOUN
+ndërkombëtare	ndërkombëtare	ADJ
+,	,	PUNCT
+ose	ose	CCONJ
+ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+.	.	PUNCT
+</s>
+<text id="5">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+2	2	NUM
+)	)	PUNCT
+Me	I	ADP
+qëllim	qëllim	NOUN
+sigurimin	sigurimin	NOUN
+e	e	DET
+shërbimeve	shërbimeve	NOUN
+të	të	DET
+besueshme	besueshme	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+mjaftueshme	mjaftueshme	ADJ
+,	,	PUNCT
+nevojitet	nevojitet	VERB
+një	një	NUM
+skemë	skemë	NOUN
+e	e	DET
+përbashkët	përbashkët	ADJ
+licencimi	licencimi	NOUN
+për	për	ADP
+të	të	DET
+siguruar	siguruar	VERB
+,	,	PUNCT
+që	që	PRON
+të	të	DET
+gjitha	gjitha	PRON
+ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+të	të	DET
+plotësojnë	plotësojnë	VERB
+në	në	ADP
+çdo	çdo	ADV
+kohë	kohë	NOUN
+disa	disa	PRON
+kërkesa	kërkesa	NOUN
+në	në	ADP
+lidhje	lidhje	NOUN
+me	I	ADP
+emrin	emrin	NOUN
+e	e	DET
+mirë	mirë	ADJ
+,	,	PUNCT
+besueshmërinë	besueshmërinë	NOUN
+financiare	financiare	ADJ
+,	,	PUNCT
+aftësinë	aftësinë	NOUN
+profesionale	profesionale	ADJ
+,	,	PUNCT
+me	I	ADP
+qëllim	qëllim	NOUN
+mbrojtjen	mbrojtjen	NOUN
+e	e	DET
+klientëve	klientëve	NOUN
+dhe	dhe	CCONJ
+palëve	palëve	NOUN
+të	të	DET
+treta	treta	ADJ
+,	,	PUNCT
+dhe	dhe	CCONJ
+ofrimin	ofrimin	NOUN
+e	e	DET
+shërbimeve	shërbimeve	NOUN
+që	që	PRON
+përmbushin	përmbushin	VERB
+një	një	NUM
+standard	standard	NOUN
+të	të	DET
+lartë	lartë	ADJ
+sigurie	sigurie	NOUN
+;	;	PUNCT
+(	(	PUNCT
+3	3	NUM
+)	)	PUNCT
+Me	I	ADP
+qëllim	qëllim	NOUN
+që	që	SCONJ
+të	të	DET
+drejtat	drejtat	NOUN
+e	e	DET
+përdorimit	përdorimit	NOUN
+të	të	DET
+infrastrukturës	infrastruktur	NOUN
+hekurudhore	hekurudhore	ADJ
+të	të	DET
+zbatohen	zbatohen	VERB
+në	në	ADP
+të	të	DET
+gjithë	gjithë	PRON
+Komunitetin	komunitetin	NOUN
+,	,	PUNCT
+në	në	ADP
+mënyrë	mënyrë	NOUN
+të	të	DET
+njëjtë	njëjtë	ADJ
+dhe	dhe	CCONJ
+jo	jo	PART
+diskriminuese	diskriminuese	ADJ
+,	,	PUNCT
+Direktiva	direktiva	NOUN
+e	e	DET
+Këshilli	Këshilli	PROPN
+t	t	DET
+95/18/KE	95/18/ke	NUM
+(	(	PUNCT
+6	6	NUM
+)	)	PUNCT
+u	u	PART
+kërkon	kërkon	VERB
+ndërmarrjeve	ndërmarrjeve	NOUN
+hekurudhore	hekurudhore	ADJ
+që	që	PRON
+ofrojnë	ofrojn	VERB
+shërbimet	shërbimet	NOUN
+e	e	DET
+përmendura	përmendura	ADJ
+në	në	ADP
+nenin	nenin	NOUN
+10	10	NUM
+të	të	DET
+Direktivës	Direktivës	PROPN
+91/440/KEE	91/440/kee	NUM
+pajisjen	pajisjen	NOUN
+me	I	ADP
+licencë	licencë	NOUN
+,	,	PUNCT
+e	e	DET
+cila	cila	PRON
+është	është	VERB
+e	e	DET
+detyrueshme	detyrueshme	ADJ
+për	për	ADP
+kryerjen	kryerjen	NOUN
+e	e	DET
+këtyre	këtyre	PRON
+shërbimeve	shërbimeve	NOUN
+dhe	dhe	CCONJ
+e	e	DET
+vlefshme	vlefshme	ADJ
+në	në	ADP
+të	të	DET
+gjithë	gjithë	PRON
+Komunitetin	komunitetin	NOUN
+.	.	PUNCT
+</s>
+<text id="6">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+4	4	NUM
+)	)	PUNCT
+Meqë	meqë	SCONJ
+disa	disa	PRON
+Shtete	shtete	NOUN
+Anëtare	anëtare	NOUN
+kanë	kanë	VERB
+njohur	njohur	ADJ
+të	të	DET
+drejta	drejta	NOUN
+përdorimi	përdorimi	NOUN
+që	që	PRON
+tejkalojnë	tejkalojnë	VERB
+dispozitat	dispozitat	NOUN
+e	e	DET
+Direktivës	Direktivës	PROPN
+91/440/KEE	91/440/kee	NUM
+,	,	PUNCT
+lind	lind	VERB
+nevoja	nevoja	NOUN
+e	e	DET
+sigurimit	sigurimit	NOUN
+të	të	DET
+një	një	NUM
+trajtimi	trajtimi	NOUN
+të	të	DET
+drejtë	drejtë	ADJ
+,	,	PUNCT
+transparent	transparent	ADJ
+dhe	dhe	CCONJ
+jodiskriminues	jodiskriminues	ADJ
+të	të	DET
+të	të	DET
+gjitha	gjitha	PRON
+ndërmarrjeve	ndërmarrjeve	NOUN
+hekurudhore	hekurudhore	ADJ
+që	që	PRON
+ushtrojnë	ushtrojnë	VERB
+aktivitetin	aktivitetin	NOUN
+në	në	ADP
+këtë	këtë	PRON
+treg	treg	NOUN
+,	,	PUNCT
+duke	duke	PART
+shprehur	shprehur	VERB
+parimet	parimet	NOUN
+e	e	DET
+licencimit	licencimit	NOUN
+të	të	DET
+përcaktuara	përcaktuara	ADJ
+nga	nga	ADJ
+Direktiva	Direktiva	PROPN
+95/18	95/18	NUM
+(	(	DET
+KE	KE	PROPN
+)	)	PUNCT
+,	,	PUNCT
+për	për	ADP
+të	të	DET
+gjitha	gjitha	PRON
+kompanitë	kompanitë	NOUN
+që	që	PRON
+veprojnë	veprojnë	VERB
+në	në	ADP
+sektor	sektor	NOUN
+.	.	PUNCT
+</s>
+<text id="7">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+5	5	NUM
+)	)	PUNCT
+Me	I	ADP
+qëllim	qëllim	NOUN
+përmbushjen	pprmbushjen	NOUN
+më	me	PART
+mirë	mirë	ADJ
+të	të	DET
+detyrimit	detyrimit	NOUN
+për	për	ADP
+informim	informim	NOUN
+,	,	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	anëtare	NOUN
+dhe	dhe	CCONJ
+Komisioni	Komisioni	PROPN
+duhet	duhet	AUX
+të	të	DET
+sigurojnë	sigurojnë	VERB
+informacion	informacion	NOUN
+më	me	PART
+të	të	DET
+mirë	mirë	ADJ
+për	për	ADP
+të	të	DET
+gjitha	gjitha	PRON
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+dhe	dhe	CCONJ
+Komisionin	Komisionin	PROPN
+.	.	PUNCT
+</s>
+<text id="8">
+<s id="0">
+Sipas	sipas	ADP
+</s>
+<s id="1">
+praktikës	praktik'	NOUN
+së	së	DET
+përbashkët	përbashkët	ADJ
+dhe	dhe	CCONJ
+interpretimit	interpretimit	NOUN
+logjik	logjik	ADJ
+të	të	DET
+Direktivës	Direktivës	PROPN
+95/18/KE	95/18/KE	PROPN
+,	,	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	Anëtare	PROPN
+dhe	dhe	CCONJ
+Komisioni	Komisioni	PROPN
+duhet	duhet	AUX
+të	të	DET
+japin	japin	VERB
+informacion	informacion	NOUN
+edhe	edhe	CCONJ
+për	për	ADP
+licencat	licencat	NOUN
+e	e	DET
+dhëna	dhëna	ADJ
+.	.	PUNCT
+</s>
+<text id="9">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+6	6	NUM
+)	)	PUNCT
+Është	Është	VERB
+e	e	DET
+përshtatshme	përshtatshme	ADJ
+të	të	DET
+garantohet	garantohet	VERB
+që	që	SCONJ
+ndërmarrjet	ndërmarrjet	NOUN
+e	e	DET
+licencuara	licencuara	ADJ
+hekurudhore	hekurudhore	ADJ
+,	,	ADJ
+të	të	DET
+cilat	cilat	PRON
+kryejnë	kryejnë	VERB
+transport	transport	NOUN
+ndërkombëtar	ndërkombëtar	ADJ
+mallrash	mallrash	NOUN
+,	,	PUNCT
+të	të	DET
+respektojnë	respektojn	VERB
+dispozitat	dispozitat	NOUN
+përkatëse	përkatëse	ADJ
+tatimore	tatimore	ADJ
+dhe	dhe	CCONJ
+doganore	doganore	ADJ
+të	të	DET
+zbatueshme	zbatueshme	ADJ
+,	,	PUNCT
+veçanërisht	veçanërisht	ADV
+në	në	ADP
+lidhje	lidhje	NOUN
+me	I	ADP
+tranzitin	tranzitin	NOUN
+doganor	doganor	ADJ
+.	.	PUNCT
+</s>
+<text id="10">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+7	7	NUM
+)	)	PUNCT
+Në	në	ADP
+pajtim	pajtim	NOUN
+me	I	ADP
+parimet	parimet	NOUN
+e	e	DET
+subsidiaritetit	subsidiaritetit	NOUN
+dhe	dhe	CCONJ
+proporcionalitetit	proporcionalitetit	NOUN
+të	të	DET
+përcaktuara	përcaktuara	ADJ
+në	në	ADP
+nenin	nenin	NOUN
+5	5	NUM
+të	të	DET
+Traktatit	traktatit	NOUN
+,	,	PUNCT
+objektivat	objektivat	NOUN
+e	e	DET
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+,	,	PUNCT
+përkatësisht	përkatësisht	ADV
+përcaktimi	përcaktimi	NOUN
+i	i	DET
+parimeve	parimeve	NOUN
+të	të	DET
+përgjithshme	përgjithshme	ADJ
+për	për	ADP
+licencimin	licencimin	NOUN
+e	e	DET
+ndërmarrjeve	ndërmarrjeve	NOUN
+hekurudhore	hekurudhore	ADJ
+dhe	dhe	CCONJ
+njohja	njohja	NOUN
+e	e	DET
+ndërsjellë	ndërsjellë	ADJ
+e	e	DET
+këtyre	këtyre	PRON
+licencave	licencave	NOUN
+në	në	ADP
+të	të	DET
+gjithë	gjithë	PRON
+Komunitetin	komunitetin	NOUN
+,	,	PUNCT
+nuk	nuk	PART
+mund	mund	VERB
+të	të	DET
+arrihen	arrihen	VERB
+në	në	ADP
+nivel	nivel	NOUN
+të	të	DET
+kënaqshëm	kënaqshëm	ADJ
+nga	non	ADP
+Shtetet	shtetet	NOUN
+Anëtare	anëtare	NOUN
+,	,	PUNCT
+për	për	ADP
+shkak	shkak	ADV
+të	të	DET
+dimensionit	dimensionit	NOUN
+të	të	DET
+dukshëm	dukshëm	ADJ
+ndërkombëtar	ndërkombëtar	ADJ
+të	të	DET
+dhënies	dhiny	NOUN
+të	të	DET
+këtyre	këtyre	PRON
+licencave	licencave	NOUN
+,	,	PUNCT
+dhe	dhe	CCONJ
+për	për	ADP
+arsye	arsye	ADV
+të	të	DET
+natyrës	natyr	NOUN
+së	së	DET
+tyre	tyre	PRON
+ndërshtetërore	ndërshtetërore	ADJ
+,	,	PUNCT
+mund	mund	AUX
+të	të	DET
+arrihen	arrihen	VERB
+më	me	PART
+mirë	mirë	ADV
+nga	non	ADP
+Komuniteti	komuniteti	NOUN
+.	.	PUNCT
+</s>
+<text id="11">
+<s id="0">
+Kjo	kjo	PRON
+</s>
+<s id="1">
+direktivë	direktivë	NOUN
+nuk	nuk	PART
+tejkalon	tejkalon	VERB
+atë	atë	PRON
+që	që	PRON
+nevojitet	nevojitet	VERB
+për	për	VERB
+arritjen	arritjen	NOUN
+e	e	DET
+këtyre	këtyre	PRON
+objektivave	objektivave	NOUN
+.	.	PUNCT
+</s>
+<text id="12">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+8	8	NUM
+)	)	PUNCT
+Për	për	ADP
+rrjedhojë	rrjedhojë	ADV
+,	,	PUNCT
+Direktiva	Direktiva	PROPN
+95/18/	95/18/	PROPN
+KE	KE	PROPN
+duhet	duhet	VERB
+të	të	DET
+ndryshojë	ndryshojë	VERB
+</s>
+<text id="13">
+<s id="0">
+KANË	KANË	PROPN
+</s>
+<s id="1">
+MIRATUAR	MIRATUAR	PROPN
+KËTË	këtë	PRON
+DIREKTIVË	direktivë	NOUN
+:	:	PUNCT
+</s>
+<text id="14">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+1	1	NUM
+Direktiva	direktiva	NOUN
+95/18/	95/18/	NUM
+KE	ke	ADJ
+ndryshohet	ndryshohet	VERB
+si	si	ADV
+vijon	vijon	VERB
+:	:	PUNCT
+</s>
+<text id="15">
+<s id="0">
+1	1	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Neni	neni	PRON
+1	1	NUM
+zëvendësohet	zëvendësohet	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="16">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+1	1	NUM
+</s>
+<text id="17">
+<s id="0">
+1	1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kjo	kjo	PRON
+direktivë	direktivë	NOUN
+ka	ka	VERB
+lidhje	lidhje	NOUN
+me	I	ADP
+kriteret	kriteret	NOUN
+e	e	DET
+zbatueshme	zbatueshme	ADJ
+për	për	VERB
+dhënien	dhënien	VERB
+,	,	PUNCT
+rinovimin	rinovimin	NOUN
+ose	ose	CCONJ
+ndryshimin	ndryshimin	NOUN
+e	e	DET
+licencave	licencave	NOUN
+nga	non	ADP
+një	një	NUM
+Shtet	shtet	NOUN
+Anëtar	anëtar	NOUN
+për	për	ADP
+ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+që	që	PRON
+janë	janë	VERB
+krijuar	krijuar	VERB
+ose	ose	CCONJ
+do	do	PART
+të	të	DET
+krijohen	krijoh	VERB
+në	në	ADP
+Komunitet	komunitet	NOUN
+.	.	PUNCT
+</s>
+<text id="18">
+<s id="0">
+2	2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Shtetet	shtetet	NOUN
+Anëtare	anëtare	NOUN
+mund	mund	VERB
+të	të	DET
+përjashtojnë	përjashtojnë	VERB
+nga	non	ADP
+fusha	fusha	NOUN
+e	e	DET
+zbatimit	zbatimit	NOUN
+të	të	DET
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+:	:	PUNCT
+a	a	DET
+)	)	PUNCT
+Ndërmarrjet	ndërmarrjet	NOUN
+që	që	PRON
+kryejnë	kryejnë	VERB
+vetëm	vetëm	ADV
+shërbime	shërbime	NOUN
+hekurudhore	hekurudhore	ADJ
+të	të	DET
+pasagjerëve	pasagjerëve	NOUN
+në	në	ADP
+infrastrukturën	infrastrukturën	NOUN
+e	e	DET
+pavarur	pavarur	ADJ
+hekurudhore	hekurudhore	ADJ
+lokale	lokale	ADJ
+dhe	dhe	CCONJ
+rajonale	rajonale	ADJ
+;	;	PUNCT
+b	b	DET
+)	)	PUNCT
+Ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+që	që	PRON
+kryejnë	kryejnë	VERB
+vetëm	vetëm	ADV
+shërbime	shërbime	NOUN
+hekurudhore	hekurudhore	ADJ
+urbane	urbane	ADJ
+ose	ose	CCONJ
+lokale	lokale	ADJ
+për	për	ADP
+pasagjerë	pasagjerë	NOUN
+;	;	PUNCT
+c	c	DET
+)	)	PUNCT
+Ndërmarrjet	ndërmarrjet	NOUN
+hekurudhore	hekurudhore	ADJ
+,	,	PUNCT
+aktiviteti	aktiviteti	NOUN
+i	i	DET
+të	të	DET
+cilave	cilave	PRON
+kufizohet	kufizohet	VERB
+në	në	ADP
+ofrimin	ofrimin	NOUN
+e	e	DET
+shërbimeve	shërbimeve	NOUN
+rajonale	rajonale	ADJ
+të	të	DET
+ngarkesave	ngarkesave	NOUN
+të	të	DET
+mallrave	mallrave	NOUN
+me	I	ADP
+rrugë	rrugë	NOUN
+hekurudhore	hekurudhore	ADJ
+,	,	PUNCT
+që	që	PRON
+nuk	nuk	PART
+mbulohen	mbulohen	VERB
+nga	non	ADP
+fusha	fusha	NOUN
+e	e	DET
+zbatimit	zbatimit	NOUN
+të	të	DET
+Direktivës	direktive	NOUN
+91/440/	91/440/	NUM
+KEE	KEE	PROPN
+;	;	PUNCT
+d	d	DET
+)	)	PUNCT
+Ndërmarrjet	ndërmarrjet	NOUN
+që	që	PRON
+kryejnë	kryejnë	VERB
+vetëm	vetëm	ADV
+aktivitete	aktivitete	NOUN
+të	të	DET
+transportit	transportit	NOUN
+të	të	DET
+mallrave	mallrave	NOUN
+në	në	ADP
+infrastrukturën	infrastrukturën	NOUN
+hekurudhore	hekurudhore	ADJ
+private	private	ADJ
+që	që	PRON
+ekziston	ekziston	VERB
+vetëm	vetëm	ADV
+për	për	ADP
+përdorim	përdorim	NOUN
+nga	non	ADP
+pronari	pronari	NOUN
+i	i	DET
+infrastrukturës	infrastruktur	NOUN
+për	për	ADP
+aktivitetet	aktivitetet	NOUN
+e	e	DET
+tij	thij	PRON
+të	të	DET
+transportit	transportit	NOUN
+të	të	DET
+mallrave	mallrave	NOUN
+.	.	PUNCT
+</s>
+<text id="19">
+<s id="0">
+3	3	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Ndërmarrjet	ndërmarrjet	NOUN
+,	,	PUNCT
+aktiviteti	aktiviteti	NOUN
+i	i	DET
+të	të	DET
+cilave	cilave	PRON
+kufizohet	kufizohet	VERB
+në	në	ADP
+ofrimin	ofrimin	NOUN
+e	e	DET
+shërbimeve	shërbimeve	NOUN
+të	të	DET
+linjave	linjave	NOUN
+vajtje	vajtje	NOUN
+-	-	PUNCT
+ardhje	ardhje	NOUN
+për	për	ADP
+automjete	automjete	NOUN
+rrugore	rrugore	ADJ
+përmes	përmes	ADP
+Tunelit	tunelit	PRON
+të	të	DET
+Kanalit	Kanalit	PROPN
+,	,	PUNCT
+përjashtohen	pirjashtohen	VERB
+nga	non	ADP
+fusha	fusha	NOUN
+e	e	DET
+zbatimit	zbatimit	NOUN
+të	të	DET
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+.	.	PUNCT
+</s>
+<text id="20">
+<s id="0">
+2	2	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Neni	neni	NOUN
+2	2	NUM
+pika	pika	NOUN
+</s>
+<text id="21">
+<s id="0">
+(	(	PUNCT
+</s>
+<s id="1">
+a	a	DET
+)	)	PUNCT
+zëvendësohet	zëvendësohet	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="22">
+<s id="0">
+a	a	PRON
+</s>
+<s id="1">
+)	)	PUNCT
+ndërmarrje	ndërmarrje	NOUN
+hekurudhore	hekurudhore	ADJ
+nënkupton	npnkupton	VERB
+çdo	çdo	PRON
+ndërmarrje	ndërmarrje	NOUN
+publike	publike	ADJ
+ose	ose	CCONJ
+private	private	ADJ
+,	,	PUNCT
+aktiviteti	aktiviteti	NOUN
+kryesor	kryesor	ADJ
+i	i	DET
+të	të	DET
+cilës	cilës	PRON
+është	është	VERB
+të	të	DET
+ofrojë	ofrojë	VERB
+shërbime	shërbime	NOUN
+transporti	transporti	NOUN
+hekurudhor	hekurudhor	ADJ
+për	për	ADP
+mallrat	mallrat	NOUN
+dhe	dhe	CCONJ
+/	/	PART
+ose	ose	CCONJ
+pasagjerët	pasagjerët	NOUN
+,	,	PUNCT
+me	I	ADP
+kushtin	kushtin	NOUN
+që	që	PRON
+ndërmarrja	ndërmarrja	NOUN
+të	të	DET
+sigurojë	sigurojë	VERB
+mjet	mjet	NOUN
+hekurudhor	hekurudhor	NOUN
+tërheqës	tyrheqy	NOUN
+;	;	PUNCT
+kjo	kjo	PRON
+përfshin	përfshin	VERB
+gjithashtu	gjithashtu	ADV
+ndërmarrjet	ndërmarrjet	NOUN
+që	që	PRON
+sigurojnë	sigurojnë	VERB
+vetëm	vetëm	ADV
+mjet	mjet	NOUN
+hekurudhor	hekurudhor	ADJ
+tërheqës	tyrheqy	NOUN
+;	;	PUNCT
+</s>
+<text id="23">
+<s id="0">
+3	3	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Neni	neni	NOUN
+3	3	NUM
+zëvendësohet	zëvendësohet	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="24">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+3	3	NUM
+</s>
+<text id="25">
+<s id="0">
+Çdo	Çdo	PRON
+</s>
+<s id="1">
+Shtet	shtet	NOUN
+Anëtar	anëtar	NOUN
+cakton	cakton	VERB
+organin	organin	NOUN
+përgjegjës	pergjegj	NOUN
+për dhënien	pirpdhinien	NOUN
+e	e	DET
+licencave	licencave	NOUN
+dhe	dhe	CCONJ
+përmbushjen	pprmbushjen	NOUN
+e	e	DET
+detyrimeve	detyrimeve	NOUN
+të	të	DET
+vendosura	vendosura	ADJ
+nga	nga	VERB
+kjo	kjo	PRON
+direktivë	direktivë	NOUN
+.	.	PUNCT
+</s>
+<text id="26">
+<s id="0">
+Licencat	licencat	NOUN
+</s>
+<s id="1">
+jepen	jepe	VERB
+nga	nga	VERB
+një	një	NUM
+organ	organ	NOUN
+që	që	PRON
+nuk	nuk	PART
+ofron	ofron	VERB
+vetë	vetë	PRON
+shërbime	shërbime	NOUN
+transporti	transporti	NOUN
+hekurudhor	hekurudhor	ADJ
+,	,	PUNCT
+dhe	dhe	CCONJ
+është	është	VERB
+i	i	DET
+pavarur	pavarur	ADJ
+nga	non	ADP
+organet	organet	NOUN
+ose	ose	CCONJ
+ndërmarrjet	ndërmarrjet	NOUN
+që	që	PRON
+ofrojnë	ofrojn	VERB
+shërbime	shërbime	NOUN
+transporti	transporti	NOUN
+hekurudhor	hekurudhor	ADJ
+.	.	PUNCT
+</s>
+<text id="27">
+<s id="0">
+4	4	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Në	në	ADP
+nenin	nenin	VERB
+4	4	NUM
+shtohet	shtohet	VERB
+paragrafi	paragrafi	NOUN
+i	i	DET
+mëposhtëm	mëposhtëm	ADJ
+:	:	PUNCT
+</s>
+<text id="28">
+<s id="0">
+5	5	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Licenca	licenca	NOUN
+është	është	VERB
+e	e	DET
+vlefshme	vlefshme	ADJ
+në	në	ADP
+të	të	DET
+gjithë	gjithë	PRON
+territorin	territorin	NOUN
+e	e	DET
+Komunitetit	komunitetit	NOUN
+.	.	PUNCT
+</s>
+<text id="29">
+<s id="0">
+5	5	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Paragrafi	paragrafi	NOUN
+i	i	DET
+katërt	katërt	NUM
+i	i	DET
+nenit	nenit	NOUN
+6	6	NUM
+,	,	PUNCT
+zëvendësohet	zëvendësohet	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="30">
+<s id="0">
+është	është	VERB
+</s>
+<s id="1">
+/	/	SYM
+nuk	nuk	VERB
+është	është	VERB
+dënuar	dënuar	ADJ
+për	për	ADJ
+mospërmbushje	mospërmbushje	NOUN
+të	të	DET
+rënda	rënda	ADJ
+ose	ose	CCONJ
+të	të	DET
+përsëritura	përsëritura	ADJ
+të	të	DET
+detyrimeve	detyrimeve	NOUN
+që	që	PRON
+rrjedhin	rrjedhin	VERB
+nga	non	ADP
+legjislacioni	legjislacioni	NOUN
+social	social	ADJ
+ose	ose	CCONJ
+i	i	DET
+punës	pun	NOUN
+,	,	PUNCT
+përfshirë	përfshirë	ADJ
+edhe	edhe	CCONJ
+detyrimet	detyrimet	NOUN
+sipas	sipas	ADP
+legjislacionit	legjislacionit	NOUN
+shëndetësor	shëndetësor	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+sigurisë	sigurisë	NOUN
+në	në	ADP
+vendin	vendin	NOUN
+e	e	DET
+punës	pun	NOUN
+,	,	PUNCT
+dhe	dhe	CCONJ
+detyrimet	detyrimet	NOUN
+sipas	sipas	ADP
+legjislacionit	legjislacionit	NOUN
+doganor	doganor	ADJ
+,	,	PUNCT
+në	në	ADP
+rast	rast	NOUN
+të	të	DET
+një	një	NUM
+kompanie	kompanie	NOUN
+që	që	PRON
+kërkon	kërkon	VERB
+të	të	DET
+kryejë	kryejë	ADJ
+transport	transport	NOUN
+mallrash	mallrash	NOUN
+ndërkufitare	ndërkufitare	ADJ
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+procedurat	procedurat	NOUN
+doganore	doganore	ADJ
+;	;	PUNCT
+6	6	NUM
+)	)	PUNCT
+Neni	neni	NOUN
+11	11	NUM
+pika	pika	NOUN
+(	(	PUNCT
+8	8	NUM
+)	)	PUNCT
+zëvendësohet	zëvendësohet	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="31">
+<s id="0">
+8	8	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Kur	kur	CCONJ
+autoriteti	autoriteti	NOUN
+licencues	licencue	NOUN
+jep	jep	VERB
+,	,	PUNCT
+pezullon	pezullon	VERB
+,	,	PUNCT
+shfuqizon	shfuqizon	VERB
+ose	ose	CCONJ
+ndryshon	ndryshon	VERB
+një	një	NUM
+licencë	licencë	NOUN
+,	,	PUNCT
+Shteti	shteti	NOUN
+Anëtar	anëtar	NOUN
+përkatës	përkatës	ADJ
+informon	informon	VERB
+menjëherë	menjëherë	ADV
+Komisionin	Komisionin	PROPN
+në	në	ADV
+mënyrën	mënyrën	NOUN
+e	e	DET
+duhur	duhur	ADJ
+.	.	PUNCT
+</s>
+<text id="32">
+<s id="0">
+Komisioni	Komisioni	PROPN
+</s>
+<s id="1">
+informon	informon	VERB
+menjëherë	menjëherë	ADV
+Shtetet	shtetet	NOUN
+e	e	DET
+tjera	tjera	PRON
+Anëtare	anëtare	NOUN
+.	.	PUNCT
+</s>
+<text id="33">
+<s id="0">
+7	7	NUM
+</s>
+<s id="1">
+)	)	PUNCT
+Nenet	nenet	NOUN
+12	12	NUM
+dhe	dhe	CCONJ
+13	13	NUM
+zëvendësohen	zivendenohen	VERB
+si	si	ADV
+më	me	PART
+poshtë	poshtë	ADV
+:	:	PUNCT
+</s>
+<text id="34">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+12	12	NUM
+</s>
+<text id="35">
+<s id="0">
+1	1	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Përveç	përveç	CCONJ
+kërkesave	kërkesave	NOUN
+të	të	DET
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+,	,	PUNCT
+ndërmarrja	ndërmarrja	NOUN
+hekurudhore	hekurudhore	ADJ
+respekton	respekton	VERB
+edhe	edhe	CCONJ
+dispozitat	dispozitat	NOUN
+e	e	DET
+së	së	DET
+drejtës	drejt	NOUN
+kombëtare	kombëtare	ADJ
+miratuar	miratuar	ADJ
+në	në	ADP
+përputhje	përputhje	NOUN
+me	I	ADP
+të	të	DET
+drejtën	drejtën	NOUN
+Komunitare	komunitare	ADJ
+,	,	PUNCT
+dhe	dhe	CCONJ
+zbaton	zbaton	VERB
+në	në	ADP
+mënyrë	mënyrë	NOUN
+jodiskriminuese	jodiskriminuese	ADJ
+,	,	PUNCT
+në	në	ADP
+veçanti	veçanti	ADV
+:	:	PUNCT
+a	a	DET
+)	)	PUNCT
+Kërkesat	kërkesat	NOUN
+specifike	specifike	ADJ
+teknike	teknike	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+ushtrimit	ushtrimit	NOUN
+të	të	DET
+aktivitetit	aktivitetit	NOUN
+për	për	ADP
+shërbimet	shërbimet	NOUN
+hekurudhore	hekurudhore	ADJ
+;	;	PUNCT
+b	b	DET
+)	)	PUNCT
+Kërkesat	kërkesat	NOUN
+e	e	DET
+sigurisë	sigurisë	NOUN
+që	që	SCONJ
+zbatohen	zbatohen	VERB
+për	për	ADP
+personelin	personelin	NOUN
+,	,	PUNCT
+mjetet	mjetet	NOUN
+hekurudhore	hekurudhore	ADJ
+dhe	dhe	CCONJ
+organizimin	organizimin	NOUN
+e	e	DET
+brendshëm	brendshëm	ADJ
+të	të	DET
+ndërmarrjes	ndermarrj	NOUN
+;	;	PUNCT
+c	c	DET
+)	)	PUNCT
+Dispozitat	dispozitat	NOUN
+mbi	mbi	ADP
+shëndetin	shëndetin	NOUN
+,	,	PUNCT
+sigurinë	sigurinë	NOUN
+,	,	PUNCT
+kushtet	kushtet	NOUN
+sociale	sociale	ADJ
+dhe	dhe	CCONJ
+të	të	DET
+drejtat	drejtat	NOUN
+e	e	DET
+punëtorëve	punëtorëve	NOUN
+dhe	dhe	CCONJ
+konsumatorëve	konsumatorëve	NOUN
+;	;	PUNCT
+d	d	DET
+)	)	PUNCT
+Kërkesat	kërkesat	NOUN
+që	që	SCONJ
+zbatohen	zbatohen	VERB
+për	për	ADP
+të	të	DET
+gjitha	gjitha	PRON
+ndërmarrjet	ndërmarrjet	NOUN
+në	në	ADP
+sektorin	sektorin	NOUN
+përkatës	përkatës	ADJ
+hekurudhor	hekurudhor	ADJ
+,	,	PUNCT
+që	që	PRON
+synojnë	synojnë	VERB
+të	të	DET
+ofrojnë	ofrojn	VERB
+përfitime	përfitime	NOUN
+për	për	ADP
+ose	ose	CCONJ
+mbrojtje	mbrojtje	NOUN
+të	të	DET
+konsumatorëve	konsumatorëve	NOUN
+.	.	PUNCT
+</s>
+<text id="36">
+<s id="0">
+2	2	NUM
+</s>
+<s id="1">
+.	.	PUNCT
+Ndërmarrja	ndërmarrja	NOUN
+hekurudhore	hekurudhore	ADJ
+mund	mund	VERB
+t'i	t'i	DET
+referojë	referojë	VERB
+në	në	ADP
+çdo	çdo	ADV
+kohë	kohë	NOUN
+Komisioni	komisioni	NOUN
+t	t	DET
+çështjen	mishtjen	NOUN
+e	e	DET
+përputhshmërisë	përputhshmërisë	ADJ
+së	së	DET
+kërkesave	kërkesave	NOUN
+të	të	DET
+legjislacionit	legjislacionit	NOUN
+kombëtar	kombëtar	ADJ
+me	I	ADP
+atë	atë	PRON
+Komunitar	komunitar	ADJ
+,	,	PUNCT
+dhe	dhe	CCONJ
+gjithashtu	gjithashtu	ADV
+çështjen	mishtjen	NOUN
+,	,	PUNCT
+nëse	nëse	CCONJ
+këto	këto	PRON
+kërkesa	kërkesa	NOUN
+zbatohen	zbatohen	VERB
+në	në	ADP
+mënyrë	mënyrë	NOUN
+jodiskriminuese	jodiskriminuese	ADJ
+.	.	PUNCT
+</s>
+<text id="37">
+<s id="0">
+Nëse	nëse	CCONJ
+</s>
+<s id="1">
+Komisioni	Komisioni	PROPN
+çmon	çmon	VERB
+se	se	CCONJ
+dispozitat	dispozitat	NOUN
+e	e	DET
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+nuk	nuk	VERB
+janë	janë	VERB
+respektuar	respektuar	VERB
+,	,	PUNCT
+jep	jep	VERB
+mendim	mendim	NOUN
+në	në	ADP
+lidhje	lidhje	NOUN
+me	I	ADP
+interpretimin	interpretimin	NOUN
+e	e	DET
+saktë	saktë	ADJ
+të	të	DET
+direktivës	direktive	NOUN
+pa	pe	VERB
+cenuar	cenuar	VERB
+nenin	nenin	NOUN
+226	226	NUM
+të	të	DET
+Traktatit	traktatit	NOUN
+.	.	PUNCT
+</s>
+<text id="38">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+13	13	NUM
+Ndërmarrja	ndërmarrja	NOUN
+hekurudhore	hekurudhore	ADJ
+respekton	respekton	VERB
+marrëveshjet	marrëveshjet	NOUN
+në	në	ADP
+fuqi	fuqi	NOUN
+për	për	ADP
+transportin	transportin	NOUN
+hekurudhor	hekurudhor	ADJ
+ndërkombëtar	ndërkombëtar	ADJ
+në	në	ADP
+Shtetet	Shtetet	PROPN
+Anëtare	Anëtare	PROPN
+në	në	ADP
+të	të	DET
+cilat	cilat	PRON
+kryen	kry	VERB
+aktivitetin	aktivitetin	NOUN
+.	.	PUNCT
+</s>
+<text id="39">
+<s id="0">
+Ato	ato	PRON
+</s>
+<s id="1">
+respektojnë	respektojn	VERB
+gjithashtu	gjithashtu	ADV
+dispozitat	dispozitat	NOUN
+përkatëse	përkatëse	ADJ
+tatimore	tatimore	ADJ
+dhe	dhe	CCONJ
+doganore	doganore	ADJ
+.	.	PUNCT
+</s>
+<text id="40">
+<s id="0">
+Neni	neni	NOUN
+</s>
+<s id="1">
+2	2	NUM
+</s>
+<text id="41">
+<s id="0">
+Shtetet	Shtetet	PROPN
+</s>
+<s id="1">
+Anëtare	Anëtare	PROPN
+miratojnë	miratojnë	VERB
+ligjet	ligjet	NOUN
+,	,	PUNCT
+rregulloret	rregulloret	NOUN
+dhe	dhe	CCONJ
+dispozitat	dispozitat	NOUN
+administrative	administrative	ADJ
+,	,	PUNCT
+të	të	DET
+nevojshme	nevojshme	ADJ
+në	në	ADP
+zbatim	zbatim	NOUN
+të	të	DET
+direktivës	direktive	NOUN
+,	,	PUNCT
+deri	deriug	ADP
+në	në	ADP
+datën	datën	NOUN
+15	15	NUM
+mars	mar	NOUN
+2003	2003	NUM
+.	.	PUNCT
+</s>
+<text id="42">
+<s id="0">
+Ata	ata	PRON
+</s>
+<s id="1">
+informojnë	informojn	VERB
+menjëherë	menjëherë	ADV
+Komisioni	Komisioni	PROPN
+n	and	PROPN
+në	në	ADP
+lidhje	lidhje	NOUN
+me	I	ADP
+këtë	këtë	PRON
+.	.	PUNCT
+</s>
+<text id="43">
+<s id="0">
+Kur	kur	CCONJ
+</s>
+<s id="1">
+Shtetet	shtetet	NOUN
+Anëtare	anëtare	NOUN
+miratojnë	miratojnë	VERB
+këto	këto	PRON
+dispozita	dispozita	NOUN
+,	,	PUNCT
+ato	ato	PRON
+i	i	DET
+referohen	referohen	VERB
+kësaj	kësaj	PRON
+direktive	direktive	NOUN
+ose	ose	CCONJ
+i	i	DET
+shoqërojnë	shoqërojnë	VERB
+këto	këto	PRON
+dispozita	dispozita	NOUN
+me	I	PRON
+një	një	NUM
+referencë	referencë	NOUN
+të	të	DET
+botimit	botimit	NOUN
+të	të	DET
+direktivës	direktive	NOUN
+në	në	ADP
+Gazetën	gazetën	NOUN
+Zyrtare	Zyrtare	PROPN
+.	.	PUNCT
+</s>
+<text id="44">
+<s id="0">
+Metodat	metodat	NOUN
+</s>
+<s id="1">
+për	për	ADP
+të	të	DET
+bërë	bërë	VERB
+një	një	NUM
+referencë	referencë	NOUN
+të	të	DET
+tillë	tillë	PRON
+përcaktohen	pprcaktohen	VERB
+nga	non	ADP
+vetë	vetë	PRON
+Shtetet	shtetet	NOUN
+Anëtare	anëtare	NOUN
+.	.	PUNCT
+</s>

@@ -1,0 +1,6 @@
+Tokens annotated with these attributes:
+
+    word
+    lowercase lemma
+    part of speech
+
